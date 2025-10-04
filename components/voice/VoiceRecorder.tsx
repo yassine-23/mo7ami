@@ -1,148 +1,222 @@
 "use client";
 
-import { useState, useRef, useEffect } from "react";
-import { Mic, Square, Loader2, X } from "lucide-react";
+import { useState, useRef, useEffect, useCallback } from "react";
+import { Mic, X, ChevronUp, Loader2 } from "lucide-react";
 import { cn } from "@/lib/utils/cn";
 import type { Language } from "@/lib/utils/language";
-import axios from "axios";
 
 interface VoiceRecorderProps {
   onTranscript: (text: string) => void;
-  onCancel: () => void;
   language: Language;
+  disabled?: boolean;
 }
 
-export function VoiceRecorder({
-  onTranscript,
-  onCancel,
-  language,
-}: VoiceRecorderProps) {
+export function VoiceRecorder({ onTranscript, language, disabled = false }: VoiceRecorderProps) {
   const [isRecording, setIsRecording] = useState(false);
   const [isProcessing, setIsProcessing] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+  const [isTouching, setIsTouching] = useState(false);
+  const [slideOffset, setSlideOffset] = useState(0);
   const [recordingTime, setRecordingTime] = useState(0);
+  const [error, setError] = useState<string | null>(null);
+  const [volume, setVolume] = useState(0);
 
+  const buttonRef = useRef<HTMLButtonElement>(null);
+  const touchStartYRef = useRef(0);
   const mediaRecorderRef = useRef<MediaRecorder | null>(null);
-  const chunksRef = useRef<Blob[]>([]);
+  const audioChunksRef = useRef<Blob[]>([]);
+  const streamRef = useRef<MediaStream | null>(null);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
+  const audioContextRef = useRef<AudioContext | null>(null);
+  const analyserRef = useRef<AnalyserNode | null>(null);
+  const animationFrameRef = useRef<number | null>(null);
+
   const isArabic = language === "ar";
+  const CANCEL_THRESHOLD = 100;
 
-  useEffect(() => {
-    startRecording();
-    return () => {
-      stopRecording();
-      if (timerRef.current) {
-        clearInterval(timerRef.current);
-      }
-    };
-  }, []);
-
-  const startRecording = async () => {
+  const startRecording = useCallback(async () => {
     try {
-      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
-      const mediaRecorder = new MediaRecorder(stream);
+      setError(null);
+      audioChunksRef.current = [];
+
+      const stream = await navigator.mediaDevices.getUserMedia({
+        audio: {
+          channelCount: 1,
+          sampleRate: 24000,
+          echoCancellation: true,
+          noiseSuppression: true,
+          autoGainControl: true,
+        },
+      });
+
+      streamRef.current = stream;
+
+      const audioContext = new AudioContext();
+      const analyser = audioContext.createAnalyser();
+      const microphone = audioContext.createMediaStreamSource(stream);
+      analyser.fftSize = 256;
+      microphone.connect(analyser);
+      audioContextRef.current = audioContext;
+      analyserRef.current = analyser;
+
+      const visualize = () => {
+        if (!analyserRef.current) return;
+        const dataArray = new Uint8Array(analyserRef.current.frequencyBinCount);
+        analyserRef.current.getByteFrequencyData(dataArray);
+        const average = dataArray.reduce((a, b) => a + b) / dataArray.length;
+        setVolume(average / 255);
+        animationFrameRef.current = requestAnimationFrame(visualize);
+      };
+      visualize();
+
+      const types = ["audio/webm;codecs=opus", "audio/webm", "audio/mp4"];
+      const mimeType = types.find(t => MediaRecorder.isTypeSupported(t)) || "audio/webm";
+
+      const mediaRecorder = new MediaRecorder(stream, { mimeType });
       mediaRecorderRef.current = mediaRecorder;
-      chunksRef.current = [];
 
       mediaRecorder.ondataavailable = (event) => {
-        if (event.data.size > 0) {
-          chunksRef.current.push(event.data);
-        }
+        if (event.data.size > 0) audioChunksRef.current.push(event.data);
       };
 
       mediaRecorder.onstop = async () => {
-        // Stop all tracks
-        stream.getTracks().forEach((track) => track.stop());
-
-        // Process the recording
-        if (chunksRef.current.length > 0) {
-          await processRecording();
-        }
+        const audioBlob = new Blob(audioChunksRef.current, { type: mimeType });
+        if (audioBlob.size > 0) await processAudio(audioBlob);
+        cleanup();
       };
 
       mediaRecorder.start();
       setIsRecording(true);
 
-      // Start timer
+      let seconds = 0;
       timerRef.current = setInterval(() => {
-        setRecordingTime((prev) => prev + 1);
+        seconds++;
+        setRecordingTime(seconds);
       }, 1000);
-    } catch (err) {
-      console.error("Error accessing microphone:", err);
-      setError(
-        isArabic
-          ? "تعذر الوصول إلى الميكروفون"
-          : "Impossible d'accéder au microphone"
-      );
+    } catch (err: any) {
+      console.error("Microphone error:", err);
+      if (err instanceof DOMException) {
+        switch (err.name) {
+          case "NotAllowedError":
+            setError(isArabic ? "تم رفض إذن الميكروفون" : "Permission micro refusée");
+            break;
+          case "NotFoundError":
+            setError(isArabic ? "لم يتم العثور على ميكروفون" : "Aucun microphone trouvé");
+            break;
+          case "NotReadableError":
+            setError(isArabic ? "الميكروفون قيد الاستخدام" : "Microphone déjà utilisé");
+            break;
+          default:
+            setError(isArabic ? "خطأ في الوصول إلى الميكروفون" : "Erreur d'accès au micro");
+        }
+      }
+      cleanup();
     }
-  };
+  }, [language, isArabic]);
 
-  const stopRecording = () => {
+  const stopRecording = useCallback(() => {
     if (mediaRecorderRef.current && isRecording) {
       mediaRecorderRef.current.stop();
       setIsRecording(false);
-      if (timerRef.current) {
-        clearInterval(timerRef.current);
-      }
     }
-  };
+  }, [isRecording]);
 
-  const processRecording = async () => {
+  const cancelRecording = useCallback(() => {
+    audioChunksRef.current = [];
+    if (mediaRecorderRef.current && isRecording) {
+      mediaRecorderRef.current.stop();
+      setIsRecording(false);
+    }
+    cleanup();
+  }, [isRecording]);
+
+  const processAudio = async (audioBlob: Blob) => {
     setIsProcessing(true);
-
     try {
-      // Create audio blob
-      const audioBlob = new Blob(chunksRef.current, { type: "audio/webm" });
-
-      // Send to backend for transcription
       const formData = new FormData();
-      formData.append("file", audioBlob, "recording.webm");
+      formData.append("file", audioBlob, "audio.webm");
       formData.append("language", language);
 
-      const response = await axios.post(
-        `${process.env.NEXT_PUBLIC_API_URL}/api/v1/voice/transcribe`,
-        formData,
-        {
-          headers: {
-            "Content-Type": "multipart/form-data",
-          },
-        }
-      );
+      const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/v1/voice/transcribe`, {
+        method: "POST",
+        body: formData,
+      });
 
-      const { text } = response.data;
+      if (!response.ok) throw new Error("Transcription failed");
 
-      if (text) {
-        onTranscript(text);
+      const data = await response.json();
+      if (data.text && data.text.trim()) {
+        onTranscript(data.text.trim());
       } else {
-        throw new Error("No transcription received");
+        setError(isArabic ? "لم يتم التعرف على الصوت" : "Aucun son détecté");
       }
     } catch (err) {
       console.error("Transcription error:", err);
-      setError(
-        isArabic
-          ? "فشل تحويل الصوت إلى نص"
-          : "Échec de la transcription"
-      );
+      setError(isArabic ? "فشل التعرف على الصوت. حاول مرة أخرى." : "Échec de la transcription. Réessayez.");
     } finally {
       setIsProcessing(false);
     }
   };
 
-  const handleStop = () => {
-    stopRecording();
-  };
-
-  const handleCancel = () => {
-    if (mediaRecorderRef.current && isRecording) {
-      mediaRecorderRef.current.stop();
-      const stream = mediaRecorderRef.current.stream;
-      stream.getTracks().forEach((track) => track.stop());
+  const cleanup = () => {
+    if (streamRef.current) {
+      streamRef.current.getTracks().forEach(track => track.stop());
+      streamRef.current = null;
     }
     if (timerRef.current) {
       clearInterval(timerRef.current);
+      timerRef.current = null;
     }
-    onCancel();
+    if (animationFrameRef.current) {
+      cancelAnimationFrame(animationFrameRef.current);
+      animationFrameRef.current = null;
+    }
+    if (audioContextRef.current) {
+      audioContextRef.current.close();
+      audioContextRef.current = null;
+    }
+    setRecordingTime(0);
+    setVolume(0);
+    setSlideOffset(0);
   };
+
+  const handleTouchStart = useCallback((e: React.TouchEvent) => {
+    if (disabled || isProcessing) return;
+    e.preventDefault();
+    touchStartYRef.current = e.touches[0].clientY;
+    setIsTouching(true);
+    startRecording();
+  }, [disabled, isProcessing, startRecording]);
+
+  const handleTouchMove = useCallback((e: React.TouchEvent) => {
+    if (!isTouching) return;
+    const deltaY = touchStartYRef.current - e.touches[0].clientY;
+    if (deltaY > 0) setSlideOffset(Math.min(deltaY, 150));
+  }, [isTouching]);
+
+  const handleTouchEnd = useCallback(() => {
+    if (!isTouching) return;
+    setIsTouching(false);
+    if (slideOffset >= CANCEL_THRESHOLD) {
+      cancelRecording();
+    } else {
+      stopRecording();
+    }
+    setSlideOffset(0);
+  }, [isTouching, slideOffset, cancelRecording, stopRecording]);
+
+  const handleMouseDown = useCallback((e: React.MouseEvent) => {
+    if (disabled || isProcessing) return;
+    e.preventDefault();
+    touchStartYRef.current = e.clientY;
+    setIsTouching(true);
+    startRecording();
+  }, [disabled, isProcessing, startRecording]);
+
+  const handleMouseUp = useCallback(() => {
+    if (!isTouching) return;
+    setIsTouching(false);
+    stopRecording();
+  }, [isTouching, stopRecording]);
 
   const formatTime = (seconds: number) => {
     const mins = Math.floor(seconds / 60);
@@ -150,83 +224,80 @@ export function VoiceRecorder({
     return `${mins}:${secs.toString().padStart(2, "0")}`;
   };
 
-  if (error) {
-    return (
-      <div className="text-center py-8">
-        <div className="w-16 h-16 rounded-full bg-red-100 flex items-center justify-center mx-auto mb-4">
-          <X className="w-8 h-8 text-red-600" />
-        </div>
-        <p className={cn("text-red-600 mb-4", isArabic && "font-arabic")}>
-          {error}
-        </p>
-        <button
-          onClick={handleCancel}
-          className="px-4 py-2 bg-gray-200 hover:bg-gray-300 rounded-lg transition-colors"
-        >
-          {isArabic ? "إغلاق" : "Fermer"}
-        </button>
-      </div>
-    );
-  }
-
-  if (isProcessing) {
-    return (
-      <div className="text-center py-8">
-        <Loader2 className="w-12 h-12 text-primary-600 animate-spin mx-auto mb-4" />
-        <p className={cn("text-gray-700", isArabic && "font-arabic")}>
-          {isArabic
-            ? "جاري تحويل الصوت إلى نص..."
-            : "Transcription en cours..."}
-        </p>
-      </div>
-    );
-  }
+  useEffect(() => {
+    return () => {
+      cleanup();
+      if (mediaRecorderRef.current && isRecording) {
+        mediaRecorderRef.current.stop();
+      }
+    };
+  }, []);
 
   return (
-    <div className="text-center py-8">
-      {/* Recording indicator */}
-      <div className="relative mb-6">
-        <div className="w-24 h-24 rounded-full bg-red-500 flex items-center justify-center mx-auto recording-pulse">
-          <Mic className="w-12 h-12 text-white" />
+    <div className="relative">
+      <button
+        ref={buttonRef}
+        onTouchStart={handleTouchStart}
+        onTouchMove={handleTouchMove}
+        onTouchEnd={handleTouchEnd}
+        onMouseDown={handleMouseDown}
+        onMouseUp={handleMouseUp}
+        disabled={disabled || isProcessing}
+        className={cn(
+          "p-3 rounded-full transition-all duration-200 touch-none",
+          isRecording ? "bg-red-500 scale-110" : isProcessing ? "bg-gray-400" : "bg-teal-600 hover:bg-teal-700 active:scale-95",
+          disabled && "opacity-50 cursor-not-allowed"
+        )}
+        title={isArabic ? "اضغط مع الاستمرار للتسجيل" : "Maintenez pour enregistrer"}
+      >
+        {isProcessing ? (
+          <Loader2 className="w-5 h-5 text-white animate-spin" />
+        ) : (
+          <Mic className="w-5 h-5 text-white" />
+        )}
+      </button>
+
+      {isRecording && (
+        <div className="fixed inset-0 bg-black/50 z-50 flex items-end justify-center">
+          <div className="bg-white rounded-t-3xl w-full max-w-md p-6 pb-8">
+            <div className={cn("text-center mb-4 transition-opacity", slideOffset >= CANCEL_THRESHOLD ? "opacity-100" : "opacity-60")}>
+              <ChevronUp className="w-8 h-8 mx-auto text-red-500 animate-bounce" />
+              <p className="text-sm text-red-500 font-medium">
+                {isArabic ? "اسحب لأعلى للإلغاء" : "Glissez pour annuler"}
+              </p>
+            </div>
+            <div className="flex flex-col items-center gap-4">
+              <div className="relative" style={{ transform: `translateY(-${slideOffset}px) scale(${1 + volume * 0.3})`, transition: "transform 0.1s" }}>
+                <div className="w-20 h-20 rounded-full bg-red-500 flex items-center justify-center">
+                  <Mic className="w-10 h-10 text-white" />
+                </div>
+                <div className="absolute inset-0 rounded-full bg-red-500/30 animate-ping" style={{ animationDuration: "1.5s" }} />
+              </div>
+              <div className="text-3xl font-mono font-bold text-gray-800">{formatTime(recordingTime)}</div>
+              <div className="flex items-center gap-1 h-8">
+                {[...Array(20)].map((_, i) => (
+                  <div key={i} className="w-1 bg-teal-500 rounded-full transition-all duration-100" style={{ height: `${Math.random() * volume * 100 < (i + 1) * 5 ? 8 + Math.random() * 24 : 4}px` }} />
+                ))}
+              </div>
+              <p className="text-sm text-gray-500 text-center">
+                {isArabic ? "ارفع إصبعك لإرسال التسجيل" : "Relâchez pour envoyer"}
+              </p>
+            </div>
+          </div>
         </div>
-        {/* Pulse rings */}
-        <div className="absolute inset-0 flex items-center justify-center">
-          <div className="w-32 h-32 rounded-full border-4 border-red-500 opacity-50 animate-ping" />
+      )}
+
+      {error && (
+        <div className="fixed bottom-4 left-1/2 transform -translate-x-1/2 z-50 animate-fade-in">
+          <div className="bg-red-500 text-white px-6 py-3 rounded-lg shadow-lg flex items-center gap-3">
+            <X className="w-5 h-5" />
+            <span>{error}</span>
+            <button onClick={() => setError(null)} className="ml-2 hover:opacity-80">
+              <X className="w-4 h-4" />
+            </button>
+          </div>
         </div>
-      </div>
-
-      {/* Recording time */}
-      <div className="text-3xl font-mono font-bold text-gray-900 mb-2">
-        {formatTime(recordingTime)}
-      </div>
-
-      <p className={cn("text-gray-600 mb-6", isArabic && "font-arabic")}>
-        {isArabic ? "جاري التسجيل..." : "Enregistrement en cours..."}
-      </p>
-
-      {/* Action buttons */}
-      <div className="flex items-center justify-center gap-4">
-        <button
-          onClick={handleCancel}
-          className="px-6 py-3 bg-gray-200 hover:bg-gray-300 rounded-lg transition-colors font-medium"
-        >
-          {isArabic ? "إلغاء" : "Annuler"}
-        </button>
-        <button
-          onClick={handleStop}
-          className="px-6 py-3 bg-red-600 hover:bg-red-700 text-white rounded-lg transition-colors font-medium flex items-center gap-2"
-        >
-          <Square className="w-5 h-5" />
-          {isArabic ? "إيقاف" : "Arrêter"}
-        </button>
-      </div>
-
-      {/* Hint */}
-      <p className="text-xs text-gray-500 mt-6">
-        {isArabic
-          ? "تحدث بوضوح للحصول على أفضل النتائج"
-          : "Parlez clairement pour de meilleurs résultats"}
-      </p>
+      )}
     </div>
   );
 }

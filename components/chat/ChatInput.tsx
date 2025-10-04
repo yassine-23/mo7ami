@@ -20,7 +20,6 @@ export function ChatInput({
   disabled = false,
 }: ChatInputProps) {
   const [message, setMessage] = useState("");
-  const [isRecording, setIsRecording] = useState(false);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
   const isArabic = language === "ar";
 
@@ -54,12 +53,7 @@ export function ChatInput({
     }
   };
 
-  const handleVoiceStart = () => {
-    setIsRecording(true);
-  };
-
-  const handleVoiceEnd = (transcript: string) => {
-    setIsRecording(false);
+  const handleVoiceTranscript = (transcript: string) => {
     if (transcript) {
       onVoiceInput(transcript);
     }
@@ -71,24 +65,13 @@ export function ChatInput({
 
   return (
     <div className="relative">
-      {/* Voice recording overlay */}
-      {isRecording && (
-        <div className="absolute inset-0 bg-white rounded-2xl flex items-center justify-center z-10">
-          <VoiceRecorder
-            onTranscript={handleVoiceEnd}
-            language={language}
-            onCancel={() => setIsRecording(false)}
-          />
-        </div>
-      )}
-
       {/* Text input */}
       <div
         className={cn(
           "flex items-end gap-1 sm:gap-2 p-2 sm:p-3 bg-white border-2 rounded-2xl transition-colors",
           disabled
             ? "border-gray-200 opacity-50"
-            : "border-gray-300 focus-within:border-primary-500"
+            : "border-gray-300 focus-within:border-teal-500"
         )}
       >
         {/* Textarea */}
@@ -98,7 +81,7 @@ export function ChatInput({
           onChange={handleInput}
           onKeyDown={handleKeyDown}
           placeholder={placeholder}
-          disabled={disabled || isRecording}
+          disabled={disabled}
           rows={1}
           dir={isArabic ? "rtl" : "ltr"}
           className={cn(
@@ -110,23 +93,12 @@ export function ChatInput({
 
         {/* Action buttons */}
         <div className="flex items-center gap-1">
-          {/* Voice button */}
-          <button
-            type="button"
-            onClick={handleVoiceStart}
+          {/* Voice button - WhatsApp style */}
+          <VoiceRecorder
+            onTranscript={handleVoiceTranscript}
+            language={language}
             disabled={disabled}
-            className={cn(
-              "p-2 sm:p-2.5 rounded-full transition-colors",
-              disabled
-                ? "text-gray-400 cursor-not-allowed"
-                : "text-gray-600 hover:bg-gray-100 hover:text-primary-600 active:scale-95"
-            )}
-            title={
-              isArabic ? "التسجيل الصوتي" : "Enregistrement vocal"
-            }
-          >
-            <Mic className="w-5 h-5 sm:w-6 sm:h-6" />
-          </button>
+          />
 
           {/* Send button */}
           <button
@@ -137,7 +109,7 @@ export function ChatInput({
               "p-2 sm:p-2.5 rounded-full transition-all active:scale-95",
               disabled || !message.trim()
                 ? "bg-gray-200 text-gray-400 cursor-not-allowed"
-                : "bg-primary-600 text-white hover:bg-primary-700 shadow-lg"
+                : "bg-teal-600 text-white hover:bg-teal-700 shadow-lg"
             )}
             title={isArabic ? "إرسال" : "Envoyer"}
           >
