@@ -106,26 +106,18 @@ export default function ChatPage() {
 
   return (
     <div className="flex h-screen bg-gray-50" dir={direction}>
-      {/* Sidebar for conversation history */}
-      <ChatSidebar
-        isOpen={isSidebarOpen}
-        onClose={() => setIsSidebarOpen(false)}
-        language={language}
-        messages={messages}
-        onNewChat={() => {
-          setMessages([]);
-          setIsSidebarOpen(false);
-        }}
-        isCollapsed={isSidebarCollapsed}
-        onToggleCollapse={() => setIsSidebarCollapsed(!isSidebarCollapsed)}
-      />
-
       {/* Main chat area */}
       <div className="flex-1 flex flex-col">
         {/* Header */}
         <ChatHeader
-          onMenuClick={() => setIsSidebarOpen(!isSidebarOpen)}
+          onHistoryClick={() => setIsSidebarOpen(!isSidebarOpen)}
           language={language}
+          messages={messages}
+          onNewChat={() => {
+            setMessages([]);
+            setIsSidebarOpen(false);
+          }}
+          showHistory={isSidebarOpen}
         />
 
         {/* Messages area */}
