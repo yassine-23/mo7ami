@@ -44,14 +44,14 @@ export function AudioPlayer({
     setError(null);
 
     try {
-      // Request TTS from backend
+      // Request TTS from backend with faster speed
       const response = await axios.post(
         `${process.env.NEXT_PUBLIC_API_URL}/api/v1/voice/synthesize`,
         {
           text,
           language,
           voice: "female",
-          speed: 1.0,
+          speed: 1.25, // 25% faster for quicker responses
         },
         {
           responseType: "blob",

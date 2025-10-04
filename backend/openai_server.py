@@ -302,13 +302,107 @@ class OpenAIHandler(BaseHTTPRequestHandler):
                 }
                 self.wfile.write(json.dumps(error_response, ensure_ascii=False).encode('utf-8'))
 
+        # STT endpoint with OpenAI Whisper
+        elif parsed_path.path == '/api/v1/voice/transcribe':
+            try:
+                # Parse multipart form data
+                content_type = self.headers.get('Content-Type', '')
+                if 'multipart/form-data' not in content_type:
+                    raise Exception("Content-Type must be multipart/form-data")
+
+                # Get boundary from content-type
+                boundary = content_type.split('boundary=')[1].encode()
+
+                # Read the body
+                content_length = int(self.headers.get('Content-Length', 0))
+                body = self.rfile.read(content_length)
+
+                # Parse multipart data (simple implementation)
+                parts = body.split(b'--' + boundary)
+                audio_data = None
+                language = 'ar'
+
+                for part in parts:
+                    if b'name="file"' in part:
+                        # Extract audio file content
+                        audio_start = part.find(b'\r\n\r\n') + 4
+                        audio_data = part[audio_start:].rstrip(b'\r\n')
+                    elif b'name="language"' in part:
+                        # Extract language
+                        lang_start = part.find(b'\r\n\r\n') + 4
+                        language = part[lang_start:].rstrip(b'\r\n').decode('utf-8')
+
+                if not audio_data:
+                    raise Exception("No audio file provided")
+
+                print(f"🎤 STT request (lang: {language}, size: {len(audio_data)} bytes)")
+
+                # Save audio temporarily
+                import tempfile
+                with tempfile.NamedTemporaryFile(delete=False, suffix='.webm') as temp_file:
+                    temp_file.write(audio_data)
+                    temp_path = temp_file.name
+
+                # Call OpenAI Whisper API
+                headers = {
+                    'Authorization': f'Bearer {OPENAI_API_KEY}',
+                }
+
+                with open(temp_path, 'rb') as audio_file:
+                    files = {
+                        'file': ('audio.webm', audio_file, 'audio/webm'),
+                        'model': (None, 'whisper-1'),
+                        'language': (None, 'ar' if language == 'ar' else 'fr'),
+                    }
+
+                    response = requests.post(
+                        'https://api.openai.com/v1/audio/transcriptions',
+                        headers=headers,
+                        files=files,
+                        timeout=30
+                    )
+
+                # Clean up temp file
+                import os
+                os.unlink(temp_path)
+
+                if response.status_code == 200:
+                    result = response.json()
+                    transcribed_text = result.get('text', '')
+
+                    self.send_response(200)
+                    self._send_cors_headers()
+                    self.end_headers()
+
+                    response_data = {
+                        'text': transcribed_text,
+                        'language': language
+                    }
+
+                    self.wfile.write(json.dumps(response_data, ensure_ascii=False).encode('utf-8'))
+                    print(f"✅ STT completed: {transcribed_text[:50]}...")
+                else:
+                    raise Exception(f"OpenAI Whisper error: {response.status_code} - {response.text}")
+
+            except Exception as e:
+                print(f"❌ STT Error: {e}")
+                self.send_response(500)
+                self._send_cors_headers()
+                self.end_headers()
+                error_response = {
+                    'error': str(e),
+                    'text': ''
+                }
+                self.wfile.write(json.dumps(error_response, ensure_ascii=False).encode('utf-8'))
+
         # TTS endpoint with OpenAI
         elif parsed_path.path == '/api/v1/voice/synthesize':
             text = data.get('text', '')
             language = data.get('language', 'ar')
+            speed = data.get('speed', 1.25)  # Default faster speed: 1.25x
             voice = 'alloy'  # Using alloy voice which works well for multiple languages
 
-            print(f"🔊 TTS request: {text[:50]}... (lang: {language})")
+            print(f"🔊 TTS request: {text[:50]}... (lang: {language}, speed: {speed}x)")
 
             try:
                 headers = {
@@ -320,7 +414,8 @@ class OpenAIHandler(BaseHTTPRequestHandler):
                     'model': 'tts-1',
                     'input': text,
                     'voice': voice,
-                    'response_format': 'mp3'
+                    'response_format': 'mp3',
+                    'speed': speed  # Add speed control (0.25 to 4.0)
                 }
 
                 response = requests.post(

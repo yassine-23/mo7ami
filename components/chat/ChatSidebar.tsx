@@ -1,6 +1,6 @@
 "use client";
 
-import { X, MessageSquare, Trash2, Clock } from "lucide-react";
+import { X, MessageSquare, Trash2, Clock, ChevronLeft, ChevronRight } from "lucide-react";
 import { cn } from "@/lib/utils/cn";
 import type { Language } from "@/lib/utils/language";
 
@@ -25,9 +25,11 @@ interface ChatSidebarProps {
   language: Language;
   messages: Message[];
   onNewChat?: () => void;
+  isCollapsed?: boolean;
+  onToggleCollapse?: () => void;
 }
 
-export function ChatSidebar({ isOpen, onClose, language, messages, onNewChat }: ChatSidebarProps) {
+export function ChatSidebar({ isOpen, onClose, language, messages, onNewChat, isCollapsed = false, onToggleCollapse }: ChatSidebarProps) {
   const isArabic = language === "ar";
 
   // Group messages into conversations (for now, treat all messages as one conversation)
@@ -53,7 +55,8 @@ export function ChatSidebar({ isOpen, onClose, language, messages, onNewChat }: 
       {/* Sidebar */}
       <aside
         className={cn(
-          "fixed lg:static inset-y-0 w-80 bg-white border-r border-gray-200 z-50 transition-transform duration-300",
+          "fixed lg:static inset-y-0 bg-white border-r border-gray-200 z-50 transition-all duration-300",
+          isCollapsed ? "w-16" : "w-80",
           isOpen ? "translate-x-0" : "-translate-x-full lg:translate-x-0",
           isArabic && "right-0 border-l border-r-0"
         )}
@@ -61,61 +64,92 @@ export function ChatSidebar({ isOpen, onClose, language, messages, onNewChat }: 
         <div className="flex flex-col h-full">
           {/* Header */}
           <div className="flex items-center justify-between p-4 border-b border-gray-200">
-            <h2
-              className={cn(
-                "text-lg font-bold text-gray-900",
-                isArabic && "font-arabic"
-              )}
-            >
-              {isArabic ? "المحادثة الحالية" : "Conversation actuelle"}
-            </h2>
-            <button
-              onClick={onClose}
-              className="p-2 hover:bg-gray-100 rounded-lg transition-colors lg:hidden"
-            >
-              <X className="w-5 h-5 text-gray-600" />
-            </button>
+            {!isCollapsed && (
+              <h2
+                className={cn(
+                  "text-lg font-bold text-gray-900",
+                  isArabic && "font-arabic"
+                )}
+              >
+                {isArabic ? "المحادثة الحالية" : "Conversation actuelle"}
+              </h2>
+            )}
+            <div className="flex items-center gap-2">
+              {/* Collapse/Expand button (desktop only) */}
+              <button
+                onClick={onToggleCollapse}
+                className="hidden lg:block p-2 hover:bg-gray-100 rounded-lg transition-colors"
+                title={isCollapsed ? (isArabic ? "توسيع" : "Développer") : (isArabic ? "طي" : "Réduire")}
+              >
+                {isCollapsed ? (
+                  isArabic ? <ChevronLeft className="w-5 h-5 text-gray-600" /> : <ChevronRight className="w-5 h-5 text-gray-600" />
+                ) : (
+                  isArabic ? <ChevronRight className="w-5 h-5 text-gray-600" /> : <ChevronLeft className="w-5 h-5 text-gray-600" />
+                )}
+              </button>
+              {/* Close button (mobile only) */}
+              <button
+                onClick={onClose}
+                className="lg:hidden p-2 hover:bg-gray-100 rounded-lg transition-colors"
+              >
+                <X className="w-5 h-5 text-gray-600" />
+              </button>
+            </div>
           </div>
 
           {/* Messages list */}
-          <div className="flex-1 overflow-y-auto p-4 space-y-3">
-            {messages.length === 0 ? (
-              <div className="text-center py-12">
-                <MessageSquare className="w-12 h-12 text-gray-300 mx-auto mb-4" />
-                <p
-                  className={cn(
-                    "text-gray-500 text-sm",
-                    isArabic && "font-arabic"
-                  )}
-                >
-                  {isArabic
-                    ? "لا توجد رسائل بعد"
-                    : "Aucun message"}
-                </p>
+          {!isCollapsed && (
+            <div className="flex-1 overflow-y-auto p-4 space-y-3">
+              {messages.length === 0 ? (
+                <div className="text-center py-12">
+                  <MessageSquare className="w-12 h-12 text-gray-300 mx-auto mb-4" />
+                  <p
+                    className={cn(
+                      "text-gray-500 text-sm",
+                      isArabic && "font-arabic"
+                    )}
+                  >
+                    {isArabic
+                      ? "لا توجد رسائل بعد"
+                      : "Aucun message"}
+                  </p>
+                </div>
+              ) : (
+                messages.map((message) => (
+                  <MessageItem
+                    key={message.id}
+                    message={message}
+                    language={language}
+                  />
+                ))
+              )}
+            </div>
+          )}
+
+          {/* Collapsed state - just show message count */}
+          {isCollapsed && (
+            <div className="flex-1 flex items-center justify-center">
+              <div className="text-center">
+                <MessageSquare className="w-8 h-8 text-gray-400 mx-auto mb-2" />
+                <span className="text-xs text-gray-500 font-bold">{messages.length}</span>
               </div>
-            ) : (
-              messages.map((message) => (
-                <MessageItem
-                  key={message.id}
-                  message={message}
-                  language={language}
-                />
-              ))
-            )}
-          </div>
+            </div>
+          )}
 
           {/* Footer */}
-          <div className="p-4 border-t border-gray-200">
-            <button
-              onClick={onNewChat}
-              className={cn(
-                "w-full px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors text-sm font-medium",
-                isArabic && "font-arabic"
-              )}
-            >
-              {isArabic ? "محادثة جديدة" : "Nouvelle conversation"}
-            </button>
-          </div>
+          {!isCollapsed && (
+            <div className="p-4 border-t border-gray-200">
+              <button
+                onClick={onNewChat}
+                className={cn(
+                  "w-full px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors text-sm font-medium",
+                  isArabic && "font-arabic"
+                )}
+              >
+                {isArabic ? "محادثة جديدة" : "Nouvelle conversation"}
+              </button>
+            </div>
+          )}
         </div>
       </aside>
     </>

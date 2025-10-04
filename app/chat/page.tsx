@@ -32,6 +32,7 @@ export default function ChatPage() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [language, setLanguage] = useState<Language>("ar");
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
+  const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false); // New: sidebar collapse state
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   // Auto-scroll to bottom when new messages arrive
@@ -115,6 +116,8 @@ export default function ChatPage() {
           setMessages([]);
           setIsSidebarOpen(false);
         }}
+        isCollapsed={isSidebarCollapsed}
+        onToggleCollapse={() => setIsSidebarCollapsed(!isSidebarCollapsed)}
       />
 
       {/* Main chat area */}
