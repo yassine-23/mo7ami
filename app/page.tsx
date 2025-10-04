@@ -91,17 +91,15 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen relative overflow-hidden">
-      {/* Moroccan Government-Inspired Background */}
-      <div className="absolute inset-0 bg-gradient-to-br from-emerald-50 via-white to-red-50">
-        <div className="absolute inset-0 opacity-5">
-          <div className="absolute top-0 left-0 w-96 h-96 bg-emerald-600 rounded-full filter blur-3xl"></div>
-          <div className="absolute bottom-0 right-0 w-96 h-96 bg-red-600 rounded-full filter blur-3xl"></div>
-        </div>
-        {/* Moroccan pattern overlay */}
-        <div className="absolute inset-0 opacity-[0.03]" style={{
-          backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0l30 30-30 30L0 30 30 0zm0 10L10 30l20 20 20-20-20-20z' fill='%23006233' fill-opacity='1' fill-rule='evenodd'/%3E%3C/svg%3E")`,
-          backgroundSize: '60px 60px'
+      {/* Subtle Mosaic Background */}
+      <div className="absolute inset-0 bg-gray-50">
+        {/* Moroccan Zellige/Mosaic Pattern */}
+        <div className="absolute inset-0 opacity-[0.04]" style={{
+          backgroundImage: `url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox='0 0 80 80' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23134E4A' fill-opacity='1' fill-rule='evenodd'%3E%3Cpath d='M0 0h40v40H0V0zm40 40h40v40H40V40zm0-40h2l-2 2V0zm0 4l4-4h2l-6 6V4zm0 4l8-8h2L40 10V8zm0 4L52 0h2L40 14v-2zm0 4L56 0h2L40 18v-2zm0 4L60 0h2L40 22v-2zm0 4L64 0h2L40 26v-2zm0 4L68 0h2L40 30v-2zm0 4L72 0h2L40 34v-2zm0 4L76 0h2L40 38v-2zm0 4L80 0v2L42 40h-2zm4 0L80 4v2L46 40h-2zm4 0L80 8v2L50 40h-2zm4 0l28-28v2L54 40h-2zm4 0l24-24v2L58 40h-2zm4 0l20-20v2L62 40h-2zm4 0l16-16v2L66 40h-2zm4 0l12-12v2L70 40h-2zm4 0l8-8v2l-6 6h-2zm4 0l4-4v2l-2 2h-2z'/%3E%3C/g%3E%3C/svg%3E")`,
+          backgroundSize: '80px 80px'
         }}></div>
+        {/* Subtle gradient overlay */}
+        <div className="absolute inset-0 bg-gradient-to-br from-teal-50/30 via-gray-50 to-slate-100/30"></div>
       </div>
 
       {/* Content */}
@@ -111,30 +109,30 @@ export default function HomePage() {
           <div className="flex justify-end gap-2">
             <button
               onClick={() => setCurrentLanguage('ar')}
-              className={`px-4 py-2 rounded-lg font-bold transition-all ${
+              className={`px-4 py-2 rounded-lg font-medium transition-all ${
                 currentLanguage === 'ar'
-                  ? 'bg-emerald-600 text-white shadow-lg'
-                  : 'bg-white/80 text-gray-700 hover:bg-white'
+                  ? 'bg-teal-700 text-white'
+                  : 'bg-white/90 text-gray-700 hover:bg-white border border-gray-200'
               }`}
             >
               العربية
             </button>
             <button
               onClick={() => setCurrentLanguage('fr')}
-              className={`px-4 py-2 rounded-lg font-bold transition-all ${
+              className={`px-4 py-2 rounded-lg font-medium transition-all ${
                 currentLanguage === 'fr'
-                  ? 'bg-emerald-600 text-white shadow-lg'
-                  : 'bg-white/80 text-gray-700 hover:bg-white'
+                  ? 'bg-teal-700 text-white'
+                  : 'bg-white/90 text-gray-700 hover:bg-white border border-gray-200'
               }`}
             >
               Français
             </button>
             <button
               onClick={() => setCurrentLanguage('tz')}
-              className={`px-4 py-2 rounded-lg font-bold transition-all ${
+              className={`px-4 py-2 rounded-lg font-medium transition-all ${
                 currentLanguage === 'tz'
-                  ? 'bg-emerald-600 text-white shadow-lg'
-                  : 'bg-white/80 text-gray-700 hover:bg-white'
+                  ? 'bg-teal-700 text-white'
+                  : 'bg-white/90 text-gray-700 hover:bg-white border border-gray-200'
               }`}
             >
               ⵜⴰⵎⴰⵣⵉⵖⵜ
@@ -146,16 +144,12 @@ export default function HomePage() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-20">
           <div className="text-center max-w-5xl mx-auto">
 
-            {/* Moroccan Avatar Character */}
+            {/* Professional Logo/Icon */}
             <div className="mb-8 flex justify-center">
               <div className="relative">
-                <div className="w-40 h-40 sm:w-48 sm:h-48 bg-gradient-to-br from-emerald-600 to-red-600 rounded-full flex items-center justify-center shadow-2xl border-8 border-white/50 backdrop-blur-sm">
-                  <span className="text-7xl sm:text-8xl">👨‍⚖️</span>
-                </div>
-                {/* Moroccan star decoration */}
-                <div className="absolute -top-2 -right-2 w-12 h-12 text-yellow-500">
-                  <svg viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                <div className="w-32 h-32 bg-white rounded-2xl shadow-xl border border-gray-200 flex items-center justify-center">
+                  <svg className="w-20 h-20 text-teal-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3" />
                   </svg>
                 </div>
               </div>
@@ -163,11 +157,11 @@ export default function HomePage() {
 
             {/* Logo/Title */}
             <div className="mb-8">
-              <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-emerald-800 mb-4 drop-shadow-sm">
+              <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-gray-800 mb-4">
                 {currentLanguage === 'ar' && 'محامي'}
                 {currentLanguage === 'fr' && 'Mo7ami'}
                 {currentLanguage === 'tz' && 'ⴰⵎⴰⵢⵏⴰⵙ'}
-                <span className="block text-3xl sm:text-4xl lg:text-5xl mt-3 text-red-700">
+                <span className="block text-2xl sm:text-3xl lg:text-4xl mt-3 text-teal-700 font-normal">
                   {currentLanguage === 'ar' && 'مساعدك القانوني الذكي'}
                   {currentLanguage === 'fr' && 'Votre assistant juridique intelligent'}
                   {currentLanguage === 'tz' && 'ⴰⵎⵙⵡⵓⵔⵉ ⵏⵏⴽ ⵏ ⵓⵏⵥⴰⵕ'}
@@ -177,31 +171,31 @@ export default function HomePage() {
 
             {/* Description */}
             <div className="mb-12 max-w-3xl mx-auto">
-              <p className="text-xl sm:text-2xl text-gray-700 leading-relaxed font-medium">
+              <p className="text-lg sm:text-xl text-gray-600 leading-relaxed">
                 {currentLanguage === 'ar' && 'اسأل عن القانون المغربي بالدارجة أو الأمازيغية أو الفرنسية واحصل على إجابات دقيقة مع المراجع الرسمية'}
                 {currentLanguage === 'fr' && 'Posez des questions sur le droit marocain en darija, amazigh ou français et obtenez des réponses précises avec des références officielles'}
                 {currentLanguage === 'tz' && 'ⵙⵙⵇⵙⴰ ⵅⴰⴼ ⵓⵏⵥⴰⵕ ⴰⵎⵖⵔⵉⴱⵉ ⵙ ⵜⴷⴰⵔⵉⵊⵜ ⵏⵖ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵏⵖ ⵜⴼⵕⴰⵏⵙⵉⵙⵜ'}
               </p>
             </div>
 
-            {/* MAIN FOCUS: CTA Buttons */}
+            {/* CTA Buttons */}
             <div className="mb-16 space-y-4">
               <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 justify-center">
                 <Link
                   href="/chat"
-                  className="group px-10 py-5 bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-700 hover:to-emerald-800 text-white rounded-2xl font-bold text-xl sm:text-2xl transition-all shadow-2xl hover:shadow-emerald-500/50 hover:scale-105 transform flex items-center justify-center gap-3"
+                  className="group px-10 py-4 bg-teal-700 hover:bg-teal-800 text-white rounded-xl font-semibold text-lg sm:text-xl transition-all shadow-lg hover:shadow-xl flex items-center justify-center gap-3"
                 >
-                  {currentLanguage === 'ar' && '🚀 ابدأ المحادثة الآن'}
-                  {currentLanguage === 'fr' && '🚀 Commencer maintenant'}
-                  {currentLanguage === 'tz' && '🚀 ⴱⴷⵓ ⴷⵖⵉ'}
-                  <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
+                  {currentLanguage === 'ar' && 'ابدأ المحادثة'}
+                  {currentLanguage === 'fr' && 'Commencer'}
+                  {currentLanguage === 'tz' && 'ⴱⴷⵓ ⴷⵖⵉ'}
+                  <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                 </Link>
               </div>
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link
                   href="/auth/signin"
-                  className="px-8 py-4 bg-white hover:bg-gray-50 text-emerald-700 border-3 border-emerald-600 rounded-xl font-bold text-lg sm:text-xl transition-all shadow-lg hover:shadow-xl flex items-center justify-center gap-2"
+                  className="px-8 py-3 bg-white hover:bg-gray-50 text-teal-700 border-2 border-teal-700 rounded-xl font-semibold text-base sm:text-lg transition-all shadow-md hover:shadow-lg flex items-center justify-center gap-2"
                 >
                   <Users className="w-5 h-5" />
                   {currentLanguage === 'ar' && 'تسجيل الدخول'}
@@ -213,24 +207,24 @@ export default function HomePage() {
 
             {/* Dynamic Rotating Example Questions */}
             <div className="mb-16">
-              <h3 className="text-xl font-bold text-gray-800 mb-6">
-                {currentLanguage === 'ar' && '📝 أمثلة على الأسئلة:'}
-                {currentLanguage === 'fr' && '📝 Exemples de questions:'}
-                {currentLanguage === 'tz' && '📝 ⵉⵎⴷⵢⴰⵜⵏ ⵏ ⵉⵙⵇⵙⵉⵜⵏ:'}
+              <h3 className="text-lg font-semibold text-gray-700 mb-6">
+                {currentLanguage === 'ar' && 'أمثلة على الأسئلة:'}
+                {currentLanguage === 'fr' && 'Exemples de questions:'}
+                {currentLanguage === 'tz' && 'ⵉⵎⴷⵢⴰⵜⵏ ⵏ ⵉⵙⵇⵙⵉⵜⵏ:'}
               </h3>
-              <div className="grid gap-4 max-w-3xl mx-auto">
+              <div className="grid gap-3 max-w-3xl mx-auto">
                 {currentQuestions.map((question, i) => (
                   <div
                     key={`${currentQuestionSet}-${i}`}
-                    className="p-4 bg-white/90 backdrop-blur-sm rounded-xl border-2 border-emerald-200 hover:border-emerald-400 hover:shadow-lg transition-all cursor-pointer hover:scale-[1.02] transform animate-fade-in"
+                    className="p-4 bg-white rounded-lg border border-gray-200 hover:border-teal-600 hover:shadow-md transition-all cursor-pointer animate-fade-in"
                     style={{ animationDelay: `${i * 100}ms` }}
                   >
-                    <p className="text-gray-800 font-medium">{question}</p>
+                    <p className="text-gray-700">{question}</p>
                   </div>
                 ))}
               </div>
               <p className="mt-4 text-sm text-gray-500 flex items-center justify-center gap-2">
-                <span className="inline-block w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span>
+                <span className="inline-block w-2 h-2 bg-teal-600 rounded-full animate-pulse"></span>
                 {currentLanguage === 'ar' && 'تتغير الأسئلة تلقائياً كل 5 ثواني'}
                 {currentLanguage === 'fr' && 'Les questions changent automatiquement toutes les 5 secondes'}
                 {currentLanguage === 'tz' && 'ⵜⵜⵎⵙⵙⵉⵏⵜⵏ ⵜⵙⵇⵙⵉⵜⵉⵏ ⵙ ⵡⵓⵙⵙⴰⵏ'}
@@ -240,22 +234,22 @@ export default function HomePage() {
             {/* Features Grid */}
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
               <FeatureCard
-                icon={<Mic className="w-10 h-10" />}
+                icon={<Mic className="w-8 h-8" />}
                 title={currentLanguage === 'ar' ? 'تفاعل صوتي' : currentLanguage === 'fr' ? 'Interaction vocale' : 'ⴰⵎⵙⴰⵡⴰⵍ ⵙ ⵉⵎⵙⵍⵉ'}
                 description={currentLanguage === 'ar' ? 'اسأل بصوتك واستمع للإجابة' : currentLanguage === 'fr' ? 'Parlez et écoutez les réponses' : 'ⵙⵙⵇⵙⴰ ⵙ ⵉⵎⵙⵍⵉ ⵏⵏⴽ'}
               />
               <FeatureCard
-                icon={<MessageSquare className="w-10 h-10" />}
+                icon={<MessageSquare className="w-8 h-8" />}
                 title={currentLanguage === 'ar' ? '3 لغات' : currentLanguage === 'fr' ? '3 langues' : '3 ⵜⵓⵜⵍⴰⵢⵉⵏ'}
                 description={currentLanguage === 'ar' ? 'العربية، الأمازيغية، الفرنسية' : currentLanguage === 'fr' ? 'Arabe, Amazigh, Français' : 'ⵜⴰⵄⵔⴰⴱⵜ، ⵜⴰⵎⴰⵣⵉⵖⵜ، ⵜⴰⴼⵕⴰⵏⵙⵉⵙⵜ'}
               />
               <FeatureCard
-                icon={<Shield className="w-10 h-10" />}
+                icon={<Shield className="w-8 h-8" />}
                 title={currentLanguage === 'ar' ? 'مراجع رسمية' : currentLanguage === 'fr' ? 'Sources officielles' : 'ⵉⵙⵓⵖⴰⵍ ⵓⵏⵚⵉⴱⵏ'}
                 description={currentLanguage === 'ar' ? 'الجريدة الرسمية المغربية' : currentLanguage === 'fr' ? 'Bulletin Officiel du Maroc' : 'ⴰⵖⵎⵉⵙ ⵓⵏⵚⵉⴱ'}
               />
               <FeatureCard
-                icon={<BookOpen className="w-10 h-10" />}
+                icon={<BookOpen className="w-8 h-8" />}
                 title={currentLanguage === 'ar' ? '12+ مجال' : currentLanguage === 'fr' ? '12+ domaines' : '12+ ⵉⴳⵔⴰⵏ'}
                 description={currentLanguage === 'ar' ? 'جنائي، مدني، أسري، عمل...' : currentLanguage === 'fr' ? 'Pénal, civil, famille, travail...' : 'ⴰⵣⵔⴼⴰⵏ، ⵜⴰⵡⵙⴰⵔⵜ، ⵜⴰⵡⵓⵔⵉ...'}
               />
@@ -264,14 +258,14 @@ export default function HomePage() {
             {/* Smart Legal Disclaimer - Morocco Compliant */}
             <div className="max-w-4xl mx-auto space-y-4">
               {/* Primary Disclaimer */}
-              <div className="p-6 bg-gradient-to-r from-amber-50 to-orange-50 border-2 border-amber-300 rounded-2xl shadow-lg">
-                <div className="flex items-start gap-3 mb-3">
-                  <Shield className="w-6 h-6 text-amber-600 flex-shrink-0 mt-1" />
+              <div className="p-6 bg-white border border-gray-200 rounded-xl">
+                <div className="flex items-start gap-3">
+                  <Shield className="w-5 h-5 text-teal-700 flex-shrink-0 mt-1" />
                   <div className="text-left">
                     {currentLanguage === 'ar' && (
                       <>
-                        <p className="text-base font-bold text-amber-900 mb-2">⚖️ تنبيه قانوني مهم</p>
-                        <p className="text-sm text-amber-800 leading-relaxed">
+                        <p className="text-sm font-semibold text-gray-800 mb-2">تنبيه قانوني مهم</p>
+                        <p className="text-sm text-gray-600 leading-relaxed">
                           محامي هي منصة <strong>تعليمية</strong> توفر معلومات قانونية عامة فقط. نحن <strong>لا نقدم استشارات قانونية مهنية</strong> ولا نستبدل محامياً مؤهلاً.
                           جميع المعلومات المقدمة خاضعة للقانون المغربي رقم <strong>09-08</strong> المتعلق بحماية الأشخاص الذاتيين تجاه معالجة المعطيات ذات الطابع الشخصي.
                         </p>
@@ -279,8 +273,8 @@ export default function HomePage() {
                     )}
                     {currentLanguage === 'fr' && (
                       <>
-                        <p className="text-base font-bold text-amber-900 mb-2">⚖️ Avertissement légal important</p>
-                        <p className="text-sm text-amber-800 leading-relaxed">
+                        <p className="text-sm font-semibold text-gray-800 mb-2">Avertissement légal important</p>
+                        <p className="text-sm text-gray-600 leading-relaxed">
                           Mo7ami est une plateforme <strong>éducative</strong> qui fournit des informations juridiques générales uniquement. Nous <strong>ne fournissons pas de conseils juridiques professionnels</strong> et ne remplaçons pas un avocat qualifié.
                           Toutes les informations fournies sont soumises à la loi marocaine n° <strong>09-08</strong> relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel.
                         </p>
@@ -288,8 +282,8 @@ export default function HomePage() {
                     )}
                     {currentLanguage === 'tz' && (
                       <>
-                        <p className="text-base font-bold text-amber-900 mb-2">⚖️ ⴰⵍⵖⵓ ⵏ ⵓⵏⵥⴰⵕ</p>
-                        <p className="text-sm text-amber-800 leading-relaxed">
+                        <p className="text-sm font-semibold text-gray-800 mb-2">ⴰⵍⵖⵓ ⵏ ⵓⵏⵥⴰⵕ</p>
+                        <p className="text-sm text-gray-600 leading-relaxed">
                           ⴰⵎⴰⵢⵏⴰⵙ ⵉⴳⴰ ⵜⴰⵏⴼⵍⵉⵜ ⵏ ⵓⵙⵙⵍⵎⴷ. ⵓⵔ ⵏⵙⵙⵎⴰⵔⴰⵙ ⴰⵎⴰⵢⵏⴰⵙ ⵏ ⵓⵎⵙⵙⵓⴷⵙ. ⴰⵏⵥⴰⵕ ⴰⵎⵖⵔⴰⴱⵉ 09-08.
                         </p>
                       </>
@@ -299,12 +293,12 @@ export default function HomePage() {
               </div>
 
               {/* Social Consciousness Message */}
-              <div className="p-6 bg-gradient-to-r from-emerald-50 to-teal-50 border-2 border-emerald-300 rounded-2xl">
+              <div className="p-5 bg-teal-50 border border-teal-200 rounded-xl">
                 <div className="text-center">
                   {currentLanguage === 'ar' && (
                     <>
-                      <p className="text-lg font-bold text-emerald-900 mb-2">🇲🇦 نحو وعي قانوني أفضل للمغاربة</p>
-                      <p className="text-sm text-emerald-800">
+                      <p className="text-base font-semibold text-gray-800 mb-2">نحو وعي قانوني أفضل للمغاربة</p>
+                      <p className="text-sm text-gray-600">
                         معرفة حقوقك وواجباتك القانونية هي الخطوة الأولى نحو مجتمع أكثر عدلاً ووعياً.
                         <strong> محامي</strong> تساهم في رفع الوعي القانوني وتمكين المواطنين من فهم القوانين التي تحكمهم.
                       </p>
@@ -312,8 +306,8 @@ export default function HomePage() {
                   )}
                   {currentLanguage === 'fr' && (
                     <>
-                      <p className="text-lg font-bold text-emerald-900 mb-2">🇲🇦 Vers une meilleure conscience juridique pour les Marocains</p>
-                      <p className="text-sm text-emerald-800">
+                      <p className="text-base font-semibold text-gray-800 mb-2">Vers une meilleure conscience juridique pour les Marocains</p>
+                      <p className="text-sm text-gray-600">
                         Connaître vos droits et devoirs juridiques est la première étape vers une société plus juste et consciente.
                         <strong> Mo7ami</strong> contribue à élever la conscience juridique et à permettre aux citoyens de comprendre les lois qui les régissent.
                       </p>
@@ -321,8 +315,8 @@ export default function HomePage() {
                   )}
                   {currentLanguage === 'tz' && (
                     <>
-                      <p className="text-lg font-bold text-emerald-900 mb-2">🇲🇦 ⵖⵔ ⵜⴰⵏⴰⴼⵓⵜ ⵜⴰⵏⵥⴰⴹⵜ ⵉⴼⵓⵍⴽⵉⵏ</p>
-                      <p className="text-sm text-emerald-800">
+                      <p className="text-base font-semibold text-gray-800 mb-2">ⵖⵔ ⵜⴰⵏⴰⴼⵓⵜ ⵜⴰⵏⵥⴰⴹⵜ ⵉⴼⵓⵍⴽⵉⵏ</p>
+                      <p className="text-sm text-gray-600">
                         ⴰⵙⵙⵏ ⵏ ⵉⵣⵔⴼⴰⵏ ⵏⵏⴽ ⴷ ⵜⵡⵓⵔⵉⵡⵉⵏ ⵏⵏⴽ ⵉⴳⴰ ⵜⴰⵙⵓⵜⵍⵜ ⵜⴰⵎⵣⵡⴰⵔⵓⵜ ⵖⵔ ⵜⵎⵜⵜⵉ ⵜⴰⵏⵥⴰⴹⵜ.
                       </p>
                     </>
@@ -331,23 +325,23 @@ export default function HomePage() {
               </div>
 
               {/* When to Consult a Lawyer */}
-              <div className="p-5 bg-blue-50 border border-blue-200 rounded-xl">
-                <p className="text-sm text-blue-900">
+              <div className="p-4 bg-slate-50 border border-slate-200 rounded-lg">
+                <p className="text-sm text-gray-700">
                   {currentLanguage === 'ar' && (
                     <>
-                      <strong>🏛️ متى يجب استشارة محامٍ؟</strong> عند مواجهة قضية قانونية شخصية، نزاع قضائي، أو حاجة لتمثيل قانوني رسمي.
-                      قائمة المحامين المعتمدين متوفرة على موقع <a href="https://www.justice.gov.ma" className="underline text-blue-700 hover:text-blue-900" target="_blank" rel="noopener">وزارة العدل</a>.
+                      <strong>متى يجب استشارة محامٍ؟</strong> عند مواجهة قضية قانونية شخصية، نزاع قضائي، أو حاجة لتمثيل قانوني رسمي.
+                      قائمة المحامين المعتمدين متوفرة على موقع <a href="https://www.justice.gov.ma" className="underline text-teal-700 hover:text-teal-800" target="_blank" rel="noopener">وزارة العدل</a>.
                     </>
                   )}
                   {currentLanguage === 'fr' && (
                     <>
-                      <strong>🏛️ Quand consulter un avocat?</strong> En cas de litige personnel, procédure judiciaire, ou besoin de représentation légale officielle.
-                      La liste des avocats agréés est disponible sur le site du <a href="https://www.justice.gov.ma" className="underline text-blue-700 hover:text-blue-900" target="_blank" rel="noopener">Ministère de la Justice</a>.
+                      <strong>Quand consulter un avocat?</strong> En cas de litige personnel, procédure judiciaire, ou besoin de représentation légale officielle.
+                      La liste des avocats agréés est disponible sur le site du <a href="https://www.justice.gov.ma" className="underline text-teal-700 hover:text-teal-800" target="_blank" rel="noopener">Ministère de la Justice</a>.
                     </>
                   )}
                   {currentLanguage === 'tz' && (
                     <>
-                      <strong>🏛️ ⵎⴰⵎⴽ ⴰⴷ ⵜⵙⵙⵇⵙⴰⴷ ⴰⵎⴰⵢⵏⴰⵙ?</strong> ⵎⴽ ⵜⵍⵍⴰⴷ ⵜⵓⴳⵜ ⵜⴰⵏⵥⴰⴹⵜ, ⵜⴰⵎⵍⵉⵍⵜ ⵜⴰⵏⵥⴰⴹⵜ, ⵏⵖ ⵜⵙⵙⵓⵜⵔⴷ ⴰⵏⵎⵀⴰⵍ ⵓⵏⵚⵉⴱ.
+                      <strong>ⵎⴰⵎⴽ ⴰⴷ ⵜⵙⵙⵇⵙⴰⴷ ⴰⵎⴰⵢⵏⴰⵙ?</strong> ⵎⴽ ⵜⵍⵍⴰⴷ ⵜⵓⴳⵜ ⵜⴰⵏⵥⴰⴹⵜ, ⵜⴰⵎⵍⵉⵍⵜ ⵜⴰⵏⵥⴰⴹⵜ, ⵏⵖ ⵜⵙⵙⵓⵜⵔⴷ ⴰⵏⵎⵀⴰⵍ ⵓⵏⵚⵉⴱ.
                     </>
                   )}
                 </p>
@@ -357,7 +351,7 @@ export default function HomePage() {
         </div>
 
         {/* Footer */}
-        <footer className="bg-gradient-to-r from-emerald-900 to-emerald-800 text-white py-8 mt-20">
+        <footer className="bg-slate-800 text-white py-8 mt-20">
           <div className="container mx-auto px-4 text-center">
             <p className="text-sm opacity-90">
               {currentLanguage === 'ar' && '© 2024 محامي - كل الحقوق محفوظة | مبادرة لرفع الوعي القانوني في المغرب'}
@@ -365,12 +359,12 @@ export default function HomePage() {
               {currentLanguage === 'tz' && '© 2024 ⴰⵎⴰⵢⵏⴰⵙ - ⴰⴽⴽ ⵉⵣⵔⴼⴰⵏ ⵃⴹⵓⵏⵉⵏ'}
             </p>
             <div className="mt-4 flex justify-center gap-6 text-sm">
-              <a href="https://www.sgg.gov.ma" target="_blank" rel="noopener" className="hover:text-emerald-200 transition-colors">
+              <a href="https://www.sgg.gov.ma" target="_blank" rel="noopener" className="hover:text-teal-300 transition-colors">
                 {currentLanguage === 'ar' && 'الأمانة العامة للحكومة'}
                 {currentLanguage === 'fr' && 'SGG'}
                 {currentLanguage === 'tz' && 'ⴰⵙⵖⵏⵓ ⴰⵎⴰⵜⴰⵢ'}
               </a>
-              <a href="https://www.justice.gov.ma" target="_blank" rel="noopener" className="hover:text-emerald-200 transition-colors">
+              <a href="https://www.justice.gov.ma" target="_blank" rel="noopener" className="hover:text-teal-300 transition-colors">
                 {currentLanguage === 'ar' && 'وزارة العدل'}
                 {currentLanguage === 'fr' && 'Ministère de la Justice'}
                 {currentLanguage === 'tz' && 'ⵜⴰⵏⴱⴰⴹⵜ ⵏ ⵓⵏⵥⴰⵕ'}
@@ -393,9 +387,9 @@ function FeatureCard({
   description: string;
 }) {
   return (
-    <div className="p-6 bg-white/80 backdrop-blur-sm rounded-2xl shadow-lg hover:shadow-xl transition-all hover:scale-105 transform border border-emerald-100">
-      <div className="text-emerald-600 mb-4 flex justify-center">{icon}</div>
-      <h3 className="font-bold text-gray-900 mb-2 text-lg">{title}</h3>
+    <div className="p-6 bg-white rounded-lg shadow-sm hover:shadow-md transition-all border border-gray-100">
+      <div className="text-teal-700 mb-3 flex justify-center">{icon}</div>
+      <h3 className="font-semibold text-gray-800 mb-2">{title}</h3>
       <p className="text-sm text-gray-600">{description}</p>
     </div>
   );
