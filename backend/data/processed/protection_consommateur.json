@@ -1,0 +1,1873 @@
+{
+  "success": true,
+  "metadata": {
+    "name": "Loi sur la Protection du Consommateur",
+    "name_ar": "قانون حماية المستهلك",
+    "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/ma/ma077fr.pdf",
+    "filename": "protection_consommateur.pdf",
+    "domain": "consumer_law",
+    "language": "fr",
+    "priority": 9,
+    "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+  },
+  "language": "fr",
+  "total_articles": 206,
+  "articles": [
+    {
+      "article_number": "197",
+      "title": null,
+      "content": "; except for other provisions referred to therein.",
+      "language": "fr",
+      "page_number": 2,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "1",
+      "title": null,
+      "content": "La présente loi a pour objet :",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "2",
+      "title": null,
+      "content": "La présente loi définit les relations entre le consommateur et le",
+      "language": "fr",
+      "page_number": 5,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "3",
+      "title": null,
+      "content": "Tout fournisseur doit mettre, par tout moyen approprié, le",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "4",
+      "title": null,
+      "content": "Le fournisseur est tenu de délivrer une facture, quittance, ticket de",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "23",
+      "title": null,
+      "content": "« Le mode d'emploi et le manuel d'utilisation que le fournisseur doit",
+      "language": "fr",
+      "page_number": 7,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "24",
+      "title": null,
+      "content": "« L'information relative à la garantie visée à l'article 3 de la loi",
+      "language": "fr",
+      "page_number": 7,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "6",
+      "title": null,
+      "content": "Tout produit ou bien mis en vente doit obligatoirement être",
+      "language": "fr",
+      "page_number": 8,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "25",
+      "title": null,
+      "content": "« Les factures, quittances, tickets de caisse ou tout autre",
+      "language": "fr",
+      "page_number": 8,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "26",
+      "title": null,
+      "content": "« En application de l'article 6 de la loi n° 31-08 précitée, l'étiquette",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "8",
+      "title": null,
+      "content": "Lorsque la totalité ou une partie d’un contrat doit être rédigée par",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "9",
+      "title": null,
+      "content": "Dans le cas des contrats dont toutes ou certaines clauses proposées",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "11",
+      "title": null,
+      "content": "Tout fournisseur doit remettre à toute personne intéressée qui en",
+      "language": "fr",
+      "page_number": 11,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "12",
+      "title": null,
+      "content": "Dans tout contrat ayant pour objet la vente de produits ou de biens",
+      "language": "fr",
+      "page_number": 11,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "13",
+      "title": null,
+      "content": "Nonobstant toutes dispositions contractuelles contraires et sans",
+      "language": "fr",
+      "page_number": 12,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "28",
+      "title": null,
+      "content": "« Le seuil du prix ou du tarif visé à l'article 12 de la loi n°",
+      "language": "fr",
+      "page_number": 12,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "14",
+      "title": null,
+      "content": "En cas de résolution telle que réalisée dans les conditions",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "15",
+      "title": null,
+      "content": "Dans les contrats conclus entre fournisseur et consommateur,",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "16",
+      "title": null,
+      "content": "Sans préjudice des règles d’interprétation prévues aux articles",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "17",
+      "title": null,
+      "content": "L’appréciation du caractère abusif d’une clause, au sens de",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "18",
+      "title": null,
+      "content": "Sous réserve de l’application de législations spéciales et/ou de",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "19",
+      "title": null,
+      "content": "Sont nulles et de nul effet les clauses abusives",
+      "language": "fr",
+      "page_number": 17,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "21",
+      "title": null,
+      "content": "Sans préjudice des dispositions des articles 2 et 67 de la",
+      "language": "fr",
+      "page_number": 18,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "22",
+      "title": null,
+      "content": "La publicité comparative est toute publicité qui met en",
+      "language": "fr",
+      "page_number": 18,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "23",
+      "title": null,
+      "content": "Toute publicité, quelle qu’en soit la forme, qui peut être reçue",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "24",
+      "title": null,
+      "content": "Le fournisseur est tenu, lors de toute publicité par courrier",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "26",
+      "title": null,
+      "content": "Les dispositions du présent chapitre s’appliquent",
+      "language": "fr",
+      "page_number": 21,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "27",
+      "title": null,
+      "content": "Le contrat de vente à distance par un moyen",
+      "language": "fr",
+      "page_number": 21,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "28",
+      "title": null,
+      "content": "Ne sont pas soumis aux dispositions du présent",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "29",
+      "title": null,
+      "content": "Sans préjudice des informations prévues par les articles 3 et 5",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "30",
+      "title": null,
+      "content": "Le fournisseur doit permettre au consommateur",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "32",
+      "title": null,
+      "content": "Le consommateur doit recevoir, par écrit ou sur un",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "33",
+      "title": null,
+      "content": "La fourniture de produits et de biens ou la prestation de",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "34",
+      "title": null,
+      "content": "En cas de litige entre le fournisseur et le consommateur,",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "35",
+      "title": null,
+      "content": "Les opérations de paiement relatives aux contrats",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "36",
+      "title": null,
+      "content": "Le consommateur dispose d’un délai :",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "37",
+      "title": null,
+      "content": "Lorsque le droit de rétractation est exercé, le",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "38",
+      "title": null,
+      "content": "Le droit de rétractation ne peut être exercé, sauf",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "40",
+      "title": null,
+      "content": "En cas de défaut d’exécution du contrat par un",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "41",
+      "title": null,
+      "content": "Si la possibilité en a été prévue préalablement à",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "42",
+      "title": null,
+      "content": "Les dispositions des articles 29, 32, 36 et 37 ne",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "43",
+      "title": null,
+      "content": "Nonobstant toute législation contraire, le",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "45",
+      "title": null,
+      "content": "Est soumis aux dispositions du présent",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "46",
+      "title": null,
+      "content": "Ne sont pas soumises aux dispositions du",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "47",
+      "title": null,
+      "content": "Les opérations de démarchage visées à l’article 45",
+      "language": "fr",
+      "page_number": 31,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "48",
+      "title": null,
+      "content": "Le contrat doit, à peine de nullité, mentionner:",
+      "language": "fr",
+      "page_number": 31,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "49",
+      "title": null,
+      "content": "Par dérogation aux dispositions de l’article 604 du",
+      "language": "fr",
+      "page_number": 32,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "29",
+      "title": null,
+      "content": "« En application de l'article 47 de la loi n° 31-08 précitée, le",
+      "language": "fr",
+      "page_number": 33,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "50",
+      "title": null,
+      "content": "Avant l’expiration du délai de rétractation prévu à l’article",
+      "language": "fr",
+      "page_number": 33,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "51",
+      "title": null,
+      "content": "A la suite d’un démarchage par téléphone ou par tout moyen",
+      "language": "fr",
+      "page_number": 33,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "52",
+      "title": null,
+      "content": "Les dispositions du présent chapitre sont d’ordre public.",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "53",
+      "title": null,
+      "content": "Au sens de la présente loi, on entend par ventes en solde les",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "54",
+      "title": null,
+      "content": "La vente en solde ne peut être pratiquée que si elle est",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "55",
+      "title": null,
+      "content": "Toute publicité relative à une opération de soldes mentionne",
+      "language": "fr",
+      "page_number": 35,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "56",
+      "title": null,
+      "content": "Il est interdit de vendre ou d’offrir à la vente des produits ou",
+      "language": "fr",
+      "page_number": 35,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "30",
+      "title": null,
+      "content": "« En application de l'article 56 de la loi n° 31-08 précitée, la",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "59",
+      "title": null,
+      "content": "Est réputé nul par la force de la loi tout engagement né d’un",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "60",
+      "title": null,
+      "content": "On entend par loterie publicitaire pour l’application de la",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "61",
+      "title": null,
+      "content": "Toute opération de loterie publicitaire répondant à la",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "62",
+      "title": null,
+      "content": "Les annonces ou documents présentant l’opération",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "63",
+      "title": null,
+      "content": "Les documents et annonces présentant l’opération publicitaire",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "2",
+      "title": null,
+      "content": "«Dans la loi n° 31-08 précitée, l'administration compétente",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "31",
+      "title": null,
+      "content": "« Le modèle type auquel les documents, annonces et",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "64",
+      "title": null,
+      "content": "Les organisateurs de loterie publicitaire doivent envoyer à",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "65",
+      "title": null,
+      "content": "Les dispositions relatives à la garantie légale des défauts de la",
+      "language": "fr",
+      "page_number": 41,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "66",
+      "title": null,
+      "content": "Pour l’application du présent chapitre, on entend par garantie",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "67",
+      "title": null,
+      "content": "Le fournisseur ne peut proposer sa garantie conventionnelle",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "68",
+      "title": null,
+      "content": "Le fournisseur doit assumer les frais de transport ou",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "70",
+      "title": null,
+      "content": "Lorsque le service après-vente fait l’objet d’un contrat à part,",
+      "language": "fr",
+      "page_number": 43,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "71",
+      "title": null,
+      "content": "La garantie conventionnelle ou le service après-vente",
+      "language": "fr",
+      "page_number": 43,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "72",
+      "title": null,
+      "content": "L’écrit prévu à l’article 71 doit en outre mentionner:",
+      "language": "fr",
+      "page_number": 43,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "74",
+      "title": null,
+      "content": "Sous réserve des dispositions de l’article 75, les dispositions",
+      "language": "fr",
+      "page_number": 45,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "75",
+      "title": null,
+      "content": "Sont exclus du champ d’application du présent chapitre",
+      "language": "fr",
+      "page_number": 46,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "76",
+      "title": null,
+      "content": "A l’exception de la publicité radiophonique, toute publicité",
+      "language": "fr",
+      "page_number": 47,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "77",
+      "title": null,
+      "content": "Toute opération de crédit visée à l’article 74 doit être",
+      "language": "fr",
+      "page_number": 48,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "78",
+      "title": null,
+      "content": "L’offre préalable doit :",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "79",
+      "title": null,
+      "content": "Lorsqu’il s’agit d’une ouverture de crédit qui, assortie",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "33",
+      "title": null,
+      "content": "« En application des articles 79, 83, 104, 106 (alinéa 3), 124, et 132",
+      "language": "fr",
+      "page_number": 51,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "80",
+      "title": null,
+      "content": "S’agissant de l’opération de crédit visée à l’article 79, le",
+      "language": "fr",
+      "page_number": 52,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "81",
+      "title": null,
+      "content": "Pour les opérations de crédit à durée déterminée, l’offre préalable",
+      "language": "fr",
+      "page_number": 52,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "82",
+      "title": null,
+      "content": "Lorsque l’offre préalable est assortie d’une proposition d’assurance,",
+      "language": "fr",
+      "page_number": 53,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "83",
+      "title": null,
+      "content": "L’offre préalable est établie en application des conditions prévues",
+      "language": "fr",
+      "page_number": 53,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "84",
+      "title": null,
+      "content": "Aucun fournisseur ou prêteur ne peut, pour un même produit ou",
+      "language": "fr",
+      "page_number": 53,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "85",
+      "title": null,
+      "content": "Si le prêteur ne précise pas dans l’offre préalable qu’il se réserve la",
+      "language": "fr",
+      "page_number": 54,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "86",
+      "title": null,
+      "content": "Lorsque l’offre préalable stipule que le prêteur se réserve le droit",
+      "language": "fr",
+      "page_number": 54,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "87",
+      "title": null,
+      "content": "Tant que le contrat de crédit n’est pas définitivement conclu, aucun",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "88",
+      "title": null,
+      "content": "Le prêteur doit remettre à l’emprunteur un exemplaire du contrat de",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "89",
+      "title": null,
+      "content": "Le prêteur qui accorde un crédit sans saisir l’emprunteur d’une offre",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "90",
+      "title": null,
+      "content": "Les dispositions de la présente section s’appliquent lorsqu’un crédit",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "91",
+      "title": null,
+      "content": "L’offre préalable doit mentionner le produit, bien ou la prestation",
+      "language": "fr",
+      "page_number": 56,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "92",
+      "title": null,
+      "content": "Le contrat de vente ou de prestation de services doit préciser que le",
+      "language": "fr",
+      "page_number": 56,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "93",
+      "title": null,
+      "content": "Le prêteur doit aviser le fournisseur de son acceptation de",
+      "language": "fr",
+      "page_number": 56,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "5",
+      "title": null,
+      "content": "« L'administration chargée du contrôle visée à l'article 92 de",
+      "language": "fr",
+      "page_number": 57,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "95",
+      "title": null,
+      "content": "En cas de contestation sur l’exécution du contrat principal de",
+      "language": "fr",
+      "page_number": 57,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "96",
+      "title": null,
+      "content": "Si la résolution judiciaire ou l’annulation du contrat principal",
+      "language": "fr",
+      "page_number": 58,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "97",
+      "title": null,
+      "content": "Le contrat de vente principal ou de prestation de services est",
+      "language": "fr",
+      "page_number": 58,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "98",
+      "title": null,
+      "content": "L’engagement préalable de la part de l’emprunteur vis-",
+      "language": "fr",
+      "page_number": 59,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "99",
+      "title": null,
+      "content": "Le fournisseur ne peut recevoir, de la part de",
+      "language": "fr",
+      "page_number": 59,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "100",
+      "title": null,
+      "content": "On entend par crédit gratuit, dans la présente section,",
+      "language": "fr",
+      "page_number": 59,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "101",
+      "title": null,
+      "content": "Toute publicité effectuée dans le lieu de vente",
+      "language": "fr",
+      "page_number": 59,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "102",
+      "title": null,
+      "content": "Lorsqu’une opération de financement comporte une",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "103",
+      "title": null,
+      "content": "L’emprunteur peut toujours, à son initiative,",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "105",
+      "title": null,
+      "content": "Lorsque le prêteur n’exige pas le remboursement",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "106",
+      "title": null,
+      "content": "Sans préjudice de l’application du 3e alinéa de l’article",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "34",
+      "title": null,
+      "content": "« La valeur minimale du bien restitué ou repris visée au cinquième",
+      "language": "fr",
+      "page_number": 62,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "107",
+      "title": null,
+      "content": "Lorsque le bailleur n’exige pas la résiliation du contrat, il peut",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "108",
+      "title": null,
+      "content": "Aucune indemnité ni aucun coût, autres que ceux qui sont",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "109",
+      "title": null,
+      "content": "Est considéré comme défaillant l’emprunteur qui n’a pas payé trois",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "110",
+      "title": null,
+      "content": "Le prêteur pourra réclamer à l’emprunteur, en cas de défaillance de",
+      "language": "fr",
+      "page_number": 64,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "111",
+      "title": null,
+      "content": "Les actions en paiement doivent être engagées devant le tribunal",
+      "language": "fr",
+      "page_number": 64,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "112",
+      "title": null,
+      "content": "Au sens du présent chapitre, est considéré comme :",
+      "language": "fr",
+      "page_number": 65,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "113",
+      "title": null,
+      "content": "Les dispositions du présent chapitre s’appliquent aux prêts, quelle",
+      "language": "fr",
+      "page_number": 65,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "114",
+      "title": null,
+      "content": "Sont exclus du champ d’application du présent chapitre :",
+      "language": "fr",
+      "page_number": 65,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "115",
+      "title": null,
+      "content": "Toute publicité qui, quel que soit son support, porte sur l’un des",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "116",
+      "title": null,
+      "content": "Tout document publicitaire ou tout document d’information remis à",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "117",
+      "title": null,
+      "content": "Pour les prêts mentionnés à l’article 113 ci-dessus, le prêteur est",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "118",
+      "title": null,
+      "content": "L’offre définie à l’article 117 doit :",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "119",
+      "title": null,
+      "content": "Lorsque le prêteur offre à l’emprunteur ou exige de lui l’adhésion à",
+      "language": "fr",
+      "page_number": 68,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "120",
+      "title": null,
+      "content": "L’envoi de l’offre à l’emprunteur oblige le prêteur à maintenir les",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "121",
+      "title": null,
+      "content": "Jusqu’à l’acceptation de l’offre par l’emprunteur, aucun versement,",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "122",
+      "title": null,
+      "content": "L’offre est toujours acceptée sous la condition résolutoire de la non-",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "123",
+      "title": null,
+      "content": "Lorsque l’emprunteur informe ses prêteurs qu’il recourt à plusieurs",
+      "language": "fr",
+      "page_number": 70,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "124",
+      "title": null,
+      "content": "Lorsque le contrat en vue duquel le prêt a été demandé n’est pas",
+      "language": "fr",
+      "page_number": 70,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "125",
+      "title": null,
+      "content": "En cas de renégociation d’une ou plusieurs conditions du contrat de",
+      "language": "fr",
+      "page_number": 70,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "126",
+      "title": null,
+      "content": "Tout contrat, même s’il s’agit d’une promesse de vente, ayant",
+      "language": "fr",
+      "page_number": 71,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "127",
+      "title": null,
+      "content": "Lorsque l’acte mentionné à l’article 126 ci-dessus indique que",
+      "language": "fr",
+      "page_number": 71,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "128",
+      "title": null,
+      "content": "En l’absence de l’indication prescrite à l’article 126 et si un",
+      "language": "fr",
+      "page_number": 72,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "129",
+      "title": null,
+      "content": "Pour les dépenses désignées au c) du 1° de l’article 113 et à",
+      "language": "fr",
+      "page_number": 72,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "130",
+      "title": null,
+      "content": "Lorsqu’il est déclaré dans l’acte constatant le prêt que celui-ci",
+      "language": "fr",
+      "page_number": 72,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "131",
+      "title": null,
+      "content": "Les dispositions de la présente section ne sont pas applicables",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "132",
+      "title": null,
+      "content": "L’emprunteur peut toujours, à son initiative, rembourser par",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "134",
+      "title": null,
+      "content": "Aucune indemnité ni aucun coût autres que ceux qui sont",
+      "language": "fr",
+      "page_number": 74,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "135",
+      "title": null,
+      "content": "Sous réserve des dispositions de l’article 114, les contrats de",
+      "language": "fr",
+      "page_number": 74,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "136",
+      "title": null,
+      "content": "Toute publicité qui, quel que soit son support, porte sur l’un",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "137",
+      "title": null,
+      "content": "Pour les contrats régis par la présente section, le bailleur est",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "138",
+      "title": null,
+      "content": "L’envoi de l’offre oblige le bailleur à maintenir les",
+      "language": "fr",
+      "page_number": 76,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "139",
+      "title": null,
+      "content": "Jusqu’à l’acceptation de l’offre, le preneur ne peut faire",
+      "language": "fr",
+      "page_number": 76,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "140",
+      "title": null,
+      "content": "En cas de défaillance du preneur dans l’exécution d’un",
+      "language": "fr",
+      "page_number": 76,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "141",
+      "title": null,
+      "content": "En cas de location assortie d’une promesse de vente et",
+      "language": "fr",
+      "page_number": 77,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "142",
+      "title": null,
+      "content": "On entend dans le présent titre par taux effectif global",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "143",
+      "title": null,
+      "content": "Le taux effectif global visé à l’article 142 doit être",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "144",
+      "title": null,
+      "content": "La personne physique qui s’engage par acte sous seing",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "146",
+      "title": null,
+      "content": "Toute personne physique qui s’est portée caution à",
+      "language": "fr",
+      "page_number": 79,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "147",
+      "title": null,
+      "content": "Un prêteur ne peut se prévaloir d’un contrat de",
+      "language": "fr",
+      "page_number": 79,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "148",
+      "title": null,
+      "content": "Tout fournisseur, salarié ou non d’un établissement de",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "149",
+      "title": null,
+      "content": "Nonobstant les dispositions du 2e alinéa de l’article 243",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "150",
+      "title": null,
+      "content": "Sans préjudice des dispositions de l’article 164 de la loi",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "151",
+      "title": null,
+      "content": "Les dispositions du présent titre sont d’ordre public.‌",
+      "language": "fr",
+      "page_number": 81,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "152",
+      "title": null,
+      "content": "Les associations de protection du consommateur,",
+      "language": "fr",
+      "page_number": 81,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "153",
+      "title": null,
+      "content": "Au sens de la présente loi, ne peut être considérée",
+      "language": "fr",
+      "page_number": 81,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "154",
+      "title": null,
+      "content": "Les associations de protection du consommateur",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "156",
+      "title": null,
+      "content": "Est institué, conformément à la législation en vigueur,",
+      "language": "fr",
+      "page_number": 83,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "157",
+      "title": null,
+      "content": "La Fédération nationale et les associations de protection du",
+      "language": "fr",
+      "page_number": 84,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "3",
+      "title": null,
+      "content": "« L'autorisation visée à l'article 157 de la loi n° 31-08 précitée",
+      "language": "fr",
+      "page_number": 84,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "35",
+      "title": null,
+      "content": "« Les associations de protection du consommateur non",
+      "language": "fr",
+      "page_number": 85,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "36",
+      "title": null,
+      "content": "« L'autorisation visée à l'article 35 ci-dessus est délivrée pour",
+      "language": "fr",
+      "page_number": 86,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "37",
+      "title": null,
+      "content": "« L'autorisation est délivrée dans un délai de deux mois à",
+      "language": "fr",
+      "page_number": 86,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "38",
+      "title": null,
+      "content": "« L'autorisation est retirée lorsque suite à un contrôle de",
+      "language": "fr",
+      "page_number": 86,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "39",
+      "title": null,
+      "content": "« Les modalités de dépôt et d'instruction des demandes",
+      "language": "fr",
+      "page_number": 86,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "158",
+      "title": null,
+      "content": "Par dérogation aux dispositions du chapitre III du titre II et",
+      "language": "fr",
+      "page_number": 87,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "159",
+      "title": null,
+      "content": "La compétence territoriale en matière d’actions civiles",
+      "language": "fr",
+      "page_number": 87,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "160",
+      "title": null,
+      "content": "Le mandat s’exerce à titre gratuit.",
+      "language": "fr",
+      "page_number": 88,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "161",
+      "title": null,
+      "content": "Tout consommateur peut retirer le mandat visé à l’article 158",
+      "language": "fr",
+      "page_number": 88,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "162",
+      "title": null,
+      "content": "La fédération nationale ou l’association de protection du",
+      "language": "fr",
+      "page_number": 88,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "163",
+      "title": null,
+      "content": "Lorsque le défendeur ou le prévenu exprime son désir de faire",
+      "language": "fr",
+      "page_number": 89,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "164",
+      "title": null,
+      "content": "Nonobstant les dispositions législatives contraires, le ministère",
+      "language": "fr",
+      "page_number": 89,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "165",
+      "title": null,
+      "content": "La juridiction saisie peut ordonner la publication du jugement",
+      "language": "fr",
+      "page_number": 89,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "166",
+      "title": null,
+      "content": "Outre les officiers de police judiciaire, les enquêteurs spécialement",
+      "language": "fr",
+      "page_number": 90,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "4",
+      "title": null,
+      "content": "« Conformément à l'article 166 de la loi n° 31-08 précitée, les",
+      "language": "fr",
+      "page_number": 90,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "6",
+      "title": null,
+      "content": "« Conformément à l'article 166 de la loi n° 31-08 précitée, les",
+      "language": "fr",
+      "page_number": 91,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "167",
+      "title": null,
+      "content": "Les constations des infractions donnent lieu à l’établissement de",
+      "language": "fr",
+      "page_number": 91,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "168",
+      "title": null,
+      "content": "Nonobstant les dispositions de l’article 24 de la loi relative à la",
+      "language": "fr",
+      "page_number": 91,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "169",
+      "title": null,
+      "content": "Les enquêteurs peuvent accéder à tous locaux, terrains ou moyens",
+      "language": "fr",
+      "page_number": 92,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "170",
+      "title": null,
+      "content": "Les enquêteurs susmentionnés ne peuvent procéder aux visites en",
+      "language": "fr",
+      "page_number": 93,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "171",
+      "title": null,
+      "content": "Les enquêteurs peuvent, dans le cadre des missions qu’ils",
+      "language": "fr",
+      "page_number": 94,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "172",
+      "title": null,
+      "content": "Pour la recherche et la constatation des infractions aux dispositions",
+      "language": "fr",
+      "page_number": 94,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "173",
+      "title": null,
+      "content": "Les infractions aux dispositions du titre II de la présente loi et des",
+      "language": "fr",
+      "page_number": 95,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "174",
+      "title": null,
+      "content": "Les infractions aux dispositions des articles 21 et 22 sont punies",
+      "language": "fr",
+      "page_number": 95,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "175",
+      "title": null,
+      "content": "Les pénalités prévues au premier alinéa de l’article 174 sont",
+      "language": "fr",
+      "page_number": 95,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "176",
+      "title": null,
+      "content": "Est puni d’une amende de 10.000 à 50.000 dirhams le fournisseur",
+      "language": "fr",
+      "page_number": 97,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "177",
+      "title": null,
+      "content": "Les infractions aux dispositions des articles 29, 30 et 32 sont punies",
+      "language": "fr",
+      "page_number": 97,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "178",
+      "title": null,
+      "content": "Est punie d’une amende de 1.200 à 50.000 dirhams le refus du",
+      "language": "fr",
+      "page_number": 97,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "180",
+      "title": null,
+      "content": "Toute infraction aux dispositions des articles 47 à 51 et de l’article",
+      "language": "fr",
+      "page_number": 98,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "181",
+      "title": null,
+      "content": "Le fournisseur qui omet de respecter les exigences prescrites à",
+      "language": "fr",
+      "page_number": 98,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "182",
+      "title": null,
+      "content": "Les infractions aux dispositions des articles 56 et 57 ci-dessus et des",
+      "language": "fr",
+      "page_number": 98,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "183",
+      "title": null,
+      "content": "Sans préjudice des peines plus graves, les infractions aux",
+      "language": "fr",
+      "page_number": 98,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "185",
+      "title": null,
+      "content": "Sans préjudice des sanctions plus graves, sont punis d’une amende",
+      "language": "fr",
+      "page_number": 99,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "186",
+      "title": null,
+      "content": "Les infractions aux dispositions des articles 66 à 73 et des textes",
+      "language": "fr",
+      "page_number": 99,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "187",
+      "title": null,
+      "content": "Le prêteur qui omet de respecter les formalités prescrites aux",
+      "language": "fr",
+      "page_number": 100,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "188",
+      "title": null,
+      "content": "Sera puni d’une amende de 30.000 à 200.000 dirhams :",
+      "language": "fr",
+      "page_number": 100,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "189",
+      "title": null,
+      "content": "L’annonceur pour le compte de qui est diffusée avec son",
+      "language": "fr",
+      "page_number": 101,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "190",
+      "title": null,
+      "content": "Le prêteur ou le bailleur, qui ne respecte pas l’une des",
+      "language": "fr",
+      "page_number": 101,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "191",
+      "title": null,
+      "content": "Le prêteur ou le bailleur qui, en infraction aux",
+      "language": "fr",
+      "page_number": 102,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "192",
+      "title": null,
+      "content": "Le prêteur en infraction aux dispositions du premier",
+      "language": "fr",
+      "page_number": 102,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "193",
+      "title": null,
+      "content": "Toute infraction aux dispositions de l’article 143 est",
+      "language": "fr",
+      "page_number": 103,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "194",
+      "title": null,
+      "content": "Toute infraction aux dispositions de l’article 206 est",
+      "language": "fr",
+      "page_number": 103,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "195",
+      "title": null,
+      "content": "Les dispositions pénales prévues par la présente loi ne",
+      "language": "fr",
+      "page_number": 103,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "196",
+      "title": null,
+      "content": "A compter de la date de la publication de la présente loi",
+      "language": "fr",
+      "page_number": 104,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "197",
+      "title": null,
+      "content": "La présente loi entre en vigueur à compter de la date de",
+      "language": "fr",
+      "page_number": 104,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "198",
+      "title": null,
+      "content": "Les fournisseurs doivent :",
+      "language": "fr",
+      "page_number": 105,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "199",
+      "title": null,
+      "content": "Le prêteur, soumis aux dispositions du chapitre I du titre VI",
+      "language": "fr",
+      "page_number": 105,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "201",
+      "title": null,
+      "content": "Les associations de protection du consommateur régulièrement",
+      "language": "fr",
+      "page_number": 106,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "202",
+      "title": null,
+      "content": "En cas de litige entre le fournisseur et le consommateur, et",
+      "language": "fr",
+      "page_number": 107,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "203",
+      "title": null,
+      "content": "Les délais prévus par la présente loi sont des délais francs.",
+      "language": "fr",
+      "page_number": 107,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "204",
+      "title": null,
+      "content": "Il sera institué un conseil consultatif supérieur de la consommation,",
+      "language": "fr",
+      "page_number": 107,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    },
+    {
+      "article_number": "206",
+      "title": null,
+      "content": "Tout acte rédigé dans une langue étrangère doit être",
+      "language": "fr",
+      "page_number": 107,
+      "code_name": "Loi sur la Protection du Consommateur",
+      "official_ref": "Loi n° 31-08 édictant des mesures de protection du consommateur"
+    }
+  ],
+  "raw_text_length": 149764,
+  "raw_text_preview": "\n--- Page 1 ---\nLaws Treaties Judgments Browse By Jurisdiction\n Back\nLaw No. 31-08 on Consumer\nProtection Measures\n(promulgated by Dahir No.\n1.11.03 Rabi'i I 1432\n(February 18, 2011)),\nMorocco\nLatest Version in WIPO Lex\nDetails Details Year of Version 2011 Dates Adopted: February 18,\n2011 Type of Text IP-related Laws Subject Matter Trademarks,\nTrade Names, Other Notes Law No. 31-08 on Consumer Protection\nMeasures entered into force on April 7, 2011, on the day of its\npublication in the Official "
+}

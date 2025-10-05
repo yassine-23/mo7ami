@@ -38,10 +38,11 @@ export function VoiceRecorder({ onTranscript, language, disabled = false }: Voic
       setError(null);
       audioChunksRef.current = [];
 
+      // Request microphone permission with better error handling
       const stream = await navigator.mediaDevices.getUserMedia({
         audio: {
           channelCount: 1,
-          sampleRate: 24000,
+          sampleRate: 16000, // Changed to 16kHz for better Whisper compatibility
           echoCancellation: true,
           noiseSuppression: true,
           autoGainControl: true,
@@ -97,13 +98,13 @@ export function VoiceRecorder({ onTranscript, language, disabled = false }: Voic
       if (err instanceof DOMException) {
         switch (err.name) {
           case "NotAllowedError":
-            setError(isArabic ? "تم رفض إذن الميكروفون" : "Permission micro refusée");
+            setError(isArabic ? "تم رفض إذن الميكروفون. افتح إعدادات المتصفح للسماح." : "Permission micro refusée. Activez dans les paramètres.");
             break;
           case "NotFoundError":
             setError(isArabic ? "لم يتم العثور على ميكروفون" : "Aucun microphone trouvé");
             break;
           case "NotReadableError":
-            setError(isArabic ? "الميكروفون قيد الاستخدام" : "Microphone déjà utilisé");
+            setError(isArabic ? "الميكروفون قيد الاستخدام بواسطة تطبيق آخر" : "Microphone utilisé par une autre app");
             break;
           default:
             setError(isArabic ? "خطأ في الوصول إلى الميكروفون" : "Erreur d'accès au micro");
@@ -182,8 +183,15 @@ export function VoiceRecorder({ onTranscript, language, disabled = false }: Voic
   const handleTouchStart = useCallback((e: React.TouchEvent) => {
     if (disabled || isProcessing) return;
     e.preventDefault();
+    e.stopPropagation(); // Prevent event bubbling
     touchStartYRef.current = e.touches[0].clientY;
     setIsTouching(true);
+
+    // Haptic feedback on mobile (if supported)
+    if ('vibrate' in navigator) {
+      navigator.vibrate(50);
+    }
+
     startRecording();
   }, [disabled, isProcessing, startRecording]);
 
@@ -196,6 +204,12 @@ export function VoiceRecorder({ onTranscript, language, disabled = false }: Voic
   const handleTouchEnd = useCallback(() => {
     if (!isTouching) return;
     setIsTouching(false);
+
+    // Haptic feedback on release (if supported)
+    if ('vibrate' in navigator) {
+      navigator.vibrate(slideOffset >= CANCEL_THRESHOLD ? [30, 30] : 30);
+    }
+
     if (slideOffset >= CANCEL_THRESHOLD) {
       cancelRecording();
     } else {

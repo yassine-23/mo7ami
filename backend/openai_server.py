@@ -352,8 +352,13 @@ class OpenAIHandler(BaseHTTPRequestHandler):
                     files = {
                         'file': ('audio.webm', audio_file, 'audio/webm'),
                         'model': (None, 'whisper-1'),
-                        'language': (None, 'ar' if language == 'ar' else 'fr'),
+                        # Don't specify language for Arabic to allow Whisper to detect Darija
+                        # This improves recognition for Moroccan Arabic dialects
                     }
+
+                    # Only add language hint for French, let Whisper auto-detect Arabic dialects
+                    if language == 'fr':
+                        files['language'] = (None, 'fr')
 
                     response = requests.post(
                         'https://api.openai.com/v1/audio/transcriptions',
@@ -400,9 +405,12 @@ class OpenAIHandler(BaseHTTPRequestHandler):
             text = data.get('text', '')
             language = data.get('language', 'ar')
             speed = data.get('speed', 1.25)  # Default faster speed: 1.25x
-            voice = 'alloy'  # Using alloy voice which works well for multiple languages
 
-            print(f"🔊 TTS request: {text[:50]}... (lang: {language}, speed: {speed}x)")
+            # Use shimmer for Arabic (more neutral, feminine, natural for Darija)
+            # Use nova for French (clear, warm, professional)
+            voice = 'shimmer' if language == 'ar' else 'nova'
+
+            print(f"🔊 TTS request: {text[:50]}... (lang: {language}, voice: {voice}, speed: {speed}x)")
 
             try:
                 headers = {

@@ -1,0 +1,4825 @@
+{
+  "success": true,
+  "metadata": {
+    "name": "Code de Procédure Civile",
+    "name_ar": "قانون المسطرة المدنية",
+    "url": "https://www.wipo.int/edocs/lexdocs/laws/fr/ma/ma018fr.pdf",
+    "filename": "code_procedure_civile.pdf",
+    "domain": "civil_law",
+    "language": "fr",
+    "priority": 7,
+    "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+  },
+  "language": "fr",
+  "total_articles": 534,
+  "articles": [
+    {
+      "article_number": "2",
+      "title": null,
+      "content": "Les dispositions de ce code recevront application dans toute l'étendue",
+      "language": "fr",
+      "page_number": 2,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "3",
+      "title": null,
+      "content": "Les cours et tribunaux continueront d'observer les lois et règlements",
+      "language": "fr",
+      "page_number": 2,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "4",
+      "title": null,
+      "content": "Les références aux dispositions de textes abrogés par le présent dahir",
+      "language": "fr",
+      "page_number": 2,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "5",
+      "title": null,
+      "content": "Sont abrogées, à partir de la date d'application du code ci-annexé,",
+      "language": "fr",
+      "page_number": 2,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "6",
+      "title": null,
+      "content": "Le présent dahir portant loi sera publié au Bulletin officiel.",
+      "language": "fr",
+      "page_number": 3,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "2",
+      "title": null,
+      "content": "Le juge ne peut se dispenser de juger ou de rendre une décision ;",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "3",
+      "title": null,
+      "content": "Le juge doit statuer dans les limites fixées par les demandes des",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "4",
+      "title": null,
+      "content": "Un magistrat ne peut connaître en appel ou en cassation d'une affaire",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "5",
+      "title": null,
+      "content": "Tout plaideur est tenu d'exercer ses droits selon les règles de la bonne",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "6",
+      "title": null,
+      "content": "Le ministère public peut agir comme partie principale ou intervenir",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "7",
+      "title": null,
+      "content": "Lorsque le ministère public agit d'office comme demandeur ou",
+      "language": "fr",
+      "page_number": 5,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "8",
+      "title": null,
+      "content": "Dans toutes les causes dont la loi ordonne communication au",
+      "language": "fr",
+      "page_number": 5,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "9",
+      "title": null,
+      "content": "Doivent être communiquées au ministère public, les causes",
+      "language": "fr",
+      "page_number": 5,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "10",
+      "title": null,
+      "content": "Le ministère public n'est tenu à assister à l'audience que dans les cas",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "11",
+      "title": null,
+      "content": "Le taux de la compétence en dernier ressort est déterminé",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "12",
+      "title": null,
+      "content": "Si la valeur de l'objet du litige est indéterminée, la décision est",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "13",
+      "title": null,
+      "content": "Lorsque plusieurs demandes formulées par la même partie contre le",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "14",
+      "title": null,
+      "content": "La demande formée par plusieurs demandeurs ou contre plusieurs",
+      "language": "fr",
+      "page_number": 7,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "15",
+      "title": null,
+      "content": "Le tribunal connaît de toutes les demandes reconventionnelles ou en",
+      "language": "fr",
+      "page_number": 7,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "16",
+      "title": null,
+      "content": "Toute exception d'incompétence, en raison de la matière ou du lieu,",
+      "language": "fr",
+      "page_number": 7,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "17",
+      "title": null,
+      "content": "Le tribunal saisi d'une exception d'incompétence doit statuer sur",
+      "language": "fr",
+      "page_number": 7,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "18",
+      "title": null,
+      "content": "Sous réserve de la compétence spéciale attribuée aux juges",
+      "language": "fr",
+      "page_number": 8,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "19",
+      "title": null,
+      "content": "Les tribunaux de première instance connaissent en dernier ressort",
+      "language": "fr",
+      "page_number": 8,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "20",
+      "title": null,
+      "content": "Le tribunal de première instance est compétent en matière sociale",
+      "language": "fr",
+      "page_number": 8,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "21",
+      "title": null,
+      "content": "En matière sociale, le juge statue sans appel dans la limite de la",
+      "language": "fr",
+      "page_number": 8,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "22",
+      "title": null,
+      "content": "Les dispositions de l'article 15 relatives aux demandes",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "23",
+      "title": null,
+      "content": "Les contestations et différends prévus au paragraphe a) de l'article",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "24",
+      "title": null,
+      "content": "Sauf dispositions légales contraires, les cours d'appel connaissent",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "25",
+      "title": null,
+      "content": "(alinéa 2, remplacé, article 50 de la loi n° 41-90 instituant des",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "26",
+      "title": null,
+      "content": "Sous réserve des dispositions de l'article 149, chaque juridiction",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "27",
+      "title": null,
+      "content": "La compétence territoriale appartient au tribunal du domicile réel ou",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "28",
+      "title": null,
+      "content": "Par dérogation aux dispositions de l'article précédent, les actions",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "29",
+      "title": null,
+      "content": "Par dérogation aux dispositions du dernier alinéa de l'article",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "30",
+      "title": null,
+      "content": "Les demandes en garantie et autres demandes incidentes, les",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "31",
+      "title": null,
+      "content": "(dernier alinéa, modifié, D. n° 1-93-206 du 10 septembre 1993 - 22",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "32",
+      "title": null,
+      "content": "(dernier alinéa, modifié, D. n° 1-93-206 du 10 septembre 1993 - 22",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "33",
+      "title": null,
+      "content": "Le mandataire doit être domicilié dans le ressort de la juridiction.",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "34",
+      "title": null,
+      "content": "Le mandataire autre que celui qui, par profession, jouit du droit de",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "35",
+      "title": null,
+      "content": "Ne peuvent être admis comme mandataires des parties :",
+      "language": "fr",
+      "page_number": 15,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "36",
+      "title": null,
+      "content": "Le juge convoque immédiatement, par écrit, le demandeur et le",
+      "language": "fr",
+      "page_number": 15,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "37",
+      "title": null,
+      "content": "La convocation est transmise soit par l'un des agents du greffe, soit",
+      "language": "fr",
+      "page_number": 15,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "38",
+      "title": null,
+      "content": "La convocation est remise valablement, soit à personne, soit à",
+      "language": "fr",
+      "page_number": 16,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "39",
+      "title": null,
+      "content": "A la convocation, est annexé un certificat indiquant à qui elle a été",
+      "language": "fr",
+      "page_number": 16,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "40",
+      "title": null,
+      "content": "Il doit y avoir, entre la notification de la convocation et le jour fixé",
+      "language": "fr",
+      "page_number": 17,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "41",
+      "title": null,
+      "content": "Lorsque celui qui est convoqué n'a ni domicile ni résidence dans le",
+      "language": "fr",
+      "page_number": 17,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "42",
+      "title": null,
+      "content": "Les juges du tribunal de première instance peuvent siéger tous les",
+      "language": "fr",
+      "page_number": 18,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "43",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 18,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "44",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 18,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "45",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "46",
+      "title": null,
+      "content": "La cause est jugée sur-le-champ ou renvoyée à une prochaine",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "47",
+      "title": null,
+      "content": "(Modifié et complété L. n° 24-80 promulguée par D. n° 1-80-348, 6",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "48",
+      "title": null,
+      "content": "S'il y a plusieurs défendeurs et si l'un d'eux ne comparaît ni en",
+      "language": "fr",
+      "page_number": 20,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "49",
+      "title": null,
+      "content": "Les exceptions de litispendance et de connexité, ainsi que les",
+      "language": "fr",
+      "page_number": 20,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "50",
+      "title": null,
+      "content": "(10° alinéa, modifié, D. n° 1-93-206 du 10 septembre 1993 - 22",
+      "language": "fr",
+      "page_number": 20,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "51",
+      "title": null,
+      "content": "(2° et 4° alinéas, modifiés, D. n° 1-93-206 du 10 septembre 1993 -",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "52",
+      "title": null,
+      "content": "L'exécution provisoire des jugements des tribunaux de première",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "53",
+      "title": null,
+      "content": "Une expédition certifiée conforme de toute décision est délivrée par",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "54",
+      "title": null,
+      "content": "La notification d'un jugement est accompagnée d'une expédition",
+      "language": "fr",
+      "page_number": 23,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "55",
+      "title": null,
+      "content": "Le juge peut, soit sur la demande des parties ou de l'une d'elles, soit",
+      "language": "fr",
+      "page_number": 23,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "56",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 23,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "57",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 23,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "58",
+      "title": null,
+      "content": "Les dispositions de l'article précédent sont applicables aux vacations",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "59",
+      "title": null,
+      "content": "(modifié, D. n° 1-00-345 du 26 décembre 2000-29 ramadan 1421",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "60",
+      "title": null,
+      "content": "(modifié, D. n° 1-00-345 du 26 décembre 2000-29 ramadan 1421",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "61",
+      "title": null,
+      "content": "(modifié, D. n° 1-00-345 du 26 décembre 2000-29 ramadan 1421",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "62",
+      "title": null,
+      "content": "(modifié, D. n° 1-00-345 du 26 décembre 2000-29 ramadan 1421",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "63",
+      "title": null,
+      "content": "(modifié, D. n° 1-00-345 du 26 décembre 2000-29 ramadan 1421",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "64",
+      "title": null,
+      "content": "(modifié, D. n° 1-00-345 du 26 décembre 2000-29 ramadan 1421",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "65",
+      "title": null,
+      "content": "(modifié, D. n° 1-00-345 du 26 décembre 2000-29 ramadan 1421",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "66",
+      "title": null,
+      "content": "(modifié, D. n° 1-00-345 du 26 décembre 2000-29 ramadan 1421",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "67",
+      "title": null,
+      "content": "Quand le juge ordonne, soit d'office, soit sur la demande des parties,",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "68",
+      "title": null,
+      "content": "Si l'objet de la visite exige des connaissances qui soient étrangères",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "69",
+      "title": null,
+      "content": "Le juge peut, en outre, entendre, au cours de sa visite, les personnes",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "70",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "71",
+      "title": null,
+      "content": "L'enquête peut être ordonnée sur les faits de nature à être constatés",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "72",
+      "title": null,
+      "content": "Le jugement qui ordonne l'enquête indique les faits sur lesquels elle",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "73",
+      "title": null,
+      "content": "Le juge peut également ordonner qu'il se transportera sur les lieux et",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "74",
+      "title": null,
+      "content": "Les parties peuvent, soit citer directement leurs témoins par lettre",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "75",
+      "title": null,
+      "content": "Ne peuvent être entendus comme témoins les parents ou alliés en",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "76",
+      "title": null,
+      "content": "Les témoins sont entendus séparément, tant en présence qu'en",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "77",
+      "title": null,
+      "content": "Le délai imparti aux témoins pour comparaître est d'au moins cinq",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "78",
+      "title": null,
+      "content": "Si le témoin justifie qu'il est dans l'impossibilité de se présenter au",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "79",
+      "title": null,
+      "content": "En cas de reproche proposé contre un témoin, il est statué",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "80",
+      "title": null,
+      "content": "Les reproches doivent être proposés avant la déposition à moins que",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "81",
+      "title": null,
+      "content": "Le témoin dépose oralement et ne peut s'aider de notes",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "82",
+      "title": null,
+      "content": "La partie ne peut interrompre le témoin dans sa déposition ni lui",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "83",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "84",
+      "title": null,
+      "content": "Le juge statue immédiatement après l'enquête ou renvoie l'affaire à",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "85",
+      "title": null,
+      "content": "Lorsque pour mettre fin définitivement à un litige une partie défère",
+      "language": "fr",
+      "page_number": 31,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "86",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 31,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "87",
+      "title": null,
+      "content": "Dans le cas où le tribunal, en présence d'une réclamation d'une",
+      "language": "fr",
+      "page_number": 31,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "88",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 31,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "89",
+      "title": null,
+      "content": "Lorsqu'une partie dénie l'écriture ou la signature à elle attribuée ou",
+      "language": "fr",
+      "page_number": 32,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "90",
+      "title": null,
+      "content": "(dernier alinéa, modifié, D. n° 1-93-206 du 10 septembre 1993 - 22",
+      "language": "fr",
+      "page_number": 32,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "91",
+      "title": null,
+      "content": "S'il est prouvé par la vérification d'écritures que la pièce est écrite ou",
+      "language": "fr",
+      "page_number": 32,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "92",
+      "title": null,
+      "content": "Lorsqu'au cours d'un procès, une pièce produite est incidemment",
+      "language": "fr",
+      "page_number": 32,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "93",
+      "title": null,
+      "content": "Si la partie sommée déclare qu'elle entend faire usage de la pièce, le",
+      "language": "fr",
+      "page_number": 33,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "94",
+      "title": null,
+      "content": "Si le dépôt est effectué, le juge procède à l'instruction de la demande",
+      "language": "fr",
+      "page_number": 33,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "95",
+      "title": null,
+      "content": "Dans le cas où la pièce n'a pas été produite en original, le juge invite",
+      "language": "fr",
+      "page_number": 33,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "96",
+      "title": null,
+      "content": "Si la pièce arguée de faux est en minute dans un dépôt public, le",
+      "language": "fr",
+      "page_number": 33,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "97",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 33,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "98",
+      "title": null,
+      "content": "Immédiatement après la rédaction du procès-verbal, il est procédé",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "99",
+      "title": null,
+      "content": "Lorsque le jugement, en statuant sur l'inscription en faux, ordonne",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "100",
+      "title": null,
+      "content": "Lorsque le jugement ordonne la restitution des pièces produites, il",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "101",
+      "title": null,
+      "content": "Tant que les pièces arguées de faux demeurent déposées au greffe",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "102",
+      "title": null,
+      "content": "Si indépendamment de la demande d'inscription en faux, la",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "103",
+      "title": null,
+      "content": "Lorsque l'une des parties demande à mettre un tiers en cause à titre",
+      "language": "fr",
+      "page_number": 35,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "104",
+      "title": null,
+      "content": "Il est procédé de même quand le garant mis en cause en appelle un",
+      "language": "fr",
+      "page_number": 35,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "105",
+      "title": null,
+      "content": "Le garant est tenu d'intervenir devant la juridiction où la demande",
+      "language": "fr",
+      "page_number": 35,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "106",
+      "title": null,
+      "content": "Si les demandes originaires et en garantie sont en état d'être jugées",
+      "language": "fr",
+      "page_number": 35,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "107",
+      "title": null,
+      "content": "Les jugements rendus contre le garant, qui a pris le fait et cause du",
+      "language": "fr",
+      "page_number": 35,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "108",
+      "title": null,
+      "content": "Lorsqu'un défendeur est appelé devant le tribunal en qualité",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "109",
+      "title": null,
+      "content": "S'il a été formé précédemment en un autre tribunal une demande",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "110",
+      "title": null,
+      "content": "La jonction à raison de leur connexité, d'instances pendantes",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "111",
+      "title": null,
+      "content": "Les demandes en intervention volontaire sont admises de la part de",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "112",
+      "title": null,
+      "content": "En cas d'appel en cause d'un tiers, le juge peut, soit statuer",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "113",
+      "title": null,
+      "content": "L'intervention et les autres demandes incidentes ne peuvent",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "114",
+      "title": null,
+      "content": "Le décès ou une modification dans la capacité des parties ne peut",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "115",
+      "title": null,
+      "content": "Quand une affaire n'est pas en état d'être jugée, le juge, dès que le",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "116",
+      "title": null,
+      "content": "Faute par ceux qui ont été ainsi avertis d'avoir repris l'instance dans",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "117",
+      "title": null,
+      "content": "Les reprises d'instance ont lieu dans les formes prévues à l'article",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "118",
+      "title": null,
+      "content": "A défaut d'une déclaration expresse, l'instance est tenue pour",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "119",
+      "title": null,
+      "content": "Le désistement peut être fait par acte écrit ou déclaration consignée",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "120",
+      "title": null,
+      "content": "Le désistement d'instance est admis en toutes matières. Le",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "121",
+      "title": null,
+      "content": "Le juge donne acte aux parties de leur accord concernant le",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "122",
+      "title": null,
+      "content": "Le désistement, lorsqu'il est accepté ou déclaré valable par le juge,",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "123",
+      "title": null,
+      "content": "Tout désistement implique l'accord de la partie qui s'est désistée de",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "124",
+      "title": null,
+      "content": "Toute partie qui succombe, qu'il s'agisse d'un particulier ou d'une",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "125",
+      "title": null,
+      "content": "Le montant des dépens liquidés est mentionné dans le jugement qui",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "126",
+      "title": null,
+      "content": "Si les dépens comprennent les vacations et frais d'un expert ou d'un",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "127",
+      "title": null,
+      "content": "L'expert, l'interprète et les parties peuvent, dans les dix jours à",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "128",
+      "title": null,
+      "content": "Si un témoin requiert taxe, il est procédé comme au paragraphe",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "129",
+      "title": null,
+      "content": "Les parties peuvent faire opposition à la liquidation des dépens",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "130",
+      "title": null,
+      "content": "Les jugements par défaut du tribunal de première instance, mais",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "131",
+      "title": null,
+      "content": "L'opposition est formée et la convocation à l'audience du",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "132",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "133",
+      "title": null,
+      "content": "La partie opposante qui se laisserait juger une seconde fois par",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "134",
+      "title": null,
+      "content": "L'appel est de droit dans tous les cas qui ne sont pas formellement",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "135",
+      "title": null,
+      "content": "L'intimé peut interjeter incidemment appel en tout état de cause,",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "136",
+      "title": null,
+      "content": "Les délais d'appel sont triplés en faveur des parties qui n'ont ni",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "137",
+      "title": null,
+      "content": "Les délais d'appel sont suspendus par la mort de l'une ou l'autre des",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "138",
+      "title": null,
+      "content": "Dans le cas prévu à l'article 137, la notification de l'acte d'appel",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "139",
+      "title": null,
+      "content": "S'il se produit au cours du délai d'appel, une modification dans la",
+      "language": "fr",
+      "page_number": 41,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "140",
+      "title": null,
+      "content": "Les jugements avant dire droit ne peuvent être frappés d'appel",
+      "language": "fr",
+      "page_number": 41,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "141",
+      "title": null,
+      "content": "L'appel est formé au greffe du tribunal de première instance dont le",
+      "language": "fr",
+      "page_number": 41,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "142",
+      "title": null,
+      "content": "La requête doit contenir les noms, prénoms, qualité ou profession,",
+      "language": "fr",
+      "page_number": 41,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "143",
+      "title": null,
+      "content": "Il ne peut être formé en cause d'appel aucune demande nouvelle à",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "144",
+      "title": null,
+      "content": "Aucune intervention n'est valable si ce n'est de la part de ceux qui",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "145",
+      "title": null,
+      "content": "Si le jugement est confirmé, l'exécution appartient au tribunal dont",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "146",
+      "title": null,
+      "content": "Lorsqu'elle annule ou infirme la décision dont est appel, la cour",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "147",
+      "title": null,
+      "content": "L'exécution provisoire nonobstant opposition ou appel, doit être",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "148",
+      "title": null,
+      "content": "Les présidents des tribunaux de première instance sont seuls",
+      "language": "fr",
+      "page_number": 43,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "149",
+      "title": null,
+      "content": "En dehors des cas prévus à l'article précédent où le président du",
+      "language": "fr",
+      "page_number": 44,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "150",
+      "title": null,
+      "content": "En dehors des jours et heures indiqués pour les référés, la demande",
+      "language": "fr",
+      "page_number": 44,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "151",
+      "title": null,
+      "content": "Sauf en cas d'extrême urgence, le juge ordonne la convocation de",
+      "language": "fr",
+      "page_number": 45,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "152",
+      "title": null,
+      "content": "Les ordonnances sur référés ne statuent qu'au provisoire et sans",
+      "language": "fr",
+      "page_number": 45,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "153",
+      "title": null,
+      "content": "Les ordonnances sur référés sont exécutoires par provision. Le juge",
+      "language": "fr",
+      "page_number": 45,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "154",
+      "title": null,
+      "content": "Le juge des référés peut, suivant les cas, statuer sur les dépens ou",
+      "language": "fr",
+      "page_number": 45,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "155",
+      "title": null,
+      "content": "Toute demande en paiement d'une somme d'argent supérieure à",
+      "language": "fr",
+      "page_number": 45,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "156",
+      "title": null,
+      "content": "Le tribunal de première instance est saisi dans les conditions",
+      "language": "fr",
+      "page_number": 46,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "157",
+      "title": null,
+      "content": "La requête n'est pas recevable si la notification doit avoir lieu à",
+      "language": "fr",
+      "page_number": 46,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "158",
+      "title": null,
+      "content": "Le président du tribunal de première instance est seul compétent",
+      "language": "fr",
+      "page_number": 46,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "159",
+      "title": null,
+      "content": "Les requêtes aux fins d'injonction de payer sont inscrites à leur date",
+      "language": "fr",
+      "page_number": 46,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "160",
+      "title": null,
+      "content": "La décision de condamnation est notifiée au défendeur qui doit,",
+      "language": "fr",
+      "page_number": 46,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "161",
+      "title": null,
+      "content": "L'acte de notification contient avec un extrait de la requête, du titre",
+      "language": "fr",
+      "page_number": 47,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "162",
+      "title": null,
+      "content": "Si, dans le délai de huit jours de la notification à personne ou à",
+      "language": "fr",
+      "page_number": 47,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "162",
+      "title": null,
+      "content": "bis. (institué, art 1 ; loi n° 19-02 promulguée par le Dahir n° 1-02-",
+      "language": "fr",
+      "page_number": 47,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "163",
+      "title": null,
+      "content": "Si l'appel est rejeté, l'ordonnance produit son plein et entier effet et",
+      "language": "fr",
+      "page_number": 47,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "164",
+      "title": null,
+      "content": "Si la cour estime que l'appel a eu un but purement dilatoire, elle",
+      "language": "fr",
+      "page_number": 47,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "165",
+      "title": null,
+      "content": "L'ordonnance et l'arrêt peuvent stipuler des délais de paiement en",
+      "language": "fr",
+      "page_number": 48,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "166",
+      "title": null,
+      "content": "Les actions possessoires ne peuvent être intentées que par celui qui,",
+      "language": "fr",
+      "page_number": 48,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "167",
+      "title": null,
+      "content": "Les actions possessoires, qu'elles soient exercées au principal ou",
+      "language": "fr",
+      "page_number": 48,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "168",
+      "title": null,
+      "content": "Si la possession ou le trouble est dénié, l'enquête qui sera ordonnée",
+      "language": "fr",
+      "page_number": 48,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "169",
+      "title": null,
+      "content": "Le demandeur au pétitoire n'est plus recevable à agir au possessoire",
+      "language": "fr",
+      "page_number": 48,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "170",
+      "title": null,
+      "content": "Dans le cas où le demandeur et le défendeur émettent l'un et l'autre",
+      "language": "fr",
+      "page_number": 48,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "171",
+      "title": null,
+      "content": "Lorsqu'un créancier refuse de recevoir l'objet que son débiteur ou",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "172",
+      "title": null,
+      "content": "Les offres sont faites par l'un des agents du greffe de la juridiction",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "173",
+      "title": null,
+      "content": "Tout procès-verbal d'offres fait mention de la réponse, du refus ou",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "174",
+      "title": null,
+      "content": "Si le créancier refuse les offres, le débiteur peut, pour se libérer,",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "175",
+      "title": null,
+      "content": "La consignation effectuée par le débiteur qui veut se libérer en cas",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "176",
+      "title": null,
+      "content": "La demande qui peut être intentée, soit en validité, soit en nullité",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "177",
+      "title": null,
+      "content": "Le jugement qui déclare les offres valables ordonne, dans le cas où",
+      "language": "fr",
+      "page_number": 50,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "178",
+      "title": null,
+      "content": "Les oppositions qui ont été ou seront notifiées au débiteur déposant",
+      "language": "fr",
+      "page_number": 50,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "179",
+      "title": null,
+      "content": "(Complété, L. n° 9-78 promulguée par D. 1-78-952, 18 avril 1979 -",
+      "language": "fr",
+      "page_number": 50,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "180",
+      "title": null,
+      "content": "Lorsque le juge est saisi d'une procédure, il convoque",
+      "language": "fr",
+      "page_number": 51,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "181",
+      "title": null,
+      "content": "L'organisation et le fonctionnement des tutelles sont régis par les",
+      "language": "fr",
+      "page_number": 51,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "182",
+      "title": null,
+      "content": "Les fonctions de juge des tutelles sont exercées par un juge du",
+      "language": "fr",
+      "page_number": 52,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "183",
+      "title": null,
+      "content": "Lorsqu'une personne décède, l'autorité locale du lieu du décès, est",
+      "language": "fr",
+      "page_number": 52,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "184",
+      "title": null,
+      "content": "Toute ouverture de tutelle donne lieu à l'établissement d'un dossier",
+      "language": "fr",
+      "page_number": 52,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "185",
+      "title": null,
+      "content": "Dès la réception de l'avis de décès, le juge des tutelles compétent",
+      "language": "fr",
+      "page_number": 52,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "186",
+      "title": null,
+      "content": "Le juge des tutelles doit prendre immédiatement toutes les mesures",
+      "language": "fr",
+      "page_number": 52,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "187",
+      "title": null,
+      "content": "Le tuteur testamentaire ou datif doit tenir un registre qui comprend,",
+      "language": "fr",
+      "page_number": 53,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "188",
+      "title": null,
+      "content": "Le tuteur datif ou testamentaire doit présenter au juge des tutelles",
+      "language": "fr",
+      "page_number": 53,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "189",
+      "title": null,
+      "content": "Le juge des tutelles autorise le tuteur à accomplir les actes",
+      "language": "fr",
+      "page_number": 53,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "190",
+      "title": null,
+      "content": "Le juge des tutelles exerce une surveillance générale sur le",
+      "language": "fr",
+      "page_number": 53,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "191",
+      "title": null,
+      "content": "Lorsque le juge des tutelles constate que des deniers appartenant au",
+      "language": "fr",
+      "page_number": 54,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "192",
+      "title": null,
+      "content": "Les dispositions des articles 186 et 188 ne sont pas applicables",
+      "language": "fr",
+      "page_number": 54,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "193",
+      "title": null,
+      "content": "Lorsque le tuteur testamentaire ou datif refuse de rendre les",
+      "language": "fr",
+      "page_number": 54,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "194",
+      "title": null,
+      "content": "Le juge des tutelles, saisi par requête, statue sur toute demande",
+      "language": "fr",
+      "page_number": 54,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "195",
+      "title": null,
+      "content": "Le juge des tutelles peut nommer un tuteur provisoire.",
+      "language": "fr",
+      "page_number": 54,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "196",
+      "title": null,
+      "content": "Les ordonnances du juge des tutelles, à l'exclusion de celles",
+      "language": "fr",
+      "page_number": 54,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "197",
+      "title": null,
+      "content": "Le dément, le faible d'esprit et le prodigue peuvent être mis sous",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "198",
+      "title": null,
+      "content": "Le juge doit, pour prononcer l'interdiction, se fonder sur tous",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "199",
+      "title": null,
+      "content": "La tutelle de l'interdit est organisée conformément aux règles",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "200",
+      "title": null,
+      "content": "Le jugement prononçant l'interdiction est affiché par extrait au",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "201",
+      "title": null,
+      "content": "Le juge des tutelles autorise le tuteur à vendre à l'amiable et au",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "202",
+      "title": null,
+      "content": "Si la vente à l'amiable ne peut avoir lieu ou si la valeur des meubles",
+      "language": "fr",
+      "page_number": 56,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "203",
+      "title": null,
+      "content": "Lorsque des tiers se prétendent propriétaires des meubles mis en",
+      "language": "fr",
+      "page_number": 56,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "204",
+      "title": null,
+      "content": "L'acte de vente ne peut être attaqué que par la voie de l'inscription",
+      "language": "fr",
+      "page_number": 57,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "205",
+      "title": null,
+      "content": "S'il s'agit d'un fonds de commerce, la vente a lieu pour la totalité",
+      "language": "fr",
+      "page_number": 57,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "206",
+      "title": null,
+      "content": "S'il s'agit de valeurs mobilières, de titres, d'actions ou de parts",
+      "language": "fr",
+      "page_number": 57,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "207",
+      "title": null,
+      "content": "Le juge autorise la vente d'un immeuble appartenant à un mineur,",
+      "language": "fr",
+      "page_number": 57,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "208",
+      "title": null,
+      "content": "Le tuteur qui désire obtenir cette autorisation doit saisir le juge des",
+      "language": "fr",
+      "page_number": 58,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "209",
+      "title": null,
+      "content": "Si la valeur de l'immeuble, après estimation par expert, le cas",
+      "language": "fr",
+      "page_number": 58,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "210",
+      "title": null,
+      "content": "L'immeuble est adjugé au plus offrant. Le prix de l'adjudication est",
+      "language": "fr",
+      "page_number": 58,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "211",
+      "title": null,
+      "content": "L'acte de vente ne peut être attaqué que par la voie de l'inscription",
+      "language": "fr",
+      "page_number": 59,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "212",
+      "title": null,
+      "content": "La requête en divorce est présentée à la juridiction compétente du",
+      "language": "fr",
+      "page_number": 59,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "213",
+      "title": null,
+      "content": "L'appel est porté devant la chambre du conseil de la cour d'appel ;",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "214",
+      "title": null,
+      "content": "L'enquête est ordonnée soit d'office, soit à la demande des parties.",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "215",
+      "title": null,
+      "content": "La décision prononçant le divorce statue sur le maintien ou la",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "216",
+      "title": null,
+      "content": "L'appel et le pourvoi en cassation, ainsi que les délais de ces",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "217",
+      "title": null,
+      "content": "Toute personne justifiant d'un intérêt légitime ou le ministère",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "218",
+      "title": null,
+      "content": "La requête est présentée au tribunal de première instance du lieu de",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "219",
+      "title": null,
+      "content": "Il est procédé de même en vue de rectifier un acte de l'état civil",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "220",
+      "title": null,
+      "content": "L'ordonnance du juge est susceptible d'appel.",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "221",
+      "title": null,
+      "content": "La procédure de l'apposition des scellés est réglementée par les",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "222",
+      "title": null,
+      "content": "Il appartient au juge de prendre, le cas échéant, toutes les mesures",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "223",
+      "title": null,
+      "content": "Le juge ordonne ces mesures conservatoires :",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "224",
+      "title": null,
+      "content": "Le procès-verbal d'apposition contient :",
+      "language": "fr",
+      "page_number": 62,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "225",
+      "title": null,
+      "content": "Les clés des serrures des portes sur lesquelles les scellés ont été",
+      "language": "fr",
+      "page_number": 62,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "226",
+      "title": null,
+      "content": "Si, lors de l'apposition, il est découvert un testament ou d'autres",
+      "language": "fr",
+      "page_number": 62,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "227",
+      "title": null,
+      "content": "Aux jour et heure indiqués, et sans qu'il soit besoin d'aucune",
+      "language": "fr",
+      "page_number": 62,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "228",
+      "title": null,
+      "content": "Si les paquets cachetés paraissent par leur suscription ou par",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "229",
+      "title": null,
+      "content": "Si un testament est trouvé ouvert, le greffier en constate l'état et le",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "230",
+      "title": null,
+      "content": "Si les portes sont fermées, s'il se rencontre des obstacles à",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "231",
+      "title": null,
+      "content": "Dans tous les cas où il est statué par le juge, ce qui est fait et",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "232",
+      "title": null,
+      "content": "Si l'inventaire est achevé, aucun scellé ne peut être apposé ; si",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "233",
+      "title": null,
+      "content": "Les oppositions aux scellés peuvent être faites par une déclaration",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "234",
+      "title": null,
+      "content": "Tous ceux qui ont droit de faire apposer les scellés peuvent en",
+      "language": "fr",
+      "page_number": 64,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "235",
+      "title": null,
+      "content": "Les formalités pour parvenir à la levée des scellés sont :",
+      "language": "fr",
+      "page_number": 64,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "236",
+      "title": null,
+      "content": "Le procès-verbal de levée contient :",
+      "language": "fr",
+      "page_number": 64,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "237",
+      "title": null,
+      "content": "Les scellés sont levés successivement et au fur et à mesure de la",
+      "language": "fr",
+      "page_number": 65,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "238",
+      "title": null,
+      "content": "S'il est trouvé des objets et papiers étrangers à la succession et",
+      "language": "fr",
+      "page_number": 65,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "239",
+      "title": null,
+      "content": "Si la cause de l'apposition de scellés cesse avant qu'ils soient levés",
+      "language": "fr",
+      "page_number": 65,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "240",
+      "title": null,
+      "content": "Dans le cas d'absolue nécessité, le juge peut, à la requête d'une des",
+      "language": "fr",
+      "page_number": 65,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "241",
+      "title": null,
+      "content": "Lorsqu'il y a lieu de procéder à l'inventaire, il est établi dans les",
+      "language": "fr",
+      "page_number": 65,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "242",
+      "title": null,
+      "content": "Si, lors de l'inventaire, il s'élève des difficultés ou s'il est formé des",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "243",
+      "title": null,
+      "content": "Le juge désigne, pour liquider la succession, la personne sur le",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "244",
+      "title": null,
+      "content": "Il peut y avoir un ou plusieurs liquidateurs. On applique au",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "245",
+      "title": null,
+      "content": "Le liquidateur peut refuser la mission qui lui est confiée, ou y",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "246",
+      "title": null,
+      "content": "La mission du liquidateur est celle qu'indique l'acte de nomination.",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "247",
+      "title": null,
+      "content": "L'acte de nomination impartit un délai au liquidateur pour présenter",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "248",
+      "title": null,
+      "content": "Il appartient au liquidateur de réclamer au juge une rétribution",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "249",
+      "title": null,
+      "content": "Il appartient au liquidateur, dès sa nomination, de procéder à",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "250",
+      "title": null,
+      "content": "A l'expiration de la période qui lui a été impartie pour l'inventaire,",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "251",
+      "title": null,
+      "content": "Après examen de l'inventaire par le juge, la succession est liquidée",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "252",
+      "title": null,
+      "content": "Au cours de la liquidation de la succession, le liquidateur doit",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "253",
+      "title": null,
+      "content": "Pour évaluer les biens successoraux, le liquidateur fait appel à des",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "254",
+      "title": null,
+      "content": "Après en avoir demandé la permission au juge et avec l'approbation",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "255",
+      "title": null,
+      "content": "En cas d'insolvabilité ou de présomption d'insolvabilité de la",
+      "language": "fr",
+      "page_number": 68,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "256",
+      "title": null,
+      "content": "Le liquidateur règle les dettes de la succession au moyen des",
+      "language": "fr",
+      "page_number": 68,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "257",
+      "title": null,
+      "content": "Après règlement des dettes successorales, le liquidateur a pour",
+      "language": "fr",
+      "page_number": 68,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "258",
+      "title": null,
+      "content": "La demande en partage de la succession doit être présentée au",
+      "language": "fr",
+      "page_number": 68,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "259",
+      "title": null,
+      "content": "La juridiction saisie de la demande en partage peut, même s'il y a",
+      "language": "fr",
+      "page_number": 68,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "260",
+      "title": null,
+      "content": "La vente est faite conformément aux dispositions des articles",
+      "language": "fr",
+      "page_number": 68,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "261",
+      "title": null,
+      "content": "Lorsque le jugement est passé en force de chose jugée, il est",
+      "language": "fr",
+      "page_number": 68,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "262",
+      "title": null,
+      "content": "Lorsque tous les copropriétaires sont majeurs, jouissent de leurs",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "263",
+      "title": null,
+      "content": "S'il y a nécessité de pourvoir à l'administration de tout ou partie des",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "264",
+      "title": null,
+      "content": "Si l'absence se prolonge, il est procédé comme il est dit ci-après :",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "265",
+      "title": null,
+      "content": "Si l'absent a disparu dans des circonstances exceptionnelles rendant",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "266",
+      "title": null,
+      "content": "Dans tous les autres cas, le juge, saisi d'une requête des intéressés,",
+      "language": "fr",
+      "page_number": 70,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "267",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 70,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "268",
+      "title": null,
+      "content": "Le président du tribunal de première instance ordonne, le cas",
+      "language": "fr",
+      "page_number": 70,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "269",
+      "title": null,
+      "content": "Le tribunal de première instance est compétent en matière sociale,",
+      "language": "fr",
+      "page_number": 71,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "270",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 71,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "271",
+      "title": null,
+      "content": "La désignation des assesseurs et la réglementation les concernant",
+      "language": "fr",
+      "page_number": 71,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "272",
+      "title": null,
+      "content": "Sont applicables, dans la mesure où elles ne sont pas contraires aux",
+      "language": "fr",
+      "page_number": 71,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "273",
+      "title": null,
+      "content": "Le bénéfice de l'assistance judiciaire est accordé de plein droit au",
+      "language": "fr",
+      "page_number": 71,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "274",
+      "title": null,
+      "content": "La convocation à l'audience est adressée aux parties dans les",
+      "language": "fr",
+      "page_number": 71,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "275",
+      "title": null,
+      "content": "Les parties sont tenues de comparaître en personne à la première",
+      "language": "fr",
+      "page_number": 72,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "276",
+      "title": null,
+      "content": "Les parties peuvent se faire assister par un mandataire désigné dans",
+      "language": "fr",
+      "page_number": 72,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "277",
+      "title": null,
+      "content": "Le juge, au début de l'audience, tente de concilier les parties.",
+      "language": "fr",
+      "page_number": 72,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "278",
+      "title": null,
+      "content": "En cas de conciliation, il constate les conditions de l'accord dans",
+      "language": "fr",
+      "page_number": 72,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "279",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "280",
+      "title": null,
+      "content": "Le juge peut mettre les parties en demeure par une ordonnance non",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "281",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "282",
+      "title": null,
+      "content": "Si, pour se rendre à une expertise ordonnée en matière d'accidents",
+      "language": "fr",
+      "page_number": 74,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "283",
+      "title": null,
+      "content": "Le jugement contient, outre les mentions prévues par l'article 50,",
+      "language": "fr",
+      "page_number": 74,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "284",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 74,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "285",
+      "title": null,
+      "content": "En matière d'accidents du travail et de maladies professionnelles",
+      "language": "fr",
+      "page_number": 74,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "286",
+      "title": null,
+      "content": "Les jugements par défaut en matière sociale peuvent être attaqués",
+      "language": "fr",
+      "page_number": 74,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "287",
+      "title": null,
+      "content": "Lorsque la décision est susceptible d'appel, celui-ci doit être",
+      "language": "fr",
+      "page_number": 74,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "288",
+      "title": null,
+      "content": "Les décisions rendues en dernier ressort par le juge en matière",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "289",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "290",
+      "title": null,
+      "content": "La provision allouée en application de l'article précédent doit être",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "291",
+      "title": null,
+      "content": "Les provisions sont payables dans les conditions de temps et de",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "292",
+      "title": null,
+      "content": "Lors de la détermination de la rente viagère, le juge fixe, s'il y a",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "293",
+      "title": null,
+      "content": "Le jugement statue sur la demande de rachat de rente présentée par",
+      "language": "fr",
+      "page_number": 76,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "294",
+      "title": null,
+      "content": "En cas d'urgence et à tout stade de la procédure, par ordonnance",
+      "language": "fr",
+      "page_number": 76,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "295",
+      "title": null,
+      "content": "Tout magistrat du siège peut être récusé :",
+      "language": "fr",
+      "page_number": 76,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "296",
+      "title": null,
+      "content": "La demande de récusation est formée suivant les règles établies",
+      "language": "fr",
+      "page_number": 77,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "297",
+      "title": null,
+      "content": "Le demandeur en récusation qui succombe dans sa demande est",
+      "language": "fr",
+      "page_number": 77,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "298",
+      "title": null,
+      "content": "Tout magistrat qui sait que l'une des causes de récusation",
+      "language": "fr",
+      "page_number": 77,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "299",
+      "title": null,
+      "content": "Les causes de récusation relatives aux magistrats du siège sont",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "300",
+      "title": null,
+      "content": "Il y a lieu à règlement de juges lorsque dans un même litige,",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "301",
+      "title": null,
+      "content": "La demande en règlement de juges doit être portée par requête",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "302",
+      "title": null,
+      "content": "La requête est examinée en chambre du conseil sans la présence",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "303",
+      "title": null,
+      "content": "Toute personne peut former opposition à une décision judiciaire",
+      "language": "fr",
+      "page_number": 79,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "304",
+      "title": null,
+      "content": "La tierce opposition est formée suivant les règles établies pour les",
+      "language": "fr",
+      "page_number": 79,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "305",
+      "title": null,
+      "content": "La partie dont la tierce opposition est rejetée est condamnée à une",
+      "language": "fr",
+      "page_number": 79,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "306",
+      "title": null,
+      "content": "Toutes personnes capables peuvent souscrire un compromis",
+      "language": "fr",
+      "page_number": 79,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "307",
+      "title": null,
+      "content": "Le compromis doit être toujours passé par écrit.",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "308",
+      "title": null,
+      "content": "Le compromis doit désigner, à peine de nullité, l'objet du litige et le",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "309",
+      "title": null,
+      "content": "Les parties peuvent, dans tout contrat, convenir de soumettre à la",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "310",
+      "title": null,
+      "content": "Pendant le délai de l'arbitrage, les arbitres ne peuvent être révoqués",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "311",
+      "title": null,
+      "content": "Les parties et les arbitres suivent dans la procédure les délais et les",
+      "language": "fr",
+      "page_number": 81,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "312",
+      "title": null,
+      "content": "Le compromis prend fin :",
+      "language": "fr",
+      "page_number": 81,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "313",
+      "title": null,
+      "content": "Les arbitres ne peuvent renoncer à leur mission si leurs opérations",
+      "language": "fr",
+      "page_number": 81,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "314",
+      "title": null,
+      "content": "Chacune des parties est tenue de produire ses pièces et ses moyens",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "315",
+      "title": null,
+      "content": "Lorsque les arbitres n'ont pu se mettre d'accord sur la solution à",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "316",
+      "title": null,
+      "content": "En l'absence de toute stipulation dans le compromis ou dans l'acte",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "317",
+      "title": null,
+      "content": "Les arbitres et le tiers arbitre doivent se référer aux règles",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "318",
+      "title": null,
+      "content": "La sentence arbitrale doit être écrite, contenir l'exposé des",
+      "language": "fr",
+      "page_number": 83,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "319",
+      "title": null,
+      "content": "La sentence arbitrale n'est, en aucun cas, susceptible de recours.",
+      "language": "fr",
+      "page_number": 83,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "320",
+      "title": null,
+      "content": "La sentence arbitrale est rendue exécutoire par ordonnance du",
+      "language": "fr",
+      "page_number": 83,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "321",
+      "title": null,
+      "content": "Le président du tribunal de première instance ou le Premier",
+      "language": "fr",
+      "page_number": 83,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "322",
+      "title": null,
+      "content": "La sentence arbitrale revêtue définitivement de la formule",
+      "language": "fr",
+      "page_number": 83,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "323",
+      "title": null,
+      "content": "Cet appel est porté devant la cour d'appel. La juridiction",
+      "language": "fr",
+      "page_number": 84,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "324",
+      "title": null,
+      "content": "La juridiction d'appel statue suivant les règles ordinaires.",
+      "language": "fr",
+      "page_number": 84,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "325",
+      "title": null,
+      "content": "Les sentences arbitrales, même assorties de la décision d'exéquatur,",
+      "language": "fr",
+      "page_number": 84,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "326",
+      "title": null,
+      "content": "Les sentences arbitrales peuvent faire l'objet d'une demande en",
+      "language": "fr",
+      "page_number": 84,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "327",
+      "title": null,
+      "content": "Le recours en cassation est ouvert contre les décisions rendues en",
+      "language": "fr",
+      "page_number": 84,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "328",
+      "title": null,
+      "content": "Les requêtes d'appel sont reçues conformément aux dispositions",
+      "language": "fr",
+      "page_number": 84,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "329",
+      "title": null,
+      "content": "Le Premier président de la cour d'appel désigne alors un conseiller",
+      "language": "fr",
+      "page_number": 85,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "330",
+      "title": null,
+      "content": "Toute partie domiciliée en dehors du ressort est tenue de faire",
+      "language": "fr",
+      "page_number": 85,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "331",
+      "title": null,
+      "content": "Les parties ou leurs mandataires peuvent prendre connaissance au",
+      "language": "fr",
+      "page_number": 86,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "332",
+      "title": null,
+      "content": "Les mémoires en défense, les répliques et tous autres mémoires et",
+      "language": "fr",
+      "page_number": 86,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "333",
+      "title": null,
+      "content": "L'affaire étant appelée à l'audience, si le défendeur n'a pas conclu,",
+      "language": "fr",
+      "page_number": 86,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "334",
+      "title": null,
+      "content": "Le conseiller rapporteur met la procédure en état et ordonne la",
+      "language": "fr",
+      "page_number": 86,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "335",
+      "title": null,
+      "content": "Lorsque, l'instruction étant complétée ou les délais pour la",
+      "language": "fr",
+      "page_number": 86,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "336",
+      "title": null,
+      "content": "Les dispositions du chapitre troisième du titre III, relatives aux",
+      "language": "fr",
+      "page_number": 87,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "337",
+      "title": null,
+      "content": "Le rôle de chaque audience publique est arrêté par le Premier",
+      "language": "fr",
+      "page_number": 88,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "338",
+      "title": null,
+      "content": "Toute partie ou son mandataire doit être averti par une notification",
+      "language": "fr",
+      "page_number": 88,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "339",
+      "title": null,
+      "content": "L'audience est publique, sauf la faculté pour la cour de prononcer",
+      "language": "fr",
+      "page_number": 88,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "340",
+      "title": null,
+      "content": "Le président a la police de l'audience. Les dispositions de l'article",
+      "language": "fr",
+      "page_number": 88,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "341",
+      "title": null,
+      "content": "Dans le cas où des discours injurieux, outrageants ou diffamatoires",
+      "language": "fr",
+      "page_number": 88,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "342",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 88,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "343",
+      "title": null,
+      "content": "Après la clôture des débats et, le cas échéant, après audition du",
+      "language": "fr",
+      "page_number": 88,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "344",
+      "title": null,
+      "content": "Sont contradictoires les arrêts rendus sur requêtes ou mémoires des",
+      "language": "fr",
+      "page_number": 89,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "345",
+      "title": null,
+      "content": "Les audiences et les arrêts des cours d'appel sont tenus et rendus",
+      "language": "fr",
+      "page_number": 89,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "346",
+      "title": null,
+      "content": "La minute de l'arrêt est conservée au greffe pour chaque affaire,",
+      "language": "fr",
+      "page_number": 90,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "347",
+      "title": null,
+      "content": "Les dispositions de l'article 147 concernant l'exécution provisoire",
+      "language": "fr",
+      "page_number": 90,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "348",
+      "title": null,
+      "content": "Une expédition certifiée conforme de toutes décisions est délivrée",
+      "language": "fr",
+      "page_number": 90,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "349",
+      "title": null,
+      "content": "La notification d'un arrêt est accompagnée d'une expédition dûment",
+      "language": "fr",
+      "page_number": 90,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "350",
+      "title": null,
+      "content": "Les dispositions des articles 108 à 123 sont applicables devant la",
+      "language": "fr",
+      "page_number": 90,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "351",
+      "title": null,
+      "content": "Les dispositions des articles 124 et suivants sont applicables devant",
+      "language": "fr",
+      "page_number": 91,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "352",
+      "title": null,
+      "content": "Les dispositions des articles 130 et suivants sont applicables devant",
+      "language": "fr",
+      "page_number": 91,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "353",
+      "title": null,
+      "content": "La Cour suprême, sauf si un texte l'exclut expressément, statue sur",
+      "language": "fr",
+      "page_number": 91,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "354",
+      "title": null,
+      "content": "Les pourvois en cassation et les recours en annulation visés à",
+      "language": "fr",
+      "page_number": 92,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "355",
+      "title": null,
+      "content": "La requête doit, à peine d'irrecevabilité :",
+      "language": "fr",
+      "page_number": 92,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "356",
+      "title": null,
+      "content": "La requête est déposée au greffe de la juridiction qui a rendu la",
+      "language": "fr",
+      "page_number": 93,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "357",
+      "title": null,
+      "content": "Le demandeur devant la Cour suprême doit, au moment où il",
+      "language": "fr",
+      "page_number": 93,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "358",
+      "title": null,
+      "content": "Sauf dispositions particulières, le délai pour saisir la Cour suprême",
+      "language": "fr",
+      "page_number": 93,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "359",
+      "title": null,
+      "content": "Les pourvois soumis à la Cour suprême doivent être fondés sur",
+      "language": "fr",
+      "page_number": 93,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "360",
+      "title": null,
+      "content": "Sous réserve des dispositions prévues à l'alinéa suivant du présent",
+      "language": "fr",
+      "page_number": 94,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "361",
+      "title": null,
+      "content": "(dernier alinéa, abrogé, D. n° 1-87-16, 10 sept 1993 - 22 rebia I",
+      "language": "fr",
+      "page_number": 94,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "362",
+      "title": null,
+      "content": "Dès l'enrôlement du pourvoi ou du recours, le Premier président",
+      "language": "fr",
+      "page_number": 95,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "363",
+      "title": null,
+      "content": "Lorsqu'il apparaît, au vu de la requête introductive d'instance ou du",
+      "language": "fr",
+      "page_number": 95,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "364",
+      "title": null,
+      "content": "Lorsque le demandeur s'est réservé dans sa requête le droit de",
+      "language": "fr",
+      "page_number": 95,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "365",
+      "title": null,
+      "content": "Les parties intéressées sont tenues de déposer leur mémoire en",
+      "language": "fr",
+      "page_number": 96,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "366",
+      "title": null,
+      "content": "Le conseiller rapporteur met en demeure la partie qui n'a pas",
+      "language": "fr",
+      "page_number": 96,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "367",
+      "title": null,
+      "content": "Les délais prévus aux articles 364, 365 et 366 sont réduits de",
+      "language": "fr",
+      "page_number": 96,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "368",
+      "title": null,
+      "content": "(abrogé, D. n° 1-87-16, 10 sept 1993 - 22 rebia I 1414, L. n° 04-82,",
+      "language": "fr",
+      "page_number": 97,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "369",
+      "title": null,
+      "content": "(modifié, D. n° 1-87-16, 10 sept 1993 - 22 rebia I 1414, L. n° 04-",
+      "language": "fr",
+      "page_number": 97,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "370",
+      "title": null,
+      "content": "Le rôle de chaque audience est arrêté par le président de la",
+      "language": "fr",
+      "page_number": 97,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "371",
+      "title": null,
+      "content": "Les chambres de la cour ne peuvent valablement juger que si elles",
+      "language": "fr",
+      "page_number": 97,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "372",
+      "title": null,
+      "content": "Les séances de la cour sont publiques, sauf la faculté pour la cour",
+      "language": "fr",
+      "page_number": 98,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "373",
+      "title": null,
+      "content": "La demande en récusation d'un magistrat de la Cour suprême est",
+      "language": "fr",
+      "page_number": 98,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "374",
+      "title": null,
+      "content": "Dans le cas d'infractions commises à une audience de la cour, ces",
+      "language": "fr",
+      "page_number": 98,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "375",
+      "title": null,
+      "content": "Les arrêts de la Cour suprême sont rendus en audience publique",
+      "language": "fr",
+      "page_number": 98,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "376",
+      "title": null,
+      "content": "(2° alinéa, modif , L. fin n° 14-97 promulguée D. n°1-97-153 du 30",
+      "language": "fr",
+      "page_number": 99,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "19",
+      "title": null,
+      "content": "bis de la loi de finances n° 12-98 pour l'année",
+      "language": "fr",
+      "page_number": 99,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "377",
+      "title": null,
+      "content": "Peuvent intervenir devant la Cour suprême à l'appui des prétentions",
+      "language": "fr",
+      "page_number": 99,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "378",
+      "title": null,
+      "content": "Les parties défaillantes ne sont pas recevables à faire opposition",
+      "language": "fr",
+      "page_number": 99,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "379",
+      "title": null,
+      "content": "Il ne peut être formé de recours contre les arrêts de la Cour",
+      "language": "fr",
+      "page_number": 99,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "380",
+      "title": null,
+      "content": "Pour toutes les dispositions de procédure qui ne sont pas prévues",
+      "language": "fr",
+      "page_number": 100,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "381",
+      "title": null,
+      "content": "Lorsque le procureur général du Roi près la Cour suprême apprend",
+      "language": "fr",
+      "page_number": 100,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "382",
+      "title": null,
+      "content": "Le ministre de la justice peut prescrire au procureur général du Roi",
+      "language": "fr",
+      "page_number": 100,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "383",
+      "title": null,
+      "content": "Le renvoi pour cause de suspicion légitime peut être demandé par",
+      "language": "fr",
+      "page_number": 101,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "384",
+      "title": null,
+      "content": "En l'absence de demande formée par les parties, le ministre de la",
+      "language": "fr",
+      "page_number": 101,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "385",
+      "title": null,
+      "content": "Dans les cas où il y a lieu de craindre que le jugement d'un procès",
+      "language": "fr",
+      "page_number": 101,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "386",
+      "title": null,
+      "content": "La demande en inscription de faux contre une pièce produite",
+      "language": "fr",
+      "page_number": 102,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "387",
+      "title": null,
+      "content": "L'ordonnance portant permission de s'inscrire en faux et la requête",
+      "language": "fr",
+      "page_number": 102,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "388",
+      "title": null,
+      "content": "La Cour suprême connaît des règlements de juges entre juridictions",
+      "language": "fr",
+      "page_number": 103,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "389",
+      "title": null,
+      "content": "La requête en règlement de juges est présentée à la Cour suprême",
+      "language": "fr",
+      "page_number": 103,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "390",
+      "title": null,
+      "content": "En cas de contrariété de jugements ou d'arrêts devenus irrévocables",
+      "language": "fr",
+      "page_number": 103,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "391",
+      "title": null,
+      "content": "Les magistrats peuvent être pris à partie dans les cas suivants :",
+      "language": "fr",
+      "page_number": 103,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "392",
+      "title": null,
+      "content": "Il y a déni de justice lorsque les juges refusent de statuer sur les",
+      "language": "fr",
+      "page_number": 104,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "393",
+      "title": null,
+      "content": "Le déni de justice est constaté par deux réquisitions notifiées au",
+      "language": "fr",
+      "page_number": 104,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "394",
+      "title": null,
+      "content": "Après les deux réquisitions demeurées sans effet, le magistrat peut",
+      "language": "fr",
+      "page_number": 104,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "395",
+      "title": null,
+      "content": "Les prises à partie sont portées devant la Cour suprême.",
+      "language": "fr",
+      "page_number": 104,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "396",
+      "title": null,
+      "content": "Il ne peut être employé, à l'occasion de cette procédure, aucun",
+      "language": "fr",
+      "page_number": 104,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "397",
+      "title": null,
+      "content": "Il est statué sur l'admission de la prise à partie par une chambre de",
+      "language": "fr",
+      "page_number": 104,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "398",
+      "title": null,
+      "content": "Si la requête est rejetée, le demandeur est condamné au profit du",
+      "language": "fr",
+      "page_number": 104,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "399",
+      "title": null,
+      "content": "Si la requête est admise, elle est communiquée dans les huit jours",
+      "language": "fr",
+      "page_number": 105,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "400",
+      "title": null,
+      "content": "La prise à partie est portée à l'audience sur conclusions du",
+      "language": "fr",
+      "page_number": 105,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "401",
+      "title": null,
+      "content": "Si le demandeur est débouté, il peut être condamné à des",
+      "language": "fr",
+      "page_number": 105,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "402",
+      "title": null,
+      "content": "Sous réserve des dispositions spéciales de l'article 379 relatif à la",
+      "language": "fr",
+      "page_number": 105,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "403",
+      "title": null,
+      "content": "Aucune demande en rétractation n'est recevable si elle n'est",
+      "language": "fr",
+      "page_number": 106,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "404",
+      "title": null,
+      "content": "Quand les motifs de la demande en rétractation sont le faux, le dol",
+      "language": "fr",
+      "page_number": 106,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "405",
+      "title": null,
+      "content": "Dans le cas où le motif invoqué est la contrariété de jugements, le",
+      "language": "fr",
+      "page_number": 106,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "406",
+      "title": null,
+      "content": "La demande en rétractation est portée devant la juridiction qui a",
+      "language": "fr",
+      "page_number": 106,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "407",
+      "title": null,
+      "content": "(modif , L. fin n° 14-97 promulguée D. n°1-97-153 du 30 juin 1997",
+      "language": "fr",
+      "page_number": 107,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "408",
+      "title": null,
+      "content": "Si la rétractation est admise, la décision sera rétractée et les parties",
+      "language": "fr",
+      "page_number": 107,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "409",
+      "title": null,
+      "content": "Lorsque la rétractation aura été prononcée pour raison de",
+      "language": "fr",
+      "page_number": 107,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "410",
+      "title": null,
+      "content": "Le fond de la contestation sur laquelle le jugement rétracté aura été",
+      "language": "fr",
+      "page_number": 107,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "411",
+      "title": null,
+      "content": "Les jugements des tribunaux de première instance ordonnant de",
+      "language": "fr",
+      "page_number": 107,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "412",
+      "title": null,
+      "content": "Toute contestation par la partie adverse relative à l'admission de la",
+      "language": "fr",
+      "page_number": 108,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "413",
+      "title": null,
+      "content": "Dès que la caution a été présentée ou qu'il a été statué sur les",
+      "language": "fr",
+      "page_number": 108,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "414",
+      "title": null,
+      "content": "Les décisions des juridictions ordonnant de fournir caution ou",
+      "language": "fr",
+      "page_number": 108,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "415",
+      "title": null,
+      "content": "Immédiatement après la présentation de la caution et le dépôt s'il y",
+      "language": "fr",
+      "page_number": 108,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "416",
+      "title": null,
+      "content": "S'il y a contestation, les parties sont averties du jour où elle sera",
+      "language": "fr",
+      "page_number": 108,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "417",
+      "title": null,
+      "content": "Si la caution ou le cautionnement est admis par la décision, il est",
+      "language": "fr",
+      "page_number": 109,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "418",
+      "title": null,
+      "content": "Les invitations et avertissements adressés aux parties en vertu des",
+      "language": "fr",
+      "page_number": 109,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "419",
+      "title": null,
+      "content": "La demande en reddition de comptes est formée par celui auquel le",
+      "language": "fr",
+      "page_number": 109,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "420",
+      "title": null,
+      "content": "Les comptables commis par justice sont convoqués devant les",
+      "language": "fr",
+      "page_number": 109,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "421",
+      "title": null,
+      "content": "En cas d'appel d'un jugement qui aurait rejeté une demande en",
+      "language": "fr",
+      "page_number": 109,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "422",
+      "title": null,
+      "content": "Toute décision portant condamnation de rendre compte fixe, pour",
+      "language": "fr",
+      "page_number": 109,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "423",
+      "title": null,
+      "content": "Le compte contient les recettes et les dépenses effectives, le cas",
+      "language": "fr",
+      "page_number": 109,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "424",
+      "title": null,
+      "content": "Si le rendant n'a pas présenté son compte dans le délai fixé, il est",
+      "language": "fr",
+      "page_number": 110,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "425",
+      "title": null,
+      "content": "Le compte présenté et affirmé, si la recette dépasse la dépense, la",
+      "language": "fr",
+      "page_number": 110,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "426",
+      "title": null,
+      "content": "Aux jour et heure indiqués par le juge commis, les parties se",
+      "language": "fr",
+      "page_number": 110,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "427",
+      "title": null,
+      "content": "La décision qui intervient sur la reddition du compte contient le",
+      "language": "fr",
+      "page_number": 110,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "428",
+      "title": null,
+      "content": "(Modifié, L. n° 18-82 promulguée par D. n° 1-82-222, 5 octobre",
+      "language": "fr",
+      "page_number": 111,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "429",
+      "title": null,
+      "content": "(Modifié, L. n° 18-82 promulguée par D. n° 1-82-222, 5 octobre",
+      "language": "fr",
+      "page_number": 111,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "430",
+      "title": null,
+      "content": "Les décisions de justice rendues par les juridictions étrangères ne",
+      "language": "fr",
+      "page_number": 111,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "431",
+      "title": null,
+      "content": "Sauf dispositions contraires contenues dans des conventions",
+      "language": "fr",
+      "page_number": 112,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "432",
+      "title": null,
+      "content": "Les actes passés à l'étranger devant les officiers ou fonctionnaires",
+      "language": "fr",
+      "page_number": 112,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "433",
+      "title": null,
+      "content": "(Modifié L. n° 18-82 promulguée par D. n° 1-82-222, 5 octobre",
+      "language": "fr",
+      "page_number": 112,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "434",
+      "title": null,
+      "content": "Si la décision, dans la même procédure, a été rendue au profit des",
+      "language": "fr",
+      "page_number": 113,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "435",
+      "title": null,
+      "content": "(Modifié, L. n° 18-82 promulguée par D. n° 1-82-222, 5 octobre",
+      "language": "fr",
+      "page_number": 113,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "436",
+      "title": null,
+      "content": "En cas de survenance d'un obstacle de fait ou de droit soulevé par",
+      "language": "fr",
+      "page_number": 113,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "437",
+      "title": null,
+      "content": "La décision qui prononce une mainlevée, une restitution, un",
+      "language": "fr",
+      "page_number": 113,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "438",
+      "title": null,
+      "content": "Il n'est procédé à aucune saisie mobilière ou immobilière qu'en",
+      "language": "fr",
+      "page_number": 113,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "439",
+      "title": null,
+      "content": "L'exécution a lieu dans les conditions prévues aux articles 433 et",
+      "language": "fr",
+      "page_number": 114,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "440",
+      "title": null,
+      "content": "L'agent chargé de l'exécution notifie à la partie condamnée la",
+      "language": "fr",
+      "page_number": 114,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "441",
+      "title": null,
+      "content": "En matière de notification d'un jugement ou d'un arrêt, les délais",
+      "language": "fr",
+      "page_number": 114,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "442",
+      "title": null,
+      "content": "Au cas où le bénéficiaire d'une décision décède avant son",
+      "language": "fr",
+      "page_number": 114,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "443",
+      "title": null,
+      "content": "En cas de décès du poursuivi avant l'exécution totale ou partielle,",
+      "language": "fr",
+      "page_number": 114,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "444",
+      "title": null,
+      "content": "Si l'exécution est subordonnée à la prestation d'un serment ou à la",
+      "language": "fr",
+      "page_number": 115,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "445",
+      "title": null,
+      "content": "L'exécution est assurée sur les biens mobiliers. Elle est poursuivie",
+      "language": "fr",
+      "page_number": 115,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "446",
+      "title": null,
+      "content": "Lorsque le poursuivi est tenu de la délivrance d'une chose",
+      "language": "fr",
+      "page_number": 115,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "447",
+      "title": null,
+      "content": "Lorsque le poursuivi est tenu de délivrer, de céder ou d'abandonner",
+      "language": "fr",
+      "page_number": 115,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "448",
+      "title": null,
+      "content": "Lorsque le poursuivi se refuse à accomplir une obligation de faire",
+      "language": "fr",
+      "page_number": 115,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "449",
+      "title": null,
+      "content": "Le tiers qui est en possession de la chose sur laquelle l'exécution",
+      "language": "fr",
+      "page_number": 116,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "450",
+      "title": null,
+      "content": "L'agent chargé de l'exécution se fait autoriser par le président à",
+      "language": "fr",
+      "page_number": 116,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "451",
+      "title": null,
+      "content": "Sauf en cas de nécessité dûment reconnue par ordonnance du",
+      "language": "fr",
+      "page_number": 116,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "452",
+      "title": null,
+      "content": "L'ordonnance de saisie conservatoire est rendue sur requête par le",
+      "language": "fr",
+      "page_number": 116,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "453",
+      "title": null,
+      "content": "La saisie conservatoire a pour effet exclusif de mettre sous main de",
+      "language": "fr",
+      "page_number": 116,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "454",
+      "title": null,
+      "content": "Le saisi reste en possession de ses biens jusqu'à conversion de la",
+      "language": "fr",
+      "page_number": 116,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "455",
+      "title": null,
+      "content": "Si la saisie conservatoire porte sur des biens mobiliers qui se",
+      "language": "fr",
+      "page_number": 117,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "456",
+      "title": null,
+      "content": "Si les effets ou immeubles appartenant au poursuivi contre lequel",
+      "language": "fr",
+      "page_number": 118,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "457",
+      "title": null,
+      "content": "Lors de la notification, le tiers saisi fournit, s'il s'agit d'effets",
+      "language": "fr",
+      "page_number": 118,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "458",
+      "title": null,
+      "content": "Sont insaisissables :",
+      "language": "fr",
+      "page_number": 118,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "459",
+      "title": null,
+      "content": "La saisie-exécution ne peut être étendue au-delà de ce qui est",
+      "language": "fr",
+      "page_number": 119,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "460",
+      "title": null,
+      "content": "Si, lors de la notification prévue à l'article 440, le débiteur refuse",
+      "language": "fr",
+      "page_number": 119,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "461",
+      "title": null,
+      "content": "A l'exception du numéraire qui est remis à l'agent chargé de",
+      "language": "fr",
+      "page_number": 119,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "462",
+      "title": null,
+      "content": "Après récolement, les biens saisis sont vendus aux enchères",
+      "language": "fr",
+      "page_number": 119,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "463",
+      "title": null,
+      "content": "Les enchères ont lieu au marché public le plus voisin ou partout où",
+      "language": "fr",
+      "page_number": 120,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "464",
+      "title": null,
+      "content": "L'objet de la vente est adjugé au plus offrant et n'est délivré que",
+      "language": "fr",
+      "page_number": 120,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "465",
+      "title": null,
+      "content": "Les récoltes et les fruits proches de la maturité peuvent être saisis",
+      "language": "fr",
+      "page_number": 120,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "466",
+      "title": null,
+      "content": "Lorsqu'il existe une précédente saisie portant sur tous les meubles",
+      "language": "fr",
+      "page_number": 120,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "467",
+      "title": null,
+      "content": "Si la deuxième demande de saisie est plus ample, les deux saisies",
+      "language": "fr",
+      "page_number": 120,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "468",
+      "title": null,
+      "content": "Lorsque des tiers se prétendent propriétaires des meubles saisis, il",
+      "language": "fr",
+      "page_number": 121,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "469",
+      "title": null,
+      "content": "Sauf en ce qui concerne les créanciers bénéficiaires d'une sûreté",
+      "language": "fr",
+      "page_number": 121,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "470",
+      "title": null,
+      "content": "Si les biens immobiliers n'ont pas été saisis conservatoirement,",
+      "language": "fr",
+      "page_number": 121,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "471",
+      "title": null,
+      "content": "Si le débiteur révèle l'existence d'un créancier hypothécaire",
+      "language": "fr",
+      "page_number": 122,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "472",
+      "title": null,
+      "content": "En cas de deuxième saisie immobilière, il est procédé en",
+      "language": "fr",
+      "page_number": 122,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "473",
+      "title": null,
+      "content": "En cas d'indivision et pour leur permettre de prendre part à",
+      "language": "fr",
+      "page_number": 122,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "474",
+      "title": null,
+      "content": "Dès que la saisie immobilière est pratiquée ou à l'expiration du",
+      "language": "fr",
+      "page_number": 122,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "475",
+      "title": null,
+      "content": "Si, lors de la saisie, les immeubles ne sont pas loués ou affermés, le",
+      "language": "fr",
+      "page_number": 123,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "476",
+      "title": null,
+      "content": "L'adjudication a lieu au greffe qui a exécuté la procédure et où le",
+      "language": "fr",
+      "page_number": 124,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "477",
+      "title": null,
+      "content": "Si, au jour et à l'heure fixés pour l'adjudication, le poursuivi ne s'est",
+      "language": "fr",
+      "page_number": 124,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "478",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 124,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "479",
+      "title": null,
+      "content": "Toute personne peut, dans un délai de dix jours à partir de",
+      "language": "fr",
+      "page_number": 125,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "480",
+      "title": null,
+      "content": "Le procès-verbal d'adjudication constitue :",
+      "language": "fr",
+      "page_number": 125,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "481",
+      "title": null,
+      "content": "L'adjudication ne transmet à l'adjudicataire d'autres droits à la",
+      "language": "fr",
+      "page_number": 125,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "482",
+      "title": null,
+      "content": "Lorsqu'un tiers prétend que la saisie a été pratiquée sur des",
+      "language": "fr",
+      "page_number": 125,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "483",
+      "title": null,
+      "content": "Le revendiquant doit, pour provoquer la suspension de la",
+      "language": "fr",
+      "page_number": 125,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "484",
+      "title": null,
+      "content": "Les moyens de nullité contre la procédure de saisie immobilière",
+      "language": "fr",
+      "page_number": 126,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "485",
+      "title": null,
+      "content": "Si l'adjudicataire n'exécute pas les clauses de l'adjudication, il lui",
+      "language": "fr",
+      "page_number": 126,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "486",
+      "title": null,
+      "content": "La procédure de remise en vente consiste uniquement en une",
+      "language": "fr",
+      "page_number": 126,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "487",
+      "title": null,
+      "content": "La nouvelle adjudication a pour effet de résoudre rétroactivement",
+      "language": "fr",
+      "page_number": 126,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "488",
+      "title": null,
+      "content": "Toute personne physique ou morale titulaire d'une créance certaine",
+      "language": "fr",
+      "page_number": 127,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "489",
+      "title": null,
+      "content": "Le débiteur peut toucher du tiers saisi la portion non saisissable de",
+      "language": "fr",
+      "page_number": 128,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "490",
+      "title": null,
+      "content": "La cession ou la saisie des sommes dues aux entrepreneurs ou",
+      "language": "fr",
+      "page_number": 128,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "491",
+      "title": null,
+      "content": "La saisie-arrêt a lieu, soit en vertu d'un titre exécutoire, soit en",
+      "language": "fr",
+      "page_number": 128,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "492",
+      "title": null,
+      "content": "La saisie-arrêt est notifiée au débiteur par l'un des agents du greffe",
+      "language": "fr",
+      "page_number": 128,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "493",
+      "title": null,
+      "content": "Toute saisie-arrêt est inscrite au greffe, à sa date, et sur un registre",
+      "language": "fr",
+      "page_number": 128,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "494",
+      "title": null,
+      "content": "(modifié, Dahir portant loi n° 1-93-346 du 10 septembre 1993 - 22",
+      "language": "fr",
+      "page_number": 129,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "495",
+      "title": null,
+      "content": "S'il y a somme suffisante pour satisfaire à toutes les oppositions",
+      "language": "fr",
+      "page_number": 129,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "496",
+      "title": null,
+      "content": "En tout état de cause, le débiteur saisi peut se pourvoir en référé",
+      "language": "fr",
+      "page_number": 129,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "497",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 130,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "498",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 130,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "499",
+      "title": null,
+      "content": "La saisie-gagerie est demandée par une requête, dans les mêmes",
+      "language": "fr",
+      "page_number": 130,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "500",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 131,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "501",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 131,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "502",
+      "title": null,
+      "content": "La saisie-revendication est faite dans les mêmes formes que la",
+      "language": "fr",
+      "page_number": 131,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "503",
+      "title": null,
+      "content": "Le jugement sur la validité constate le droit du revendiquant, s'il",
+      "language": "fr",
+      "page_number": 131,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "504",
+      "title": null,
+      "content": "Si le montant des deniers saisis-arrêtés ou le prix de vente des",
+      "language": "fr",
+      "page_number": 132,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "505",
+      "title": null,
+      "content": "Faute d'accord dans ledit délai, il est ouvert une procédure de",
+      "language": "fr",
+      "page_number": 132,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "506",
+      "title": null,
+      "content": "Cette procédure est ouverte au greffe du tribunal de première",
+      "language": "fr",
+      "page_number": 132,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "507",
+      "title": null,
+      "content": "L'ouverture de la procédure de distribution est portée à la",
+      "language": "fr",
+      "page_number": 132,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "508",
+      "title": null,
+      "content": "(modifié, D. n° 1-93-206 du 10 septembre 1993 - 22 rebia I 1414-",
+      "language": "fr",
+      "page_number": 132,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "509",
+      "title": null,
+      "content": "Les contredits, s'il s'en produit, sont portés à l'audience du tribunal",
+      "language": "fr",
+      "page_number": 133,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "510",
+      "title": null,
+      "content": "Quand le règlement définitif est passé en force de chose jugée, des",
+      "language": "fr",
+      "page_number": 133,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "511",
+      "title": null,
+      "content": "Tous les délais fixés pour l'exercice d'un droit par les dispositions",
+      "language": "fr",
+      "page_number": 133,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "512",
+      "title": null,
+      "content": "Tous les délais prévus au présent code sont des délais francs ; le",
+      "language": "fr",
+      "page_number": 133,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "513",
+      "title": null,
+      "content": "Sont considérés comme jours fériés pour l'application du présent",
+      "language": "fr",
+      "page_number": 133,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "514",
+      "title": null,
+      "content": "Chaque fois que l'action engagée devant les tribunaux a pour objet",
+      "language": "fr",
+      "page_number": 133,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "515",
+      "title": null,
+      "content": "(complété par la Loi n° 48-01 promulguée par le Dahir n° 1-02-12",
+      "language": "fr",
+      "page_number": 133,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "516",
+      "title": null,
+      "content": "Les convocations, notifications, communications, sommations, avis",
+      "language": "fr",
+      "page_number": 134,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "517",
+      "title": null,
+      "content": "Par dérogation aux règles de compétence prévues au présent code,",
+      "language": "fr",
+      "page_number": 134,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "518",
+      "title": null,
+      "content": "Les prescriptions régissant la compétence territoriale et le domicile",
+      "language": "fr",
+      "page_number": 134,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "519",
+      "title": null,
+      "content": "Le domicile de toute personne physique est au lieu où elle a son",
+      "language": "fr",
+      "page_number": 134,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "520",
+      "title": null,
+      "content": "La résidence est le lieu où la personne se trouve effectivement à un",
+      "language": "fr",
+      "page_number": 135,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "521",
+      "title": null,
+      "content": "Le domicile légal d'un incapable est au lieu du domicile de son",
+      "language": "fr",
+      "page_number": 135,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "522",
+      "title": null,
+      "content": "Sauf dispositions légales contraires, le domicile d'une société est au",
+      "language": "fr",
+      "page_number": 135,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "523",
+      "title": null,
+      "content": "Toute personne physique n'ayant pas de domicile légal peut",
+      "language": "fr",
+      "page_number": 135,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "524",
+      "title": null,
+      "content": "Lorsqu'il a été fait élection de domicile spécial pour l'exécution de",
+      "language": "fr",
+      "page_number": 135,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "525",
+      "title": null,
+      "content": "Tout étranger peut posséder un domicile au Maroc en se",
+      "language": "fr",
+      "page_number": 135,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "526",
+      "title": null,
+      "content": "Le Marocain qui fixe en pays étranger sa résidence principale ne",
+      "language": "fr",
+      "page_number": 136,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "527",
+      "title": null,
+      "content": "Quand il s'agit de recevoir un témoignage, un serment, une caution,",
+      "language": "fr",
+      "page_number": 136,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    },
+    {
+      "article_number": "528",
+      "title": null,
+      "content": "Dans tous les cas où l'exercice d'une voie de recours comporte",
+      "language": "fr",
+      "page_number": 136,
+      "code_name": "Code de Procédure Civile",
+      "official_ref": "Dahir n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)"
+    }
+  ],
+  "raw_text_length": 263674,
+  "raw_text_preview": "\n--- Page 1 ---\nDahir portant loi n° 1-74-447 (11 ramadan 1394) promulgué  le texte du \nCode de procédure civile (B.O. 30 septembre 1974). \nVu la Constitution et notamment son article 102. \nArticle Premier : Est approuvé le texte formant Code de procédure civile tel qu'il \nest publié en annexe au présent dahir portant loi. \nArticle 2 : Les dispositions de ce code recevront application dans toute l'étendue \ndu Royaume à dater du 14 ramadan 1394 (1er octobre 1974). \nArticle 3 : Les cours et tribun"
+}

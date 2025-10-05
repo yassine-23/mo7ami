@@ -1,0 +1,3277 @@
+{
+  "success": true,
+  "metadata": {
+    "name": "Code de Procédure Pénale",
+    "name_ar": "قانون المسطرة الجنائية",
+    "url": "https://www.ahjucaf.org/sites/default/files/2022-01/Code_procedure_penale_fr_0.pdf",
+    "filename": "code_procedure_penale.pdf",
+    "domain": "penal_law",
+    "language": "fr",
+    "priority": 6,
+    "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+  },
+  "language": "fr",
+  "total_articles": 362,
+  "articles": [
+    {
+      "article_number": "2",
+      "title": null,
+      "content": "Sont abrogées, à compter de l'entrée en vigueur dudit code, à l’exception de la loi n°",
+      "language": "fr",
+      "page_number": 3,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "1",
+      "title": null,
+      "content": "Les textes publiés ci-après et relatifs à la procédure en matière pénale sont réunis en",
+      "language": "fr",
+      "page_number": 3,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "2",
+      "title": null,
+      "content": "L'action publique est mise en mouvement et exercée par les magistrats ou par les",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "3",
+      "title": null,
+      "content": "Hors les cas prévus par la loi, l'action publique n'est pas subordonnée à l'existence d'une",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "4",
+      "title": null,
+      "content": "L'action publique s'éteint par :",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "5",
+      "title": null,
+      "content": "Sauf dispositions spéciales de la loi, l'action publique qui résulte d'un crime se prescrit",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "1",
+      "title": null,
+      "content": "Toute infraction donne ouverture à une action publique ayant pour but l'application des",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "6",
+      "title": null,
+      "content": "S'il a été fait, au cours des délais de prescription énumérés à l'article précédent, des actes",
+      "language": "fr",
+      "page_number": 5,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "7",
+      "title": null,
+      "content": "L'action civile appartient à tous ceux qui ont personnellement souffert du dommage causé",
+      "language": "fr",
+      "page_number": 5,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "8",
+      "title": null,
+      "content": "L'action civile se prescrit dans les mêmes conditions et délais que l'action publique",
+      "language": "fr",
+      "page_number": 5,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "9",
+      "title": null,
+      "content": "La police judiciaire est chargée de constater les infractions, d'en rassembler les preuves,",
+      "language": "fr",
+      "page_number": 5,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "10",
+      "title": null,
+      "content": "La police judiciaire est exercée sous l'autorité du Procureur Général de la République et,",
+      "language": "fr",
+      "page_number": 5,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "11",
+      "title": null,
+      "content": "Les officiers de police judiciaire visés aux 2°, 3° et 4° de l'article 10 sont les auxiliaires",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "12",
+      "title": null,
+      "content": "Les juges cantonaux peuvent, dans leurs circonscriptions, faire personnellement ou",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "13",
+      "title": null,
+      "content": "Les officiers de police judiciaire visés aux 3° et 4° de l'article 10 doivent :",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "13",
+      "title": null,
+      "content": "bis (Ajouté par la loi n° 87-70 du 26 novembre 1987 et modifié par la loi",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "14",
+      "title": null,
+      "content": "Comme officier de police judiciaire, le juge d'instruction peut constater toute infraction",
+      "language": "fr",
+      "page_number": 7,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "15",
+      "title": null,
+      "content": "Les cheikhs sont chargés de constater, dans la limite de leurs circonscriptions",
+      "language": "fr",
+      "page_number": 7,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "16",
+      "title": null,
+      "content": "Lorsque plusieurs officiers de police judiciaire se trouvent saisis d'une même affaire, c'est",
+      "language": "fr",
+      "page_number": 8,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "17",
+      "title": null,
+      "content": "Les officiers de police judiciaire ont le droit, chacun dans la limite de ses attributions, de",
+      "language": "fr",
+      "page_number": 8,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "18",
+      "title": null,
+      "content": "Les plaintes et les dénonciations volontaires peuvent être faites verbalement devant un",
+      "language": "fr",
+      "page_number": 8,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "19",
+      "title": null,
+      "content": "Les plaintes, dénonciations et procès-verbaux sont transmis, sans délai, par les officiers",
+      "language": "fr",
+      "page_number": 8,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "20",
+      "title": null,
+      "content": "Le ministère public met en mouvement et exerce l'action publique. Il requiert",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "21",
+      "title": null,
+      "content": "Le ministère public est tenu de prendre des réquisitions écrites conformes aux",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "22",
+      "title": null,
+      "content": "Le Procureur Général de la République4 est chargé, sous l'autorité du Secrétaire d'Etat à",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "23",
+      "title": null,
+      "content": "Le secrétaire d'Etat à la justice peut dénoncer au Procureur Général de la République les",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "24",
+      "title": null,
+      "content": "L'avocat général représente en personne ou par ses substituts le ministère public auprès",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "1",
+      "title": null,
+      "content": "— Lʹemploi de procureur général de la République est supprimé. Les attributions juridictionnelles du",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "2",
+      "title": null,
+      "content": "— Sont abrogées, toutes les dispositions antérieures contraires à la présente loi et notamment le décret",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "25",
+      "title": null,
+      "content": "Le Procureur de la République représente en personne ou par ses substituts le ministère",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "26",
+      "title": null,
+      "content": "Le procureur de la République est chargé de la constatation de toutes les infractions, de la",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "27",
+      "title": null,
+      "content": "Sont compétents, le procureur de la République du lieu de l'infraction, celui du domicile",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "28",
+      "title": null,
+      "content": "En cas de crime, le procureur de la République doit aviser immédiatement le procureur",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "29",
+      "title": null,
+      "content": "Toutes les autorités et tous les fonctionnaires publics sont tenus de dénoncer au procureur",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "30",
+      "title": null,
+      "content": "Le procureur de la République apprécie la suite à donner aux plaintes et dénonciations",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "31",
+      "title": null,
+      "content": "Le procureur de la République, en présence d'une plainte insuffisamment motivée ou",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "32",
+      "title": null,
+      "content": "Le plaignant peut, sans être obligé de se constituer partie civile, réclamer la restitution",
+      "language": "fr",
+      "page_number": 11,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "33",
+      "title": null,
+      "content": "Il y a crime ou délit flagrant :",
+      "language": "fr",
+      "page_number": 11,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "34",
+      "title": null,
+      "content": "Dans tous les cas de crime ou délit flagrant, le procureur de la République réunit au droit",
+      "language": "fr",
+      "page_number": 11,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "35",
+      "title": null,
+      "content": "En cas de crime flagrant, le juge d'instruction peut, dans sa circonscription, faire",
+      "language": "fr",
+      "page_number": 11,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "36",
+      "title": null,
+      "content": "Le classement de l'affaire par le procureur de la République ne fait pas obstacle au droit",
+      "language": "fr",
+      "page_number": 11,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "37",
+      "title": null,
+      "content": "L'action civile poursuivie en même temps que l'action publique conformément à l'article",
+      "language": "fr",
+      "page_number": 12,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "38",
+      "title": null,
+      "content": "La juridiction saisie ou le juge d'instruction apprécie la recevabilité de la constitution de",
+      "language": "fr",
+      "page_number": 12,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "39",
+      "title": null,
+      "content": "La constitution de partie civile est faite au moyen d'une requête écrite signée par le",
+      "language": "fr",
+      "page_number": 12,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "40",
+      "title": null,
+      "content": "La partie civile doit élire domicile au siège de la juridiction saisie de l'affaire. Faute de",
+      "language": "fr",
+      "page_number": 12,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "41",
+      "title": null,
+      "content": "La partie civile qui se désiste expressément dans les quarante-huit heures de sa",
+      "language": "fr",
+      "page_number": 12,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "42",
+      "title": null,
+      "content": "La partie lésée ne peut se constituer partie civile pour la première fois devant la",
+      "language": "fr",
+      "page_number": 12,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "43",
+      "title": null,
+      "content": "La personne qui s'est constituée partie civile ne peut plus être entendue comme témoin.",
+      "language": "fr",
+      "page_number": 12,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "44",
+      "title": null,
+      "content": "Il est interdit de publier, avant toute décision judiciaire, toute information relative à des",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "45",
+      "title": null,
+      "content": "Quand, après une information ouverte sur constitution de partie civile, une décision de",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "46",
+      "title": null,
+      "content": "En cas de relaxe, le tribunal peut prononcer une amende de cinquante dinars contre la",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "47",
+      "title": null,
+      "content": "L'instruction préparatoire est obligatoire en matière de crime; sauf dispositions spéciales,",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "48",
+      "title": null,
+      "content": "Les fonctions de juge d'instruction sont confiées à un magistrat désigné par décret. En cas",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "49",
+      "title": null,
+      "content": "Lorsqu'il existe dans un tribunal plusieurs juges d'instruction, le procureur de la",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "50",
+      "title": null,
+      "content": "Le juge d'instruction a pour mission d'instruire les procédures pénales, de rechercher",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "51",
+      "title": null,
+      "content": "Le juge d'instruction est saisi irrévocablement par le réquisitoire d'information.",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "52",
+      "title": null,
+      "content": "Peut être saisi de l'affaire, le juge d'instruction du lieu de l'infraction, celui du domicile de",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "53",
+      "title": null,
+      "content": "Assisté de son greffier, le juge d'instruction entend les témoins, interroge les inculpés et",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "54",
+      "title": null,
+      "content": "Le juge d'instruction peut procéder ou faire procéder, par les officiers de police judiciaire",
+      "language": "fr",
+      "page_number": 15,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "55",
+      "title": null,
+      "content": "Dans son réquisitoire introductif, et à toute époque de l'information par réquisitoire",
+      "language": "fr",
+      "page_number": 15,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "56",
+      "title": null,
+      "content": "Le juge d'instruction se transporte d'office ou sur réquisition du procureur de la",
+      "language": "fr",
+      "page_number": 15,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "57",
+      "title": null,
+      "content": "(Modifié par la loi n° 87-70 du 26 novembre 1987). (5)",
+      "language": "fr",
+      "page_number": 15,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "58",
+      "title": null,
+      "content": "Si les nécessités de l'information l'exigent, le juge d'instruction peut se transporter avec",
+      "language": "fr",
+      "page_number": 16,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "59",
+      "title": null,
+      "content": "Le juge d'instruction a le droit d'entendre toutes personnes dont il estime le témoignage",
+      "language": "fr",
+      "page_number": 16,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "60",
+      "title": null,
+      "content": "Les témoins sont cités par la voie administrative ou par huissier-notaire.",
+      "language": "fr",
+      "page_number": 16,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "61",
+      "title": null,
+      "content": "Toute personne citée comme témoin est tenue de comparaître, de prêter serment et de",
+      "language": "fr",
+      "page_number": 17,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "62",
+      "title": null,
+      "content": "Lorsque le témoin se trouve dans l'impossibilité de répondre à la citation, sa déclaration",
+      "language": "fr",
+      "page_number": 17,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "63",
+      "title": null,
+      "content": "Peuvent être entendus sans prestation de serment et à titre de renseignements par le juge",
+      "language": "fr",
+      "page_number": 17,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "64",
+      "title": null,
+      "content": "Le témoin, avant d'être entendu, doit prêter serment de dire la vérité toute la vérité rien",
+      "language": "fr",
+      "page_number": 17,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "65",
+      "title": null,
+      "content": "Les témoins sont entendus séparément et hors la présence de l'inculpé; ils déposent sans",
+      "language": "fr",
+      "page_number": 17,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "66",
+      "title": null,
+      "content": "Dans le cas où l'inculpé ou les témoins ne parlent pas la langue arabe, un interprète est",
+      "language": "fr",
+      "page_number": 18,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "67",
+      "title": null,
+      "content": "Le témoin qui demande une indemnité est taxé par le procureur de la République.",
+      "language": "fr",
+      "page_number": 18,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "68",
+      "title": null,
+      "content": "Dans le cas où l'inculpé est libre, il est convoqué par écrit pour être interrogé. La",
+      "language": "fr",
+      "page_number": 18,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "69",
+      "title": null,
+      "content": "Lors de la première comparution, le juge d'instruction constate l'identité de l'inculpé, lui",
+      "language": "fr",
+      "page_number": 18,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "70",
+      "title": null,
+      "content": "L'inculpé détenu est autorisé à communiquer à tout moment avec son conseil, aussitôt",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "71",
+      "title": null,
+      "content": "L'inculpé est soumis à l'examen du service de l'identité judiciaire en vue de faire vérifier",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "72",
+      "title": null,
+      "content": "Le juge entend d'abord séparément les inculpés, ensuite les confronte entre eux ou avec",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "73",
+      "title": null,
+      "content": "Le Procureur de la République peut assister aux interrogatoires et confrontations de",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "74",
+      "title": null,
+      "content": "Si l'inculpé refuse de répondre ou simule des infirmités qui l'en empêcheraient, le juge",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "75",
+      "title": null,
+      "content": "Si le procureur de la République, l'inculpé, le civilement responsable ou la partie civile,",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "76",
+      "title": null,
+      "content": "Le juge d'instruction présente à l'inculpé les pièces à conviction afin qu'il déclare s'il les",
+      "language": "fr",
+      "page_number": 20,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "77",
+      "title": null,
+      "content": "En cas de démence de l'inculpé survenue depuis l'infraction, il est sursis à la mise en",
+      "language": "fr",
+      "page_number": 20,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "78",
+      "title": null,
+      "content": "Lorsque l'inculpé n'a pas comparu ou se trouve dans l'un des cas prévus à l'article 85, le",
+      "language": "fr",
+      "page_number": 20,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "79",
+      "title": null,
+      "content": "Après exécution du mandat d'amener, le juge d'instruction interroge l'inculpé dans les",
+      "language": "fr",
+      "page_number": 20,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "80",
+      "title": null,
+      "content": "Après interrogatoire de l'inculpé, le juge d'instruction peut",
+      "language": "fr",
+      "page_number": 20,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "81",
+      "title": null,
+      "content": "Le mandat de dépôt est rédigé, daté, signé et scellé par le juge d'instruction. Il indique",
+      "language": "fr",
+      "page_number": 21,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "82",
+      "title": null,
+      "content": "L'officier chargé de l'exécution du mandat remet le prévenu au surveillant-chef de la",
+      "language": "fr",
+      "page_number": 21,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "83",
+      "title": null,
+      "content": "(Modifié par la loi n° 87-70 du 26 novembre 1987).",
+      "language": "fr",
+      "page_number": 21,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "84",
+      "title": null,
+      "content": "La détention préventive est une mesure exceptionnelle. Lorsqu'elle est ordonnée, les",
+      "language": "fr",
+      "page_number": 21,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "85",
+      "title": null,
+      "content": "(Modifié par la loi n° 93-114 du 22 novembre 1993). (6)",
+      "language": "fr",
+      "page_number": 21,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "85",
+      "title": null,
+      "content": "(avant dernier paragraphe ajouté par la loi n°2008-75 du 11 décembre",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "85",
+      "title": null,
+      "content": "(dernier paragraphe nouveau modifié par la loi n°2008-75 du 11",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "86",
+      "title": null,
+      "content": "(Modifié par la loi n° 87-70 du 26 novembre 1987).",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "87",
+      "title": null,
+      "content": "(Modifié par la loi n° 93-114 du 22 novembre 1993).",
+      "language": "fr",
+      "page_number": 23,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "88",
+      "title": null,
+      "content": "L'ordonnance de mise en liberté provisoire de l'inculpé n'empêche pas le juge",
+      "language": "fr",
+      "page_number": 23,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "89",
+      "title": null,
+      "content": "Le cautionnement consiste, soit dans le dépôt d'une somme en numéraire, de chèques",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "90",
+      "title": null,
+      "content": "Le cautionnement garantit :",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "91",
+      "title": null,
+      "content": "Si l'inculpé ne se présente pas, sans motif légitime d'excuse, à tous les actes de la",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "92",
+      "title": null,
+      "content": "La mise en liberté provisoire peut être demandée en tout état de cause à la juridiction",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "93",
+      "title": null,
+      "content": "Les perquisitions, sont effectuées dans tous les lieux où peuvent se trouver des objets",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "94",
+      "title": null,
+      "content": "Les perquisitions domiciliaires sont de la compétence exclusive du juge d'instruction.",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "95",
+      "title": null,
+      "content": "Aucune perquisition ne peut être faite avant six heures et après vingt heures dans les",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "96",
+      "title": null,
+      "content": "Le juge d'instruction, ou l'officier de police judiciaire qui procède à une visite",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "97",
+      "title": null,
+      "content": "Le juge d'instruction doit rechercher et saisir les papiers ou effets susceptibles de servir à",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "98",
+      "title": null,
+      "content": "Lorsque l'objet saisi est sujet à dépérissement ou de conservation onéreuse, le juge peut,",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "99",
+      "title": null,
+      "content": "Le juge d'instruction peut ordonner la saisie de tout objet, correspondance et autres",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "100",
+      "title": null,
+      "content": "Toute personne qui prétend avoir droit sur des objets sous la main de la justice peut en",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "101",
+      "title": null,
+      "content": "Le juge d'instruction peut, lorsque les circonstances paraissent l'exiger, commettre un ou",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "102",
+      "title": null,
+      "content": "Toute ordonnance commettant des experts doit leur impartir un délai pour remplir leur",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "103",
+      "title": null,
+      "content": "Lorsque les opérations d'expertise sont terminées, les experts rédigent un rapport qui doit",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "104",
+      "title": null,
+      "content": "Quand la procédure est terminée, le juge d'instruction la communique au procureur de la",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "104",
+      "title": null,
+      "content": "bis (ajouté par la loi n°2008-75 du 11 décembre 2008)",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "105",
+      "title": null,
+      "content": "Si le juge d'instruction se reconnaît incompétent, il doit rendre une ordonnance de",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "106",
+      "title": null,
+      "content": "(Modifié par la loi n° 93-114 du 22 novembre 1993).",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "107",
+      "title": null,
+      "content": "(Modifié par la loi n° 93-114 du 22 novembre 1993).",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "108",
+      "title": null,
+      "content": "Le procureur de la République pourvoit à l'exécution des ordonnances rendues par le juge",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "109",
+      "title": null,
+      "content": "Les ordonnances du juge d'instruction sont immédiatement communiquées au procureur",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "110",
+      "title": null,
+      "content": "L'appel est formé par déclaration écrite ou verbale; il est reçu par le greffier de",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "111",
+      "title": null,
+      "content": "Dans les cas de renvoi, soit devant le juge cantonal, soit devant le tribunal correctionnel,",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "112",
+      "title": null,
+      "content": "Chaque cour d'Appel comprend au moins une chambre d'accusation. La chambre",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "113",
+      "title": null,
+      "content": "Les fonctions du ministère public auprès de la chambre d'accusation sont exercées par",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "114",
+      "title": null,
+      "content": "L'avocat général près la Cour d'Appel saisie dans les conditions prescrites à l'article 107,",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "115",
+      "title": null,
+      "content": "Les dispositions de l'article précédent sont applicables aux affaires renvoyées devant la",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "116",
+      "title": null,
+      "content": "Si la chambre d'accusation estime que le fait ne constitue pas une infraction, ou qu'il n'y a",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "117",
+      "title": null,
+      "content": "La chambre d'accusation peut toujours décerner mandat de dépôt contre l'inculpé. Elle",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "118",
+      "title": null,
+      "content": "Si la chambre d'accusation estime que les faits constituent un délit ou une contravention,",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "119",
+      "title": null,
+      "content": "Si les faits retenus à la charge des inculpés constituent une infraction qualifiée crime par",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "120",
+      "title": null,
+      "content": "Les décisions de la chambre d'accusation sont communiquées ou notifiées conformément",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "121",
+      "title": null,
+      "content": "L'inculpé à l'égard duquel le juge d'instruction ou la chambre d'accusation a dit n'y avoir",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "122",
+      "title": null,
+      "content": "(Modifié par la loi n° 89-23 du 27 février 1989).",
+      "language": "fr",
+      "page_number": 31,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "123",
+      "title": null,
+      "content": "(Modifié par la loi n° 80-15 du 3 avril 1980).",
+      "language": "fr",
+      "page_number": 31,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "124",
+      "title": null,
+      "content": "(Modifié par la loi n° 2000-43 du 17 avril 2000).",
+      "language": "fr",
+      "page_number": 31,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "125",
+      "title": null,
+      "content": "Les aggravations de pénalité, dans tous les cas de récidive, ne modifient pas la",
+      "language": "fr",
+      "page_number": 31,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "126",
+      "title": null,
+      "content": "(Modifié par la loi n°2000-43 du 17 avril 2000).",
+      "language": "fr",
+      "page_number": 31,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "129",
+      "title": null,
+      "content": "(Modifié par la loi n°2005-85 du 15 août 2005).",
+      "language": "fr",
+      "page_number": 32,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "130",
+      "title": null,
+      "content": "Sont connexes, les infractions :",
+      "language": "fr",
+      "page_number": 32,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "131",
+      "title": null,
+      "content": "En cas d'infractions connexes, aux termes de l'article précédent ou dans d'autres cas",
+      "language": "fr",
+      "page_number": 32,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "132",
+      "title": null,
+      "content": "Les tribunaux peuvent juger, suivant les règles du droit civil, les exceptions préalables de",
+      "language": "fr",
+      "page_number": 32,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "132",
+      "title": null,
+      "content": "bis (Ajouté par la loi n° 93-114 du 22 novembre 1993)",
+      "language": "fr",
+      "page_number": 33,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "133",
+      "title": null,
+      "content": "Les dispositions du présent chapitre sont communes à toutes les juridictions.",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "134",
+      "title": null,
+      "content": "Les citations, sauf dispositions contraires de la loi, sont faites, soit par la voie",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "135",
+      "title": null,
+      "content": "La citation est délivrée à la requête du ministère public, de la partie civile ou de toute",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "136",
+      "title": null,
+      "content": "Le délai entre le jour où la citation est délivrée et le jour fixé pour la comparution à",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "137",
+      "title": null,
+      "content": "La citation de l'inculpé détenu est faite par l'intermédiaire du surveillant chef de la prison.",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "138",
+      "title": null,
+      "content": "Si l'audience est renvoyée à jour fixe, il n'est pas donné de nouvelle citation.",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "139",
+      "title": null,
+      "content": "La citation doit être remise à la personne de l'intéressé, à son mandataire, à son",
+      "language": "fr",
+      "page_number": 34,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "141",
+      "title": null,
+      "content": "Le prévenu poursuivi pour un crime ou pour un délit puni d'emprisonnement est tenu de",
+      "language": "fr",
+      "page_number": 35,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "142",
+      "title": null,
+      "content": "(Modifié par la loi n° 87-70 du 26 novembre 1987).",
+      "language": "fr",
+      "page_number": 35,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "143",
+      "title": null,
+      "content": "Le président a la direction des débats et la police de l'audience.",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "144",
+      "title": null,
+      "content": "Le tribunal entend d'office les témoins dont il juge l'audition utile.",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "145",
+      "title": null,
+      "content": "Après avoir répondu à l'appel de leurs noms, les témoins et experts sont conduits dans",
+      "language": "fr",
+      "page_number": 36,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "146",
+      "title": null,
+      "content": "Dans toutes les hypothèses où il paraît nécessaire d'entendre un détenu, la juridiction",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "147",
+      "title": null,
+      "content": "Le prévenu qui trouble les débats par son attitude peut être éloigné de l'audience. Les",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "148",
+      "title": null,
+      "content": "Si le prévenu refuse de répondre, il est passé outre aux débats et le jugement est réputé",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "149",
+      "title": null,
+      "content": "Le greffier rédige à l'audience un résumé des débats. Il y mentionne spécialement la",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "150",
+      "title": null,
+      "content": "Hors les cas où la loi en dispose autrement, les infractions peuvent être établies par tout",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "151",
+      "title": null,
+      "content": "Le juge ne peut fonder sa décision que sure des preuves versées aux débats et discutées",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "152",
+      "title": null,
+      "content": "L'aveu, comme tout élément de preuve, est laissé à la libre appréciation des juges.",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "153",
+      "title": null,
+      "content": "Si l'existence de l'infraction est subordonnée à celle d'un droit privé, le juge observe les",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "154",
+      "title": null,
+      "content": "Sauf dans les cas où la loi en dispose autrement, les procès- verbaux ou rapports établis",
+      "language": "fr",
+      "page_number": 37,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "155",
+      "title": null,
+      "content": "Le procès-verbal n'a force probante qu'autant qu'il est régulier en la forme et que son",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "156",
+      "title": null,
+      "content": "Les matières donnant lieu à des procès-verbaux faisant foi jusqu'à inscription de faux",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "157",
+      "title": null,
+      "content": "Si le tribunal estime qu'une expertise est nécessaire, il est procédé conformément aux",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "158",
+      "title": null,
+      "content": "Les témoins sont cités ainsi qu'il est dit aux articles 134 et suivants.",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "159",
+      "title": null,
+      "content": "Les dispositions des articles 61 et 67 sont applicables devant les juridictions de jugement.",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "160",
+      "title": null,
+      "content": "Les personnes visées à l'article 63 peuvent être entendues à l'audience sans prestation 'de",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "161",
+      "title": null,
+      "content": "S'il apparaît qu'au cours des débats, un témoin a fait sciemment une déclaration contraire",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "162",
+      "title": null,
+      "content": "(Modifié par l'article 3 de la loi n° 89-23 du 27 février 1989).",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "163",
+      "title": null,
+      "content": "Le président recueille les avis en commençant par le juge le moins ancien; il donne son",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "164",
+      "title": null,
+      "content": "Le tribunal prononce son jugement après avoir délibéré conformément à la loi une fois",
+      "language": "fr",
+      "page_number": 38,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "165",
+      "title": null,
+      "content": "La délibération est secrète. Il ne doit en subsister aucune trace écrite. Ne peuvent y",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "166",
+      "title": null,
+      "content": "Les jugements prononcés après délibéré à l'audience ou ultérieurement doivent être",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "167",
+      "title": null,
+      "content": "Il est statué par le même jugement :",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "168",
+      "title": null,
+      "content": "Tout jugement indique :",
+      "language": "fr",
+      "page_number": 39,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "169",
+      "title": null,
+      "content": "Si le fait est de la compétence d'une autre juridiction, le tribunal se déclare incompétent",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "170",
+      "title": null,
+      "content": "Si le tribunal estime que le fait ne constitue aucune infraction à la loi pénale, ou que le",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "171",
+      "title": null,
+      "content": "Si la cour criminelle, régulièrement saisie d'un fait qualifié crime par la loi, estime, au",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "172",
+      "title": null,
+      "content": "Si le fait est une contravention connexe à un délit, le tribunal statue par un seul et même",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "173",
+      "title": null,
+      "content": "Dans le cas où le prévenu est libre, s'il est condamné à l'emprisonnement, ou à",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "174",
+      "title": null,
+      "content": "Quand l'individu coupable d'une infraction est demeuré inconnu, la confiscation, la",
+      "language": "fr",
+      "page_number": 40,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "175",
+      "title": null,
+      "content": "Faute par le prévenu touché personnellement de comparaître à la date qui lui est fixée, le",
+      "language": "fr",
+      "page_number": 41,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "176",
+      "title": null,
+      "content": "Si la signification n'a pas été faite à personne ou s'il ne résulte pas des actes d'exécution",
+      "language": "fr",
+      "page_number": 41,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "177",
+      "title": null,
+      "content": "Les frais de la procédure et du jugement par défaut peuvent être portés à la charge de",
+      "language": "fr",
+      "page_number": 41,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "178",
+      "title": null,
+      "content": "Les dispositions des articles 175, 176 et 177 ci-dessus sont applicables au civilement",
+      "language": "fr",
+      "page_number": 41,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "179",
+      "title": null,
+      "content": "Le droit d'opposition n'appartient à la partie civile que pour les dommages intérêts et",
+      "language": "fr",
+      "page_number": 41,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "180",
+      "title": null,
+      "content": "(Modifié par la loi n°2000-43 du 17 avril 2000).",
+      "language": "fr",
+      "page_number": 41,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "181",
+      "title": null,
+      "content": "Les décisions réputées contradictoires ne sont pas susceptibles d'opposition.",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "182",
+      "title": null,
+      "content": "Si l'opposant comparaît, et si son opposition est recevable en la forme, le jugement par",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "183",
+      "title": null,
+      "content": "L'opposition est non avenue et le fond n'est pas examiné si l'opposant ne comparaît pas;",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "184",
+      "title": null,
+      "content": "Le prévenu, la partie civile ou la personne civilement responsable, peut réclamer au",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "185",
+      "title": null,
+      "content": "Toute personne autre que le prévenu, la partie civile ou la personne civilement",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "186",
+      "title": null,
+      "content": "Si le tribunal accorde la restitution, il peut prendre toutes mesures conservatoires pour",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "187",
+      "title": null,
+      "content": "Si le tribunal estime, que les objets placés sous la main de la justice sont utiles à la",
+      "language": "fr",
+      "page_number": 42,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "188",
+      "title": null,
+      "content": "Le jugement qui rejette une demande de restitution est susceptible d'appel de la part de la",
+      "language": "fr",
+      "page_number": 43,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "189",
+      "title": null,
+      "content": "Le tribunal qui a connu de l'affaire demeure compétent pour ordonner la restitution des",
+      "language": "fr",
+      "page_number": 43,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "190",
+      "title": null,
+      "content": "Lorsque la cour d'appel est saisie du fond de l'affaire, elle est compétente pour statuer sur",
+      "language": "fr",
+      "page_number": 43,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "191",
+      "title": null,
+      "content": "Les frais de procédure sont mis à la charge du condamné.",
+      "language": "fr",
+      "page_number": 43,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "192",
+      "title": null,
+      "content": "La partie civile est toujours condamnée au paiement des frais de justice envers l'Etat, sauf",
+      "language": "fr",
+      "page_number": 43,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "193",
+      "title": null,
+      "content": "Les conseils des parties ont le droit d'obtenir, sur renvoi ou citation devant la juridiction",
+      "language": "fr",
+      "page_number": 44,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "194",
+      "title": null,
+      "content": "Il peut être délivré aux parties et à leurs frais :",
+      "language": "fr",
+      "page_number": 44,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "195",
+      "title": null,
+      "content": "Lorsque la minute d'une décision judiciaire non encore exécutée a été détruite, enlevée ou",
+      "language": "fr",
+      "page_number": 44,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "196",
+      "title": null,
+      "content": "Si une grosse ou une expédition de la décision a pu être retrouvée, elle tient lieu de",
+      "language": "fr",
+      "page_number": 44,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "197",
+      "title": null,
+      "content": "Si aucune grosse ou expédition de la décision n'a pu être retrouvée, l'affaire est jugée à",
+      "language": "fr",
+      "page_number": 45,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "198",
+      "title": null,
+      "content": "Lorsque le dossier d'une procédure non encore définitivement jugée a été détruit, enlevé",
+      "language": "fr",
+      "page_number": 45,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "199",
+      "title": null,
+      "content": "Sont annulés, tous actes ou décisions contraires aux dispositions d'ordre public, aux",
+      "language": "fr",
+      "page_number": 45,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "200",
+      "title": null,
+      "content": "Le juge cantonal est saisi des contraventions :",
+      "language": "fr",
+      "page_number": 45,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "201",
+      "title": null,
+      "content": "Le prévenu comparaît en audience publique, en personne, par avocat ou par fondé de",
+      "language": "fr",
+      "page_number": 46,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "202",
+      "title": null,
+      "content": "Le juge peut retenir à sa disposition sous mandat de dépôt, le prévenu en état d'ivresse,",
+      "language": "fr",
+      "page_number": 46,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "203",
+      "title": null,
+      "content": "(Modifié par la loi n° 93-113 du 22 novembre 1993).",
+      "language": "fr",
+      "page_number": 46,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "204",
+      "title": null,
+      "content": "En matière de délits, le juge cantonal est saisi- dans les conditions prévues par l'article",
+      "language": "fr",
+      "page_number": 46,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "205",
+      "title": null,
+      "content": "(Modifié par la loi n° 93-114 du 22 novembre 1993).",
+      "language": "fr",
+      "page_number": 47,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "206",
+      "title": null,
+      "content": "Le tribunal de première instance est saisi :",
+      "language": "fr",
+      "page_number": 47,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "207",
+      "title": null,
+      "content": "(Modifié par la loi n°2000-43 du 17 avril 2000).",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "208",
+      "title": null,
+      "content": "(Modifié par la loi n° 93-114 du 22 novembre 1993).",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "209",
+      "title": null,
+      "content": "(Modifié par la loi n°2000-43 du 17 avril 2000).",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "210",
+      "title": null,
+      "content": "(Modifié par la loi n°2000-43 du 17 avril 2000).",
+      "language": "fr",
+      "page_number": 49,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "211",
+      "title": null,
+      "content": "L'appel ne peut être interjeté que par l'intéressé ou par son représentant.",
+      "language": "fr",
+      "page_number": 50,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "212",
+      "title": null,
+      "content": "L'appel est interjeté au greffe du tribunal qui a rendu le jugement, soit par déclaration",
+      "language": "fr",
+      "page_number": 50,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "213",
+      "title": null,
+      "content": "L'appel n'est plus recevable, sauf cas de force majeure, s'il n'a été fait dix jours au plus",
+      "language": "fr",
+      "page_number": 50,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "214",
+      "title": null,
+      "content": "Pendant le délai et l'instance d'appel, il est sursis à l'exécution du jugement. Néanmoins,",
+      "language": "fr",
+      "page_number": 50,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "215",
+      "title": null,
+      "content": "L'acte d'appel et les pièces de la procédure sont transmis sans délai au représentant du",
+      "language": "fr",
+      "page_number": 50,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "216",
+      "title": null,
+      "content": "La juridiction d'appel peut, sur l'appel du ministère public, soit confirmer le jugement,",
+      "language": "fr",
+      "page_number": 51,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "217",
+      "title": null,
+      "content": "Les parties appelantes, à l'exception du ministère public, peuvent se désister de leur",
+      "language": "fr",
+      "page_number": 51,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "218",
+      "title": null,
+      "content": "En cas de jugement rendu au fond, si la juridiction d'appel estime que la procédure est",
+      "language": "fr",
+      "page_number": 51,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "219",
+      "title": null,
+      "content": "Si le jugement attaqué est un jugement d'incompétence et que la juridiction d'appel",
+      "language": "fr",
+      "page_number": 51,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "220",
+      "title": null,
+      "content": "Si le jugement attaqué est un jugement de compétence et que la juridiction d'appel estime",
+      "language": "fr",
+      "page_number": 51,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "221",
+      "title": null,
+      "content": "(Modifié par la loi n°2000-43 du 17 avril 2000 et les alinéas 1, 5 et 6 ont",
+      "language": "fr",
+      "page_number": 51,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "221",
+      "title": null,
+      "content": "(Modifié par la loi n° 2000-43 du 17 avril 2000).",
+      "language": "fr",
+      "page_number": 52,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "223",
+      "title": null,
+      "content": "(Modifié par la loi n° 2000-43 du 17 avril 2000).",
+      "language": "fr",
+      "page_number": 52,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "258",
+      "title": null,
+      "content": "Peuvent se pourvoir en cassation contre les décisions rendues sur le fond et en dernier",
+      "language": "fr",
+      "page_number": 53,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "259",
+      "title": null,
+      "content": "L'arrêt de la chambre d'accusation portant renvoi du prévenu devant le tribunal",
+      "language": "fr",
+      "page_number": 53,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "260",
+      "title": null,
+      "content": "La partie civile ne peut se pourvoir en cassation contre les arrêts de la chambre",
+      "language": "fr",
+      "page_number": 53,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "261",
+      "title": null,
+      "content": "« Le pourvoi en cassation est formé par requête écrite présentée, personnellement ou par",
+      "language": "fr",
+      "page_number": 54,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "261",
+      "title": null,
+      "content": "(paragraphes quatre et cinq ajouté par la loi n° 2008-75 du 11 décembre",
+      "language": "fr",
+      "page_number": 54,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "262",
+      "title": null,
+      "content": "« Le pourvoi en cassation est non recevable, sauf cas de force majeure, s’il n’a pas été",
+      "language": "fr",
+      "page_number": 54,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "263",
+      "title": null,
+      "content": "Le greffier ne doit accepter la requête que si elle est accompagnée de la quittance de",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "263",
+      "title": null,
+      "content": "bis (nouveau ajouté par la loi n° 2008-75 du 11 décembre2008).",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "264",
+      "title": null,
+      "content": "nouveaux (modifié par la loi n° 2007-26 du 7 mai 2007)",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "265",
+      "title": null,
+      "content": "Le pourvoi en cassation ne suspend l'exécution de la décision attaquée qu'en cas de",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "266",
+      "title": null,
+      "content": "Pourvoi sur pourvoi ne vaut, et ce, même si le délai est encore ouvert ou si le pourvoi a",
+      "language": "fr",
+      "page_number": 55,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "267",
+      "title": null,
+      "content": "La cour de cassation siège et statue en chambre du conseil.",
+      "language": "fr",
+      "page_number": 56,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "268",
+      "title": null,
+      "content": "La cour de cassation statuant en matière pénale se compose d'un président et de deux",
+      "language": "fr",
+      "page_number": 56,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "269",
+      "title": null,
+      "content": "La cour de cassation statue dans les limites des moyens soulevés sauf si l'objet de la",
+      "language": "fr",
+      "page_number": 56,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "270",
+      "title": null,
+      "content": "Lorsque le pourvoi en cassation émane d'une partie autre que le ministère public, la",
+      "language": "fr",
+      "page_number": 56,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "271",
+      "title": null,
+      "content": "Lorsque la peine prononcée est la même que celle édictée par la loi applicable à",
+      "language": "fr",
+      "page_number": 56,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "272",
+      "title": null,
+      "content": "Lorsque la cour casse avec renvoi, elle renvoie l'affaire pour nouvel examen à la",
+      "language": "fr",
+      "page_number": 56,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "273",
+      "title": null,
+      "content": "L'arrêt de cassation remet la cause en l'état où elle était avant la décision cassée, et ce,",
+      "language": "fr",
+      "page_number": 57,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "274",
+      "title": null,
+      "content": "Les chambres réunies statuant en matière pénale se composent du premier président, des",
+      "language": "fr",
+      "page_number": 57,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "275",
+      "title": null,
+      "content": "Les chambres réunies siègent également chaque fois qu'il s'agit d'assurer l'unité de la",
+      "language": "fr",
+      "page_number": 57,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "276",
+      "title": null,
+      "content": "Le procureur général près la cour de cassation peut nonobstant l'expiration du délai de",
+      "language": "fr",
+      "page_number": 57,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "277",
+      "title": null,
+      "content": "La révision n'est ouverte que pour la réparation d'une erreur de fait commise au détriment",
+      "language": "fr",
+      "page_number": 57,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "278",
+      "title": null,
+      "content": "Le droit de demander la révision appartient dans les trois premiers, cas :",
+      "language": "fr",
+      "page_number": 58,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "279",
+      "title": null,
+      "content": "Les demandes en révision sont présentées dans tous les cas au secrétaire d'Etat à la",
+      "language": "fr",
+      "page_number": 58,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "280",
+      "title": null,
+      "content": "Si la décision de condamnation n'a pas été exécutée, l'exécution sera suspendue de plein",
+      "language": "fr",
+      "page_number": 58,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "281",
+      "title": null,
+      "content": "La juridiction saisie de la demande en révision siégeant en audience publique statue",
+      "language": "fr",
+      "page_number": 58,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "283",
+      "title": null,
+      "content": "La demande en révision est soumise aux règles de procédure applicables devant la",
+      "language": "fr",
+      "page_number": 59,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "284",
+      "title": null,
+      "content": "Dans tous les procès pour faux en écriture, la pièce arguée de faux est, dès sa production,",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "285",
+      "title": null,
+      "content": "Tout dépositaire public ou particulier de pièces arguées de faux ou de pièces pouvant",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "286",
+      "title": null,
+      "content": "Les pièces fournies pour servir de comparaison sont signées comme il est dit à l'article",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "287",
+      "title": null,
+      "content": "Si au cours d'une audience d'un tribunal ou d'une cour une pièce de la procédure, ou une",
+      "language": "fr",
+      "page_number": 60,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "288",
+      "title": null,
+      "content": "Les membres du gouvernement sont entendus dans leur demeure ou leur cabinet. Ils ne",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "289",
+      "title": null,
+      "content": "En cas de nécessité absolue, les membres du gouvernement peuvent comparaître comme",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "290",
+      "title": null,
+      "content": "La déposition d'un représentant d'une puissance étrangère est demandée par l'entremise",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "291",
+      "title": null,
+      "content": "Il y a lieu à règlement de juges lorsque deux tribunaux se sont déclarés compétents ou",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "292",
+      "title": null,
+      "content": "Il est réglé de juges par la cour de cassation qui est saisie par le procureur général près",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "293",
+      "title": null,
+      "content": "La décision de règlement est notifiée par le greffier de la cour de cassation au",
+      "language": "fr",
+      "page_number": 61,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "294",
+      "title": null,
+      "content": "En matière criminelle, correctionnelle et de contravention, la cour de cassation peut, sur",
+      "language": "fr",
+      "page_number": 62,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "295",
+      "title": null,
+      "content": "(Modifié par la loi n°2000-43 du 17 avril 2000).",
+      "language": "fr",
+      "page_number": 62,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "296",
+      "title": null,
+      "content": "L'inculpé, la partie civile ou toute partie à l'instance qui, pour l'une des cause énoncées au",
+      "language": "fr",
+      "page_number": 62,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "297",
+      "title": null,
+      "content": "Les membres du ministère public ne peuvent être récusés.",
+      "language": "fr",
+      "page_number": 62,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "298",
+      "title": null,
+      "content": "La partie n'est plus admise à récuser le magistrat lorsque, connaissant la cause de",
+      "language": "fr",
+      "page_number": 62,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "299",
+      "title": null,
+      "content": "Le premier président notifie en la 'forme administrative la requête dont il a été saisi au",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "300",
+      "title": null,
+      "content": "Le premier président reçoit, s'il y a lieu, les explications du demandeur et celles du",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "301",
+      "title": null,
+      "content": "L'ordonnance statuant sur la récusation n'est susceptible d'aucune voie de recours. Elle",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "302",
+      "title": null,
+      "content": "Toute demande de récusation visant le premier président d'une cour d'appel, un président",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "303",
+      "title": null,
+      "content": "Le demandeur en récusation qui succombe est condamné à une amende de vingt à cent",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "304",
+      "title": null,
+      "content": "Aucun magistrat ne peut se récuser d'office sans l'autorisation du premier président de la",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "305",
+      "title": null,
+      "content": "Tout citoyen tunisien qui, hors du territoire de la République, s'est rendu coupable d'un",
+      "language": "fr",
+      "page_number": 63,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "306",
+      "title": null,
+      "content": "Aucune poursuite ne peut être dirigée contre un étranger pour crime ou délit commis sur",
+      "language": "fr",
+      "page_number": 64,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "307",
+      "title": null,
+      "content": "Tout étranger qui, hors du territoire de la République, s'est rendu coupable soit comme",
+      "language": "fr",
+      "page_number": 64,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "307",
+      "title": null,
+      "content": "bis (Ajouté par la loi n° 93-113 du 22 novembre 1993)",
+      "language": "fr",
+      "page_number": 64,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "308",
+      "title": null,
+      "content": "Sauf dispositions contraires contenues dans les traités, les conditions, la procédure et les",
+      "language": "fr",
+      "page_number": 64,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "309",
+      "title": null,
+      "content": "Nul ne peut être livré à un Etat étranger, s'il n'est l'objet de poursuites ou d'une",
+      "language": "fr",
+      "page_number": 64,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "310",
+      "title": null,
+      "content": "Le gouvernement peut livrer, sur leur demande, aux gouvernements des pays étrangers,",
+      "language": "fr",
+      "page_number": 64,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "311",
+      "title": null,
+      "content": "L'extradition est accordée :",
+      "language": "fr",
+      "page_number": 65,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "312",
+      "title": null,
+      "content": "L'extradition n'est pas accordée :",
+      "language": "fr",
+      "page_number": 65,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "313",
+      "title": null,
+      "content": "(Modifié par la loi n° 93-113 du 22 novembre 1993).",
+      "language": "fr",
+      "page_number": 65,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "314",
+      "title": null,
+      "content": "Si pour une infraction unique, l'extradition est demandée concurremment par plusieurs",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "315",
+      "title": null,
+      "content": "Dans le cas où un étranger est poursuivi ou a été condamné en Tunisie, et où son",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "316",
+      "title": null,
+      "content": "Toute demande d'extradition est adressée au gouvernement Tunisien par voie",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "317",
+      "title": null,
+      "content": "La demande d'extradition est, après vérification des pièces transmise avec le dossier par",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "318",
+      "title": null,
+      "content": "Lorsque le secrétaire d'Etat à la justice estime qu'il y a lieu d'accueillir la demande",
+      "language": "fr",
+      "page_number": 66,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "320",
+      "title": null,
+      "content": "L'étranger est transféré dans le plus bref délai à Tunis et écroué à la prison civile.",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "321",
+      "title": null,
+      "content": "L'examen des demandes d'extradition est de la compétence de la chambre d'accusation de",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "322",
+      "title": null,
+      "content": "Si lors de sa comparution, l'étranger déclare renoncer au bénéfice des dispositions",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "323",
+      "title": null,
+      "content": "Dans le cas contraire, la chambre d'accusation, statuant sans recours, donne son avis",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "324",
+      "title": null,
+      "content": "Lorsque l'avis est favorable, le gouvernement est libre d'accorder ou non l'extradition. Si",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "325",
+      "title": null,
+      "content": "En cas d'urgence et sur la demande directe des autorités judiciaires de l'Etat requérant, les",
+      "language": "fr",
+      "page_number": 67,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "326",
+      "title": null,
+      "content": "L'individu arrêté provisoirement dans les conditions prévues par l'article précédent, peut,",
+      "language": "fr",
+      "page_number": 68,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "327",
+      "title": null,
+      "content": "Le transit à travers le territoire tunisien d'un individu, livré par un autre gouvernement,",
+      "language": "fr",
+      "page_number": 68,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "328",
+      "title": null,
+      "content": "La chambre d'accusation décide s'il y a lieu ou non de transmettre en tout ou en partie les",
+      "language": "fr",
+      "page_number": 68,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "329",
+      "title": null,
+      "content": "L'extradé ne peut être poursuivi ou condamné pour une infraction antérieure à la remise,",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "330",
+      "title": null,
+      "content": "Est considéré comme soumis sans réserve à l'application des lois de l'Etat requérant, à",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "331",
+      "title": null,
+      "content": "En cas de poursuites répressives, non politiques dans un pays étranger, les commissions",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "332",
+      "title": null,
+      "content": "En cas de poursuites répressives exercées à l'étranger, lorsqu'un gouvernement étranger",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "333",
+      "title": null,
+      "content": "Lorsque, dans une cause pénale instruite à l'étranger, le Gouvernement étranger juge",
+      "language": "fr",
+      "page_number": 69,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "334",
+      "title": null,
+      "content": "Si dans une cause pénale, la comparution personnelle d'un témoin résidant en Tunisie est",
+      "language": "fr",
+      "page_number": 70,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "335",
+      "title": null,
+      "content": "L'envoi des individus détenus, en vue d'une confrontation, doit être demandé par la voie",
+      "language": "fr",
+      "page_number": 70,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "336",
+      "title": null,
+      "content": "(Modifié par la loi n° 2002-92 du 29 octobre 2002).",
+      "language": "fr",
+      "page_number": 72,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "336",
+      "title": null,
+      "content": "bis (Ajouté par la loi n°99-90 du 2 août 1999).",
+      "language": "fr",
+      "page_number": 72,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "336",
+      "title": null,
+      "content": "ter :( ajouté par la loi n°2009-68 du 12 août 2009)",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "337",
+      "title": null,
+      "content": "Dans les cas graves et exceptionnels, le procureur général de la République peut accorder",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "338",
+      "title": null,
+      "content": "L'exécution a lieu lorsque la décision est devenue définitive.",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "339",
+      "title": null,
+      "content": "Le Procureur Général de la République, les avocats généraux près les cours d'Appel et les",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "340",
+      "title": null,
+      "content": "Tous incidents contentieux relatifs à l'exécution sont portés devant la juridiction qui a",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "341",
+      "title": null,
+      "content": "Le tribunal ou la Cour, sur requête du ministère public ou de la partie intéressée, statue",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "342",
+      "title": null,
+      "content": "Lorsque la peine prononcée est la mort, le procureur général de la République, dès que la",
+      "language": "fr",
+      "page_number": 73,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "342",
+      "title": null,
+      "content": "bis (Ajouté par la loi n° 2000-77 du 31 juillet 2000 et modifié par la loi",
+      "language": "fr",
+      "page_number": 74,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "342-3",
+      "title": null,
+      "content": "(Ajouté par la loi n° 2000-77 du 31 juillet 2000).",
+      "language": "fr",
+      "page_number": 74,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "342-4",
+      "title": null,
+      "content": "(Ajouté par la loi n° 2000-77 du 31 juillet 2000).",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "342-5",
+      "title": null,
+      "content": "(Ajouté par la loi n° 2000-77 du 31 juillet 2000).",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "343",
+      "title": null,
+      "content": "(Modifié par la loi n° 99-90 du 2 août 1999).",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "344",
+      "title": null,
+      "content": "La contrainte par corps est exécutée à raison de un jour d'emprisonnement par trois dinars",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "345",
+      "title": null,
+      "content": "(Modifié par la loi n° 99-90 du 2 août 1999).",
+      "language": "fr",
+      "page_number": 75,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "346",
+      "title": null,
+      "content": "(Modifié par la loi n° 99-90 du 2 août 1999).",
+      "language": "fr",
+      "page_number": 76,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "346",
+      "title": null,
+      "content": "bis (Ajouté par la loi n° 99-90 du 2 août 1999).",
+      "language": "fr",
+      "page_number": 76,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "347",
+      "title": null,
+      "content": "Lorsque la contrainte par corps a pris fin pour une cause quelconque, elle ne peut plus",
+      "language": "fr",
+      "page_number": 76,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "348",
+      "title": null,
+      "content": "(Modifié par la n° 99-90 du 2 août 1999).",
+      "language": "fr",
+      "page_number": 76,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "349",
+      "title": null,
+      "content": "Les peines prononcées pour crimes se prescrivent par vingt ans révolus. Néanmoins, si la",
+      "language": "fr",
+      "page_number": 76,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "350",
+      "title": null,
+      "content": "La prescription est suspendue par tout obstacle de droit ou de fait empêchant l'exécution",
+      "language": "fr",
+      "page_number": 77,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "350",
+      "title": null,
+      "content": "bis :(ajouté par la loi n°2009-68 du 12 août 2009)",
+      "language": "fr",
+      "page_number": 77,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "351",
+      "title": null,
+      "content": "Les condamnations civiles prononcées par les arrêts ou par les jugements rendus en",
+      "language": "fr",
+      "page_number": 77,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "352",
+      "title": null,
+      "content": "Le décès du condamné éteint toutes les peines principales et complémentaires mais il n'a",
+      "language": "fr",
+      "page_number": 77,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "353",
+      "title": null,
+      "content": "Pourra être admis au bénéfice de la libération conditionnelle, tout condamné ayant à subir",
+      "language": "fr",
+      "page_number": 77,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "354",
+      "title": null,
+      "content": "La libération conditionnelle ne' peut être accordée qu'aux condamnés ayant déjà purgé",
+      "language": "fr",
+      "page_number": 77,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "355",
+      "title": null,
+      "content": "Il peut toutefois, être dérogé aux dispositions des articles 353 et 354 ci-dessus :",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "356",
+      "title": null,
+      "content": "(Modifié par la loi n° 2001-73 du 11 juillet 2001).",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "357",
+      "title": null,
+      "content": "L'arrêté12 peut astreindre le bénéficiaire de la libération conditionnelle :",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "358",
+      "title": null,
+      "content": "L'exécution des peines complémentaires auxquelles se trouverait condamné le détenu à",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "359",
+      "title": null,
+      "content": "(Modifié par la loi n° 2001-73 du 11 juillet 2001).",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "360",
+      "title": null,
+      "content": "Après révocation, le condamné doit subir, selon les dispositions de l'arrêté13 de",
+      "language": "fr",
+      "page_number": 78,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "361",
+      "title": null,
+      "content": "Les greffiers des tribunaux sont tenus de consigner, sur un registre particulier, les nom,",
+      "language": "fr",
+      "page_number": 79,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "362",
+      "title": null,
+      "content": "Le service de l'identité judiciaire est chargé de centraliser les bulletins n° 1 et d'en",
+      "language": "fr",
+      "page_number": 79,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "363",
+      "title": null,
+      "content": "Le bulletin n° 1 constate :",
+      "language": "fr",
+      "page_number": 79,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "364",
+      "title": null,
+      "content": "Lorsque, à la suite d'une mesure prise en vertu des articles 225, 234, 235, 241 et 254, le",
+      "language": "fr",
+      "page_number": 79,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "365",
+      "title": null,
+      "content": "Le relevé intégral des bulletins n° 1 applicables à la même personne est porté sur un",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "365",
+      "title": null,
+      "content": "(avant dernier paragraphe ajouté par la loi n° 2008-75 du 11 décembre2008)",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "366",
+      "title": null,
+      "content": "Pour toute demande de rectification du casier judiciaire, il est statué en chambre de",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "367",
+      "title": null,
+      "content": "(Modifié le décret loi n° 73-14 du 29 octobre 1973, ratifié par la loi n°",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "367",
+      "title": null,
+      "content": "(le n°1 nouveau du premier paragraphe modifié par la loi n°2008-75 du",
+      "language": "fr",
+      "page_number": 80,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "368",
+      "title": null,
+      "content": "La réhabilitation ne peut être demandée que par le condamné ou, s'il est interdit, par son",
+      "language": "fr",
+      "page_number": 81,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "369",
+      "title": null,
+      "content": "En cas de rejet de la demande par la commission des grâces, une nouvelle demande ne",
+      "language": "fr",
+      "page_number": 81,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "369",
+      "title": null,
+      "content": "bis (Ajouté par la loi n° 93-114 du 22 novembre 1993).",
+      "language": "fr",
+      "page_number": 81,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "369",
+      "title": null,
+      "content": "bis (les numéros 1, 2 et 3 nouveaux du premier paragraphe modifié par",
+      "language": "fr",
+      "page_number": 81,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "370",
+      "title": null,
+      "content": "La réhabilitation efface pour l'avenir les condamnations et les incapacités qui pouvaient",
+      "language": "fr",
+      "page_number": 81,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "371",
+      "title": null,
+      "content": "La grâce consiste dans la remise de la peine, dans la réduction de sa durée, ou dans le fait",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "372",
+      "title": null,
+      "content": "Le droit de grâce est exercé par le président de la République sur le rapport du secrétaire",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "373",
+      "title": null,
+      "content": "La grâce est personnelle. Elle est ou non conditionnelle et elle ne peut porter que sur des",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "374",
+      "title": null,
+      "content": "La grâce ne peut s'étendre aux frais de justice même non recouvrés. Les amendes payées",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "375",
+      "title": null,
+      "content": "Les condamnations remises par la grâce continuent d'être des antécédents judiciaires.",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "376",
+      "title": null,
+      "content": "L'amnistie est accordée par une loi. Elle efface l'infraction ainsi que la condamnation.",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    },
+    {
+      "article_number": "377",
+      "title": null,
+      "content": "Les faits amnistiés sont réputés n'avoir jamais existé.",
+      "language": "fr",
+      "page_number": 82,
+      "code_name": "Code de Procédure Pénale",
+      "official_ref": "Loi n° 22-01 relative au Code de Procédure Pénale"
+    }
+  ],
+  "raw_text_length": 189520,
+  "raw_text_preview": "\n--- Page 1 ---\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nLE CODE  \nDE PROCÉDURE PENALE \n\n--- Page 2 ---\n \n2\n \nLoi n° 68-23 du 24 juillet 1968, portant refonte du code de procédure pénale \nAu nom du Peuple, \n \nNous, Habib Bourguiba, Président de la République Tunisienne, \n \n    L'Assemblée Nationale ayant adopté, \n    Promulguons la loi dont la teneur suit : \n \nArticle premier \nLes textes publiés ci-après et relatifs à la procédure en matière pénale sont réunis en \nun seul corps sous le titre de \"Code de "
+}

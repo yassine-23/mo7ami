@@ -1,0 +1,604 @@
+{
+  "success": true,
+  "metadata": {
+    "name": "Loi sur la Protection des Données Personnelles",
+    "name_ar": "قانون حماية البيانات الشخصية",
+    "url": "https://www.cndp.ma/images/lois/Loi-09-08-Fr.pdf",
+    "filename": "protection_donnees.pdf",
+    "domain": "data_protection",
+    "language": "fr",
+    "priority": 10,
+    "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+  },
+  "language": "fr",
+  "total_articles": 65,
+  "articles": [
+    {
+      "article_number": "1",
+      "title": null,
+      "content": "L’informatique est au service du citoyen et évolue dans le cadre de la coopération",
+      "language": "fr",
+      "page_number": 3,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "2",
+      "title": null,
+      "content": "1- La présente loi s’applique au traitement des données à caractère personnel,",
+      "language": "fr",
+      "page_number": 4,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "3",
+      "title": null,
+      "content": "1- Les données à caractère personnel doivent être :",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "4",
+      "title": null,
+      "content": "Le traitement des données, à caractère personnel ne peut être effectué que si la",
+      "language": "fr",
+      "page_number": 6,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "5",
+      "title": null,
+      "content": "Droit à l’information lors de la collecte des données",
+      "language": "fr",
+      "page_number": 7,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "6",
+      "title": null,
+      "content": "Limites au droit à l’information",
+      "language": "fr",
+      "page_number": 8,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "8",
+      "title": null,
+      "content": "Droit de rectification",
+      "language": "fr",
+      "page_number": 9,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "10",
+      "title": null,
+      "content": "Interdiction de la prospection directe",
+      "language": "fr",
+      "page_number": 10,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "11",
+      "title": null,
+      "content": "Neutralité des effets",
+      "language": "fr",
+      "page_number": 11,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "12",
+      "title": null,
+      "content": "Sauf dispositions législatives particulières, le traitement de données à caractère",
+      "language": "fr",
+      "page_number": 11,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "13",
+      "title": null,
+      "content": "La déclaration préalable prévue à l’article 12 ci-dessus, qui comporte l’engagement",
+      "language": "fr",
+      "page_number": 12,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "14",
+      "title": null,
+      "content": "Le responsable du traitement ou, le cas échéant, son représentant doit adresser une",
+      "language": "fr",
+      "page_number": 12,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "15",
+      "title": null,
+      "content": "La déclaration prévue à l’article 12 ci-dessus doit comprendre :",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "16",
+      "title": null,
+      "content": "La Commission nationale fixe la liste des catégories de traitements de données à",
+      "language": "fr",
+      "page_number": 13,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "17",
+      "title": null,
+      "content": "La Commission nationale fixe la liste des traitements non automatisés de données à",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "18",
+      "title": null,
+      "content": "L’obligation de déclaration ne s’applique pas aux traitements ayant pour seul objet la",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "19",
+      "title": null,
+      "content": "La Commission nationale délivre, dans un délai de 24 heures courant à compter de la",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "20",
+      "title": null,
+      "content": "Lorsqu’il apparaît à la Commission nationale, à l’examen de la déclaration qui lui est",
+      "language": "fr",
+      "page_number": 14,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "21",
+      "title": null,
+      "content": "1- Le traitement des données sensibles est subordonné à une autorisation de la loi",
+      "language": "fr",
+      "page_number": 15,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "22",
+      "title": null,
+      "content": "Par dérogation aux dispositions de l’article 21 ci-dessus, le traitement des données",
+      "language": "fr",
+      "page_number": 15,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "23",
+      "title": null,
+      "content": "1- Le responsable du traitement doit mettre en œuvre les mesures techniques et",
+      "language": "fr",
+      "page_number": 16,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "24",
+      "title": null,
+      "content": "1- Les responsables du traitement des données sensibles ou relatives à la santé",
+      "language": "fr",
+      "page_number": 16,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "25",
+      "title": null,
+      "content": "Toute personne agissant sous l’autorité du responsable du traitement ou de celle du",
+      "language": "fr",
+      "page_number": 17,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "26",
+      "title": null,
+      "content": "Le responsable du traitement de données à caractère personnel, ainsi que les",
+      "language": "fr",
+      "page_number": 17,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "27",
+      "title": null,
+      "content": "Il est institué auprès du Premier ministre une Commission nationale de contrôle de la",
+      "language": "fr",
+      "page_number": 18,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "28",
+      "title": null,
+      "content": "Aux fins prévues à l’article 27 (1er alinéa) ci-dessus, la Commission nationale est",
+      "language": "fr",
+      "page_number": 19,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "29",
+      "title": null,
+      "content": "Afin de permettre une mise en application appropriée de la protection des données,",
+      "language": "fr",
+      "page_number": 20,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "30",
+      "title": null,
+      "content": "La Commission nationale est dotée :",
+      "language": "fr",
+      "page_number": 20,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "31",
+      "title": null,
+      "content": "L’exercice des pouvoirs visés aux paragraphes 2 et 4 de l’article 30 ci-dessus est",
+      "language": "fr",
+      "page_number": 21,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "32",
+      "title": null,
+      "content": "La Commission nationale de contrôle de la protection des données à caractère",
+      "language": "fr",
+      "page_number": 21,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "33",
+      "title": null,
+      "content": "La Commission nationale se réunit sur convocation de son président, agissant de sa",
+      "language": "fr",
+      "page_number": 21,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "34",
+      "title": null,
+      "content": "Les réunions de la Commission nationale se tiennent valablement lorsque les deux",
+      "language": "fr",
+      "page_number": 21,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "35",
+      "title": null,
+      "content": "Les fonctions de membre de la Commission nationale sont incompatibles avec celles",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "36",
+      "title": null,
+      "content": "Les membres de la Commission nationale sont tenus au secret professionnel pour les",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "37",
+      "title": null,
+      "content": "Les membres et les fonctionnaires ou agents et techniciens de la Commission",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "38",
+      "title": null,
+      "content": "Lorsque la Commission nationale délibère sur une question mettant en cause une",
+      "language": "fr",
+      "page_number": 22,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "39",
+      "title": null,
+      "content": "La Commission nationale élabore et approuve son règlement intérieur, qui est soumis",
+      "language": "fr",
+      "page_number": 23,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "40",
+      "title": null,
+      "content": "Le président est assisté, dans l’exercice de ses fonctions administratives et financières,",
+      "language": "fr",
+      "page_number": 23,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "41",
+      "title": null,
+      "content": "Le secrétaire général dispose, pour l’exercice de ses attributions, d’un personnel",
+      "language": "fr",
+      "page_number": 23,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "42",
+      "title": null,
+      "content": "La Commission nationale crée les comités permanents ou ad hoc nécessaires à",
+      "language": "fr",
+      "page_number": 23,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "43",
+      "title": null,
+      "content": "Le responsable d’un traitement ne peut transférer des données à caractère personnel",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "44",
+      "title": null,
+      "content": "Par dérogation aux dispositions de l’article 43 ci-dessus, le responsable d’un",
+      "language": "fr",
+      "page_number": 24,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "45",
+      "title": null,
+      "content": "Il est institué un registre national de la protection des données à caractère personnel,",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "46",
+      "title": null,
+      "content": "Sont inscrits au registre national :",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "47",
+      "title": null,
+      "content": "Les fichiers dont le traitement a pour seul objet la tenue d’un registre qui, en vertu de",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "48",
+      "title": null,
+      "content": "Les modalités d’inscription des données prévues à l’article 46 ci-dessus au registre",
+      "language": "fr",
+      "page_number": 25,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "49",
+      "title": null,
+      "content": "Les traitements de données à caractère personnel relatives aux infractions,",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "50",
+      "title": null,
+      "content": "La création, la tenue et le traitement de registres centraux concernant les personnes",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "51",
+      "title": null,
+      "content": "Sans préjudice des sanctions pénales, lorsqu’il apparaît, à la suite de la mise en",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "52",
+      "title": null,
+      "content": "Sans préjudice de la responsabilité civile à l’égard des personnes ayant subi des",
+      "language": "fr",
+      "page_number": 26,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "53",
+      "title": null,
+      "content": "Est puni d’une amende de 20.000 à 200.000 DH par infraction, tout responsable de",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "54",
+      "title": null,
+      "content": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "55",
+      "title": null,
+      "content": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "56",
+      "title": null,
+      "content": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "57",
+      "title": null,
+      "content": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 50.000 à",
+      "language": "fr",
+      "page_number": 27,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "58",
+      "title": null,
+      "content": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "59",
+      "title": null,
+      "content": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "60",
+      "title": null,
+      "content": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "61",
+      "title": null,
+      "content": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "62",
+      "title": null,
+      "content": "Est puni d’un emprisonnement de trois à six mois d’une amende de 10.000 à 50.000",
+      "language": "fr",
+      "page_number": 28,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "63",
+      "title": null,
+      "content": "Tout responsable qui refuse d’appliquer les décisions de la Commission nationale est",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "64",
+      "title": null,
+      "content": "Lorsque l’auteur de l’une des infractions prévues et sanctionnées au titre du présent",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "65",
+      "title": null,
+      "content": "En cas de récidive, les sanctions prévues au présent chapitre sont portées au double.",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "66",
+      "title": null,
+      "content": "Outre les officiers de police judiciaire, les agents de la Commission nationale",
+      "language": "fr",
+      "page_number": 29,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    },
+    {
+      "article_number": "67",
+      "title": null,
+      "content": "Les personnes physiques ou morales dont l’activité consistait, avant la date de",
+      "language": "fr",
+      "page_number": 30,
+      "code_name": "Loi sur la Protection des Données Personnelles",
+      "official_ref": "Loi n° 09-08 relative à la protection des personnes physiques"
+    }
+  ],
+  "raw_text_length": 61463,
+  "raw_text_preview": "\n--- Page 1 ---\n-1- \n \nBULLETIN OFFICIEL N° 5714 - 7 rabii I 1430 (5-3-2009) \n \nDahir n° 1-09-15 du 22 safar 1430 (18 février 2009) portant promulgation de \nla loi n° 09-08 relative à la protection des personnes physiques à l’égard du \ntraitement des données à caractère personnel \nLOUANGE A DIEU SEUL ! \n(Grand Sceau de Sa Majesté Mohamed VI) \nQue l’on sache par les présentes – puisse Dieu en élever et en fortifier la teneur ! \nQue Notre Majesté Chérifienne, \nVu la Constitution, notamment ses art"
+}

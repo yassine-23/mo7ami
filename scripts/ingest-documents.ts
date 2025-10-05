@@ -316,4 +316,4 @@ if (require.main === module) {
     });
 }
 
-export { ingestSampleDocuments, ingestDocument };
+export { ingestSampleDocuments };

@@ -233,7 +233,7 @@ function extractCitations(chunks: RetrievedChunk[]): Citation[] {
 async function generateFallbackResponse(
   query: string,
   language: Language,
-  domain: string | null
+  domain: string | null | undefined
 ): Promise<GeneratedAnswer> {
   const fallbackMessage =
     language === 'ar'
@@ -265,6 +265,6 @@ Voulez-vous reformuler votre question?`;
     ],
     language,
     retrievedChunks: 0,
-    domain,
+    domain: domain || null,
   };
 }
