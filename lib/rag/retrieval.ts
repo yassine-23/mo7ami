@@ -32,8 +32,8 @@ export async function retrieveRelevantChunks(
   options: RetrievalOptions = {}
 ): Promise<RetrievedChunk[]> {
   const {
-    matchThreshold = 0.7,
-    matchCount = 5,
+    matchThreshold = 0.30,  // Increased for quality matching (was 0.05)
+    matchCount = 10,
     filterDomain,
     filterLanguage,
   } = options;
@@ -42,8 +42,9 @@ export async function retrieveRelevantChunks(
     // Generate embedding for the query
     const { embedding } = await generateEmbedding(query);
 
-    // Auto-detect language if not specified
-    const language = filterLanguage || detectLanguage(query);
+    // DON'T filter by language for cross-lingual search
+    // Documents are in French but queries can be in Arabic
+    // OpenAI embeddings are multilingual and will find matches across languages
 
     // Call Supabase function for similarity search
     const supabase = getServiceSupabase();
@@ -52,7 +53,7 @@ export async function retrieveRelevantChunks(
       match_threshold: matchThreshold,
       match_count: matchCount,
       filter_domain: filterDomain || null,
-      filter_language: language,
+      filter_language: null,  // Allow cross-lingual matching
     });
 
     if (error) {
@@ -121,14 +122,15 @@ export async function searchDocumentsByDomain(
  * Can be enhanced with ML classification later
  */
 export function detectLegalDomain(query: string): string | undefined {
+  // Domain names must match database values: penal_law, civil_law, etc.
   const domainKeywords: Record<string, string[]> = {
-    penal: ['سرقة', 'جريمة', 'عقوبة', 'قتل', 'سجن', 'vol', 'crime', 'peine', 'prison', 'pénal'],
-    civil: ['عقد', 'التزام', 'دين', 'contrat', 'obligation', 'dette', 'civil'],
-    family: ['طلاق', 'زواج', 'حضانة', 'إرث', 'مودونة', 'divorce', 'mariage', 'garde', 'héritage', 'moudawana'],
-    labor: ['عمل', 'أجير', 'شغل', 'travail', 'salarié', 'employé', 'licenciement'],
-    commercial: ['شركة', 'تجارة', 'إفلاس', 'société', 'commerce', 'faillite'],
+    penal_law: ['سرقة', 'جريمة', 'عقوبة', 'قتل', 'سجن', 'vol', 'crime', 'peine', 'prison', 'pénal'],
+    civil_law: ['عقد', 'التزام', 'دين', 'contrat', 'obligation', 'dette', 'civil'],
+    family_law: ['طلاق', 'زواج', 'حضانة', 'إرث', 'مودونة', 'divorce', 'mariage', 'garde', 'héritage', 'moudawana'],
+    labor_law: ['عمل', 'أجير', 'شغل', 'travail', 'salarié', 'employé', 'licenciement'],
+    commercial_law: ['شركة', 'تجارة', 'إفلاس', 'société', 'commerce', 'faillite'],
     real_estate: ['عقار', 'ملكية', 'كراء', 'immobilier', 'propriété', 'bail'],
-    tax: ['ضريبة', 'ضرائب', 'impôt', 'taxe', 'fiscal'],
+    tax_law: ['ضريبة', 'ضرائب', 'impôt', 'taxe', 'fiscal'],
     consumer: ['مستهلك', 'ضمان', 'consommateur', 'garantie', 'protection'],
   };
 

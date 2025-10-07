@@ -23,10 +23,12 @@ sentence-transformers==2.3.1
 faiss-cpu==1.7.4
 chromadb==0.4.22
 
-# Voice Processing
-google-cloud-speech==2.24.0
-google-cloud-texttospeech==2.15.0
-azure-cognitiveservices-speech==1.34.1
+# Voice Processing (100% OpenAI)
+# google-cloud-speech==2.24.0  # DEPRECATED - using OpenAI Whisper
+# google-cloud-texttospeech==2.15.0  # DEPRECATED - using OpenAI TTS-1-HD
+# azure-cognitiveservices-speech==1.34.1  # Not implemented
+pydub==0.25.1  # Audio processing for Whisper optimization
+ffmpeg-python==0.2.0  # Audio codec support
 
 # Arabic Text Processing
 arabic-reshaper==3.0.0

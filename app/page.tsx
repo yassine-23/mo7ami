@@ -213,15 +213,19 @@ export default function HomePage() {
                 {currentLanguage === 'tz' && 'ⵉⵎⴷⵢⴰⵜⵏ ⵏ ⵉⵙⵇⵙⵉⵜⵏ:'}
               </h3>
               <div className="grid gap-3 max-w-3xl mx-auto">
-                {currentQuestions.map((question, i) => (
-                  <div
-                    key={`${currentQuestionSet}-${i}`}
-                    className="p-4 bg-white rounded-lg border border-gray-200 hover:border-teal-600 hover:shadow-md transition-all cursor-pointer animate-fade-in"
-                    style={{ animationDelay: `${i * 100}ms` }}
-                  >
-                    <p className="text-gray-700">{question}</p>
-                  </div>
-                ))}
+                {currentQuestions.map((question, i) => {
+                  const targetLang = currentLanguage === 'fr' ? 'fr' : 'ar';
+                  return (
+                    <Link
+                      key={`${currentQuestionSet}-${i}`}
+                      href={`/chat?prompt=${encodeURIComponent(question)}&lang=${targetLang}`}
+                      className="p-4 bg-white rounded-lg border border-gray-200 hover:border-teal-600 hover:shadow-md transition-all cursor-pointer animate-fade-in"
+                      style={{ animationDelay: `${i * 100}ms` }}
+                    >
+                      <p className="text-gray-700">{question}</p>
+                    </Link>
+                  );
+                })}
               </div>
               <p className="mt-4 text-sm text-gray-500 flex items-center justify-center gap-2">
                 <span className="inline-block w-2 h-2 bg-teal-600 rounded-full animate-pulse"></span>

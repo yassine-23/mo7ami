@@ -11,7 +11,7 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY || '',
 });
 
-const GPT_MODEL = 'gpt-4o-mini';
+const GPT_MODEL = process.env.OPENAI_MODEL || 'gpt-4o-mini';  // Pinned to stable model (GPT-5 doesn't exist)
 
 export interface Citation {
   source: string;
@@ -131,10 +131,9 @@ export async function generateLegalAnswer(
 
     // Retrieve relevant document chunks
     const retrievedChunks = await retrieveRelevantChunks(query, {
-      matchThreshold: 0.7,
-      matchCount: 5,
+      matchThreshold: 0.30,  // Increased for quality matching (was 0.05)
+      matchCount: 10,
       filterDomain: domain,
-      filterLanguage: detectedLanguage,
     });
 
     // If no chunks found, provide a fallback response

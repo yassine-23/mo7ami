@@ -137,15 +137,15 @@ cd mo7ami
 
 # 2. Install dependencies
 npm install
-pip3 install requests
+pip3 install -r backend/requirements.txt
 
 # 3. Configure your API key
 cp .env.example .env
 # Edit .env and add your OpenAI API key
 
 # 4. Start the application
-npm run dev                           # Terminal 1 (Frontend)
-cd backend && python3 openai_server.py  # Terminal 2 (Backend)
+npm run dev                                # Terminal 1 (Frontend)
+cd backend && uvicorn main:app --reload     # Terminal 2 (Backend)
 
 # 5. Open your browser
 # Visit: http://localhost:3000/chat
@@ -159,6 +159,26 @@ For complete setup instructions including database configuration, see [SETUP_INS
 
 ---
 
+### 🔍 Verify RAG Pipeline
+
+Once your Supabase database is seeded with legal documents and embeddings, you can run an end-to-end retrieval + generation check from the project root:
+
+```bash
+python3 scripts/verify_rag.py "شنو كايقول القانون على السرقة؟" --language ar --top-k 5
+```
+
+The script will surface the chunks pulled from pgvector, the generated answer, and the citations returned by the backend so you can confirm that responses trace back to the ingested sources.
+
+---
+
+### 🙋 Usage Limits
+
+- أي مستخدم يمكنه طرح خمس أسئلة مجانية يومياً دون إنشاء حساب
+- تسجيل الدخول يمنحك عشرة أسئلة مجانية في اليوم نفسه، مع حفظ المحادثات لأغراض التدقيق
+- يتم إعادة تعيين الحصة يومياً (حسب التوقيت العالمي المنسق)
+
+---
+
 ## 🏗️ Technology Stack
 
 ### Frontend
@@ -169,15 +189,15 @@ For complete setup instructions including database configuration, see [SETUP_INS
 - **NextAuth.js**: Authentication (Google OAuth ready)
 
 ### Backend
-- **Python**: Simple HTTP server
-- **OpenAI API**: GPT-4o-mini for intelligent responses
-- **OpenAI TTS**: Text-to-speech in multiple languages
+- **FastAPI**: Async API server for chat, retrieval, and voice endpoints
+- **OpenAI API**: GPT-4 family for generation + embeddings
+- **Google Cloud Speech**: Production-grade STT/TTS pipeline
 
 ### AI & Legal Knowledge
 - **GPT-4o-mini**: Advanced language understanding
 - **Custom Prompts**: Specialized for Moroccan law
 - **Citation System**: Automatic reference to legal sources
-- **RAG Architecture** *(coming soon)*: Vector embeddings for document retrieval
+- **RAG Architecture**: pgvector-powered legal retrieval & embeddings
 
 ---
 
